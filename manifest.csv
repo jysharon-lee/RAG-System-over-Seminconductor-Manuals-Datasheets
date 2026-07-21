@@ -1,0 +1,9 @@
+part_number,manufacturer,category,url,notes
+TPS7A4700,Texas Instruments,LDO,https://www.ti.com/lit/ds/symlink/tps7a4700.pdf,Ultra-low-noise LDO - verify URL on ti.com product page
+LM317,Texas Instruments,LDO (adjustable),https://www.ti.com/lit/ds/symlink/lm317.pdf,Classic adjustable linear regulator - great for cross-manufacturer comparison
+MCP1700,Microchip,LDO,https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP1700-Family-Data-Sheet-DS20001826.pdf,Low quiescent current LDO - verify current URL on microchip.com
+LM2596,Texas Instruments,Buck converter,https://www.ti.com/lit/ds/symlink/lm2596.pdf,Simple step-down switching regulator - well documented
+TPS62840,Texas Instruments,Buck converter,https://www.ti.com/lit/ds/symlink/tps62840.pdf,High-efficiency buck converter
+TPS61030,Texas Instruments,Boost converter,https://www.ti.com/lit/ds/symlink/tps61030.pdf,Step-up switching regulator
+LTC3406,Analog Devices,Buck converter,,Search analog.com for current PDF link - ADI restructured URLs after Linear Tech acquisition
+NCV891330,onsemi,LDO,,Search onsemi.com product page for current PDF link
