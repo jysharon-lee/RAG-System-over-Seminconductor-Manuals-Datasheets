@@ -47,11 +47,21 @@ SECTION_PATTERNS = [
 
 SECTION_REGEX = re.compile("|".join(SECTION_PATTERNS), re.IGNORECASE)
 
+# Standalone fragments like pin numbers on a pinout diagram ("1", "2", "3.3V"
+# axis ticks on a graph, lone "+"/"-" symbols). These carry no retrievable
+# meaning on their own and just inflate the chunk count with noise.
+NOISE_PATTERN = re.compile(r"^[\d\.\-–+/,%]{1,3}$")
+
+
+def is_noise(text: str) -> bool:
+    return bool(NOISE_PATTERN.match(text.strip()))
+
 
 def extract_text_chunks(pdf_path: Path, part_number: str):
     """Extract text per page, tagging each block with the current section."""
     chunks = []
     current_section = "General / Overview"
+    noise_filtered = 0
 
     with fitz.open(pdf_path) as doc:
         for page_num, page in enumerate(doc, start=1):
@@ -59,15 +69,37 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
             blocks.sort(key=lambda b: (b[1], b[0]))  # reading order: top-to-bottom, left-to-right
 
             for block in blocks:
-                text = block[4].strip()
-                if not text:
+                raw = block[4].strip()
+                if not raw:
                     continue
 
-                match = SECTION_REGEX.search(text)
-                if match and len(text) < 80:
-                    # Short line matching a section header pattern - treat as
-                    # a new section boundary rather than body text.
-                    current_section = text.splitlines()[0].strip()
+                lines = raw.splitlines()
+                first_line = lines[0].strip()
+
+                # Only test the FIRST LINE against the header patterns, not
+                # the whole block - PyMuPDF frequently merges a heading with
+                # the note/line that follows it into a single block, and
+                # checking the whole block's length was causing real section
+                # boundaries to be missed entirely.
+                match = SECTION_REGEX.search(first_line)
+                if match and len(first_line) < 80:
+                    current_section = first_line
+                    # If the block had more content after the heading line,
+                    # keep it as body text under the NEW section rather than
+                    # discarding it.
+                    remainder = "\n".join(lines[1:]).strip()
+                    if remainder and not is_noise(remainder):
+                        chunks.append({
+                            "part_number": part_number,
+                            "page_number": page_num,
+                            "section": current_section,
+                            "type": "text",
+                            "content": remainder,
+                        })
+                    continue
+
+                if is_noise(raw):
+                    noise_filtered += 1
                     continue
 
                 chunks.append({
@@ -75,8 +107,11 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
                     "page_number": page_num,
                     "section": current_section,
                     "type": "text",
-                    "content": text,
+                    "content": raw,
                 })
+
+    if noise_filtered:
+        print(f"  filtered {noise_filtered} noise fragments (pin/graph labels)")
 
     return chunks
 
