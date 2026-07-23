@@ -32,21 +32,21 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "The LM317 is an adjustable three-pin, positive-voltage \nregulator capable of supplying more than 1.5A over \nan output voltage range of 1.25V to 37V. The device \nrequires only two external resistors to set the output \nvoltage. The device features a typical line regulation \nof 0.01% and typical load regulation of 0.1%. The \nLM317 includes current limiting, thermal overload \nprotection, and safe operating area protection. \nOverload protection remains functional even if the \nADJUST pin is disconnected."
+    "content": "The LM317 is an adjustable three-pin, positive-voltage\nregulator capable of supplying more than 1.5A over\nan output voltage range of 1.25V to 37V. The device\nrequires only two external resistors to set the output\nvoltage. The device features a typical line regulation\nof 0.01% and typical load regulation of 0.1%. The\nLM317 includes current limiting, thermal overload\nprotection, and safe operating area protection.\nOverload protection remains functional even if the\nADJUST pin is disconnected."
   },
   {
     "part_number": "LM317",
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "\u2022\nOutput voltage range:\n\u2013\nAdjustable: 1.25V to 37V\n\u2022\nOutput current: 1.5A\n\u2022\nLine regulation: 0.01%/V (typ)\n\u2022\nLoad regulation: 0.1% (typ)\n\u2022\nInternal short-circuit current limiting\n\u2022\nThermal overload protection\n\u2022\nOutput safe-area compensation (new chip)\n\u2022\nPSRR: 80dB at 120Hz for CADJ = 10\u03bcF (new chip)\n\u2022\nPackages:\n\u2013\n4-pin, SOT-223 (DCY)\n\u2013\n3-pin, TO-263 (KTT)\n\u2013\n3-pin, TO-220 (KCS, KCT), legacy chip"
+    "content": "Output voltage range:\nAdjustable: 1.25V to 37V\nOutput current: 1.5A\nLine regulation: 0.01%/V (typ)\nLoad regulation: 0.1% (typ)\nInternal short-circuit current limiting\nThermal overload protection\nOutput safe-area compensation (new chip)\nPSRR: 80dB at 120Hz for CADJ = 10\u03bcF (new chip)\nPackages:\n4-pin, SOT-223 (DCY)\n3-pin, TO-263 (KTT)\n3-pin, TO-220 (KCS, KCT), legacy chip"
   },
   {
     "part_number": "LM317",
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "Typically, no capacitors are needed unless the device \nis situated more than 6 inches from the input filter \ncapacitors. In that case, an input bypass is needed. \nAdd an optional output capacitor to improve transient \nresponse. Bypass the adjustment pin to achieve very \nhigh ripple rejection ratios that are difficult to achieve \nwith standard 3-pin regulators."
+    "content": "Typically, no capacitors are needed unless the device\nis situated more than 6 inches from the input filter\ncapacitors. In that case, an input bypass is needed.\nAdd an optional output capacitor to improve transient\nresponse. Bypass the adjustment pin to achieve very\nhigh ripple rejection ratios that are difficult to achieve\nwith standard 3-pin regulators."
   },
   {
     "part_number": "LM317",
@@ -60,7 +60,7 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "\u2022\nMultifunction printers\n\u2022\nAC drive power stage modules\n\u2022\nElectricity meters\n\u2022\nServo drive control modules\n\u2022\nMerchant network and server PSU"
+    "content": "Multifunction printers\nAC drive power stage modules\nElectricity meters\nServo drive control modules\nMerchant network and server PSU"
   },
   {
     "part_number": "LM317",
@@ -102,6 +102,13 @@
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
+    "content": "LM317"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 1,
+    "section": "Package Information",
+    "type": "text",
     "content": "VOUT"
   },
   {
@@ -109,14 +116,28 @@
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
-    "content": "VIN\nVOUT\nADJ"
+    "content": "VOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
-    "content": "(1)\nFor more information, see the Mechanical, Packaging, and \nOrderable Information.\n(2)\nThe package size (length \u00d7 width) is a nominal value and \nincludes pins, where applicable.\n(3)\nLegacy chip."
+    "content": "(1)\nFor more information, see the Mechanical, Packaging, and\nOrderable Information.\n(2)\nThe package size (length \u00d7 width) is a nominal value and\nincludes pins, where applicable.\n(3)\nLegacy chip."
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 1,
+    "section": "Package Information",
+    "type": "text",
+    "content": "R1"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 1,
+    "section": "Package Information",
+    "type": "text",
+    "content": "C1*"
   },
   {
     "part_number": "LM317",
@@ -130,7 +151,14 @@
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
-    "content": "RS\n0.2 W"
+    "content": "R2"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 1,
+    "section": "Package Information",
+    "type": "text",
+    "content": "0.2 W"
   },
   {
     "part_number": "LM317",
@@ -151,7 +179,7 @@
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
-    "content": "*Needed if the device is more than 6 inches from filter \ncapacitors."
+    "content": "*Needed if the device is more than 6 inches from filter\ncapacitors."
   },
   {
     "part_number": "LM317",
@@ -214,7 +242,7 @@
     "page_number": 1,
     "section": "Typical Application",
     "type": "text",
-    "content": "An IMPORTANT NOTICE at the end of this data sheet addresses availability, warranty, changes, use in safety-critical applications, \nintellectual property matters and other important disclaimers. PRODUCTION DATA."
+    "content": "An IMPORTANT NOTICE at the end of this data sheet addresses availability, warranty, changes, use in safety-critical applications,\nintellectual property matters and other important disclaimers. PRODUCTION DATA."
   },
   {
     "part_number": "LM317",
@@ -228,21 +256,21 @@
     "page_number": 2,
     "section": "Typical Application",
     "type": "text",
-    "content": "The regulator is floating and detects only the input-to-output differential voltage. Thus, supplies of several \nhundred volts are regulated as long as the maximum input-to-output differential is not exceeded. That is, avoid \nshort-circuiting the output."
+    "content": "The regulator is floating and detects only the input-to-output differential voltage. Thus, supplies of several\nhundred volts are regulated as long as the maximum input-to-output differential is not exceeded. That is, avoid\nshort-circuiting the output."
   },
   {
     "part_number": "LM317",
     "page_number": 2,
     "section": "Typical Application",
     "type": "text",
-    "content": "By connecting a fixed resistor between the adjustment pin and output, the LM317 is also able to be used as a \nprecision current regulator. Supplies with electronic shutdown are achieved by clamping the adjustment terminal \nto ground, which programs the output to 1.25V where most loads draw little current."
+    "content": "By connecting a fixed resistor between the adjustment pin and output, the LM317 is also able to be used as a\nprecision current regulator. Supplies with electronic shutdown are achieved by clamping the adjustment terminal\nto ground, which programs the output to 1.25V where most loads draw little current."
   },
   {
     "part_number": "LM317",
     "page_number": 2,
     "section": "Typical Application",
     "type": "text",
-    "content": "2\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -277,33 +305,82 @@
     "page_number": 3,
     "section": "Typical Application",
     "type": "text",
-    "content": "1 Features............................................................................1\n2 Applications.....................................................................1\n3 Description.......................................................................1\n4 Device Comparison Table...............................................4\n5 Pin Configuration and Functions...................................5\n6 Specifications.................................................................. 6\n6.1 Absolute Maximum Ratings........................................ 6\n6.2 ESD Ratings............................................................... 6\n6.3 Recommended Operating Conditions.........................6\n6.4 Thermal Information (Legacy Chip)............................ 7\n6.5 Thermal Information (New Chip).................................7\n6.6 Electrical Characteristics.............................................8\n6.7 Typical Characteristics................................................9\n7 Detailed Description......................................................13\n7.1 Overview...................................................................13\n7.2 Functional Block Diagram.........................................13\n7.3 Feature Description...................................................13"
+    "content": "1 Features............................................................................1\n2 Applications.....................................................................1\n3 Description.......................................................................1"
   },
   {
     "part_number": "LM317",
     "page_number": 3,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions...................................5",
     "type": "text",
-    "content": "7.4 Device Functional Modes..........................................14\n8 Application and Implementation..................................15\n8.1 Application Information............................................. 15\n8.2 Typical Application.................................................... 15\n8.3 System Examples..................................................... 17\n8.4 Power Supply Recommendations.............................23\n8.5 Layout....................................................................... 23\n9 Device and Documentation Support............................28\n9.1 Device Support......................................................... 28\n9.2 Receiving Notification of Documentation Updates....28\n9.3 Support Resources................................................... 28\n9.4 Trademarks...............................................................28\n9.5 Electrostatic Discharge Caution................................28\n9.6 Glossary....................................................................28\n10 Revision History.......................................................... 29\n11 Mechanical, Packaging, and Orderable \nInformation.................................................................... 29"
+    "content": "6 Specifications.................................................................. 6"
   },
   {
     "part_number": "LM317",
     "page_number": 3,
-    "section": "Typical Application",
+    "section": "6.1 Absolute Maximum Ratings........................................ 6",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n3"
+    "content": "6.2 ESD Ratings............................................................... 6"
   },
   {
     "part_number": "LM317",
     "page_number": 3,
-    "section": "Typical Application",
+    "section": "7 Detailed Description......................................................13",
+    "type": "text",
+    "content": "7.1 Overview...................................................................13"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "7.2 Functional Block Diagram.........................................13",
+    "type": "text",
+    "content": "7.3 Feature Description...................................................13"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "7.2 Functional Block Diagram.........................................13",
+    "type": "text",
+    "content": "7.4 Device Functional Modes..........................................14"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "8.2 Typical Application.................................................... 15",
+    "type": "text",
+    "content": "8.3 System Examples..................................................... 17"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "8.4 Power Supply Recommendations.............................23",
+    "type": "text",
+    "content": "8.5 Layout....................................................................... 23"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "9 Device and Documentation Support............................28",
+    "type": "text",
+    "content": "9.1 Device Support......................................................... 28\n9.2 Receiving Notification of Documentation Updates....28\n9.3 Support Resources................................................... 28\n9.4 Trademarks...............................................................28\n9.5 Electrostatic Discharge Caution................................28\n9.6 Glossary....................................................................28\n10 Revision History.......................................................... 29\n11 Mechanical, Packaging, and Orderable\nInformation.................................................................... 29"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "9 Device and Documentation Support............................28",
+    "type": "text",
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 3,
+    "section": "9 Device and Documentation Support............................28",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "9 Device and Documentation Support............................28",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
@@ -326,21 +403,21 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "Input voltage range\n4.25 to 40\n4.25 to 40\n4.25 to 40\n4.25 to 40\n4.25 - 60\nV"
+    "content": "Input voltage range\n4.25 to 40\n4.25 to 40\n4.25 to 40\n4.25 to 40\n4.25 - 60"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "Load regulation accuracy\n1.5\n1.5\n1.5\n1\n1.5\n%"
+    "content": "Load regulation accuracy"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "PSRR (120Hz)\n64\n80\n80\n80\n65\ndB"
+    "content": "PSRR (120Hz)"
   },
   {
     "part_number": "LM317",
@@ -354,14 +431,14 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "temperature\n0 to 125\n0 to 125\n0 to 125\n\u201340 to 125\n0 to 125\n\u00b0C"
+    "content": "temperature\n0 to 125\n0 to 125\n0 to 125\n\u201340 to 125\n0 to 125"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "TO-220 (NDE) TJA\n23.5\n23.2\n23.3\n23\n\u00b0C/W"
+    "content": "TO-220 (NDE) TJA\n23.5\n23.2\n23.3\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
@@ -382,14 +459,14 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "TO-252 TJA\nN/A\n54\n54\n\u00b0C/W"
+    "content": "TO-252 TJA\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "TO-263 TJA\n38\n41\n41\nN/A\n\u00b0C/W"
+    "content": "TO-263 TJA\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
@@ -403,7 +480,7 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "TO-92 TJA\nN/A\n186\n186\n\u00b0C/W"
+    "content": "TO-92 TJA\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
@@ -417,21 +494,21 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "Input voltage range\n3.75 to 40\nV"
+    "content": "Input voltage range\n3.75 to 40"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "Load regulation accuracy\n1.5\n%"
+    "content": "Load regulation accuracy"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "PSRR (120Hz)\n80\ndB"
+    "content": "PSRR (120Hz)"
   },
   {
     "part_number": "LM317",
@@ -452,7 +529,7 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "temperature\n\u221240 to 125\n\u00b0C"
+    "content": "temperature\n\u221240 to 125"
   },
   {
     "part_number": "LM317",
@@ -473,28 +550,28 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "LM317L \nLM317L-N"
+    "content": "LM317L\nLM317L-N"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "Input voltage range\n3.75 to 40\n4.25 to 40\nV"
+    "content": "Input voltage range\n3.75 to 40\n4.25 to 40"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "Load regulation accuracy\n1\n1.5\n%"
+    "content": "Load regulation accuracy"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "PSRR (120Hz)\n62\n80\ndB"
+    "content": "PSRR (120Hz)"
   },
   {
     "part_number": "LM317",
@@ -515,7 +592,7 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "temperature\n\u201340 to 125\n\u201340 to 125\n\u00b0C"
+    "content": "temperature\n\u201340 to 125\n\u201340 to 125"
   },
   {
     "part_number": "LM317",
@@ -529,28 +606,28 @@
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "SO-8 TJA\nN/A\n165\n\u00b0C/W"
+    "content": "SO-8 TJA\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "DSBGA TJA\nN/A\n290\n\u00b0C/W"
+    "content": "DSBGA TJA\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "TO-92 TJA\nN/A\n180\n\u00b0C/W"
+    "content": "TO-92 TJA\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
     "section": "4 Device Comparison Table",
     "type": "text",
-    "content": "4\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -697,28 +774,28 @@
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "text",
-    "content": "ADJUST\n1\n1\n1\n\u2014\nOutput voltage adjustment pin. Connect to a \nresistor divider to set VOUT."
+    "content": "ADJUST\nOutput voltage adjustment pin. Connect to a\nresistor divider to set VOUT."
   },
   {
     "part_number": "LM317",
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "text",
-    "content": "INPUT\n3\n3\n3\nI\nInput voltage pin for the regulator."
+    "content": "INPUT\nInput voltage pin for the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "text",
-    "content": "OUTPUT\n2, TAB\n2, TAB\n2, TAB\nO\nOutput voltage pin for the regulator."
+    "content": "OUTPUT\n2, TAB\n2, TAB\n2, TAB\nOutput voltage pin for the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n5"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -746,7 +823,7 @@
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "MIN\nMAX\nUNIT"
+    "content": "UNIT"
   },
   {
     "part_number": "LM317",
@@ -760,28 +837,28 @@
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "Input-output voltage differential\n\u22120.3\n40\nV"
+    "content": "Input-output voltage differential\n\u22120.3"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "Storage temperature, Tstg\n\u221265\n150\n\u00b0C"
+    "content": "Storage temperature, Tstg\n\u221265"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "Operating virtual junction temperature, TJ (legacy chip)\n\u221265\n150\n\u00b0C"
+    "content": "Operating virtual junction temperature, TJ (legacy chip)\n\u221265"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "(1)\nStresses beyond those listed under Absolute Maximum Ratings may cause permanent damage to the device. These are stress \nratings only, which do not imply functional operation of the device at these or any other conditions beyond those indicated under \nRecommended Operating Conditions. Exposure to absolute-maximum-rated conditions for extended periods may affect device \nreliability.\n(2)\nIf Military/Aerospace specified devices are required, please contact the Texas Instruments Sales Office/Distributors for availability and \nspecifications."
+    "content": "(1)\nStresses beyond those listed under Absolute Maximum Ratings may cause permanent damage to the device. These are stress\nratings only, which do not imply functional operation of the device at these or any other conditions beyond those indicated under\nRecommended Operating Conditions. Exposure to absolute-maximum-rated conditions for extended periods may affect device\nreliability.\n(2)\nIf Military/Aerospace specified devices are required, please contact the Texas Instruments Sales Office/Distributors for availability and"
   },
   {
     "part_number": "LM317",
@@ -802,7 +879,7 @@
     "page_number": 6,
     "section": "6.2 ESD Ratings",
     "type": "text",
-    "content": "New \nChip"
+    "content": "Chip"
   },
   {
     "part_number": "LM317",
@@ -830,7 +907,7 @@
     "page_number": 6,
     "section": "6.2 ESD Ratings",
     "type": "text",
-    "content": "V\nCharged device model (CDM), per JEDEC specification JESD22-\nC101(2)\n\u00b11000\nNA"
+    "content": "Charged device model (CDM), per JEDEC specification JESD22-\nC101(2)\n\u00b11000"
   },
   {
     "part_number": "LM317",
@@ -844,42 +921,42 @@
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "MIN\nMAX\nUNIT"
+    "content": "UNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "VO\nOutput voltage\n1.25\n37\nV"
+    "content": "Output voltage\n1.25"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "VI  \u2013 VO\nInput-to-output differential voltage\n3\n40\nV"
+    "content": "VI  \u2013 VO\nInput-to-output differential voltage"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "IO\nOutput current\n0.01\n1.5\nA"
+    "content": "Output current\n0.01"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "TJ\nOperating virtual junction temperature\n0\n125\n\u00b0C"
+    "content": "Operating virtual junction temperature"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "6\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -914,28 +991,28 @@
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "UNIT\nDCY\n(SOT-223)"
+    "content": "UNIT\n(SOT-223)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "KCS\n(TO-220)"
+    "content": "(TO-220)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "KCT\n(TO-220)"
+    "content": "(TO-220)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "KTT\n(TO-263)"
+    "content": "(TO-263)"
   },
   {
     "part_number": "LM317",
@@ -970,35 +1047,35 @@
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "R\u03b8JB\nJunction-to-board thermal resistance\n16.9\n7.9\n23.2\n18.9\n\u00b0C/W"
+    "content": "R\u03b8JB\nJunction-to-board thermal resistance\n16.9\n23.2\n18.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "\u03c8JT\nJunction-to-top characterization parameter\n3.6\n3.0\n13.0\n6.9\n\u00b0C/W"
+    "content": "\u03c8JT\nJunction-to-top characterization parameter\n13.0\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "\u03c8JB\nJunction-to-board characterization parameter\n16.8\n7.8\n22.8\n17.9\n\u00b0C/W"
+    "content": "\u03c8JB\nJunction-to-board characterization parameter\n16.8\n22.8\n17.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\nNA\n0.1\n4.2\n1.1\n\u00b0C/W"
+    "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
-    "content": "(1)\nFor more information about traditional and new thermal metrics, see the Semiconductor and IC package thermal metrics application \nnote."
+    "content": "(1)\nFor more information about traditional and new thermal metrics, see the Semiconductor and IC package thermal metrics application\nnote."
   },
   {
     "part_number": "LM317",
@@ -1012,14 +1089,14 @@
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "UNIT\nDCY\n(SOT-223)"
+    "content": "UNIT\n(SOT-223)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "KTT\n(TO-263)"
+    "content": "(TO-263)"
   },
   {
     "part_number": "LM317",
@@ -1054,42 +1131,42 @@
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "R\u03b8JB\nJunction-to-board thermal resistance\n8.4\n23.6\n\u00b0C/W"
+    "content": "R\u03b8JB\nJunction-to-board thermal resistance\n23.6\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "\u03c8JT\nJunction-to-top characterization parameter\n1.8\n10.4\n\u00b0C/W"
+    "content": "\u03c8JT\nJunction-to-top characterization parameter\n10.4\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "\u03c8JB\nJunction-to-board characterization parameter\n8.3\n22.6\n\u00b0C/W"
+    "content": "\u03c8JB\nJunction-to-board characterization parameter\n22.6\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\n\u2014\n0.9\n\u00b0C/W"
+    "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "(1)\nFor more information about traditional and new thermal metrics, see the Semiconductor and IC package thermal metrics application \nnote.\n(2)\nWhen surface-mount packages are used (SOT-223), the junction to ambient thermal resistance is reduced by increasing the PCB \ncopper area that is thermally connected to the package. See the Heat Sink Requirements section for heat sink techniques."
+    "content": "(1)\nFor more information about traditional and new thermal metrics, see the Semiconductor and IC package thermal metrics application\nnote.\n(2)\nWhen surface-mount packages are used (SOT-223), the junction to ambient thermal resistance is reduced by increasing the PCB\ncopper area that is thermally connected to the package. See the Heat Sink Requirements section for heat sink techniques."
   },
   {
     "part_number": "LM317",
     "page_number": 7,
     "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n7"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -1110,21 +1187,21 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "some specifications apply over the full operating temperature range as noted; unless otherwise specified, TJ = 25\u00b0C, VIN \u2212 \nVOUT = 5V, and IOUT = 10mA(1)"
+    "content": "some specifications apply over the full operating temperature range as noted; unless otherwise specified, TJ = 25\u00b0C, VIN \u2212\nVOUT = 5V, and IOUT = 10mA(1)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "PARAMETER\nTEST CONDITIONS(1)\nMIN\nTYP\nMAX\nUNIT"
+    "content": "PARAMETER\nTEST CONDITIONS(1)\nUNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "TJ = 25\u00b0C\n1.25\nV\n3V \u2264 (VIN \u2212 VOUT) \u2264 40V,\n10mA \u2264 IOUT \u2264 1500mA, PD \u2264 20W\n1.2\n1.25\n1.3"
+    "content": "TJ = 25\u00b0C\n1.25\n3V \u2264 (VIN \u2212 VOUT) \u2264 40V,\n10mA \u2264 IOUT \u2264 1500mA, PD \u2264 20W\n1.25"
   },
   {
     "part_number": "LM317",
@@ -1138,28 +1215,28 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "Line regulation(2)\n3V \u2264 (VIN \u2212 VOUT) \u2264 40V(4)\nTJ = 25\u00b0C\n0.01\n0.04\n%/V\n(over full operating \ntemperature range)\n0.02\n0.07"
+    "content": "Line regulation(2)\n3V \u2264 (VIN \u2212 VOUT) \u2264 40V(4)\nTJ = 25\u00b0C\n0.01\n0.04\n%/V\n(over full operating\ntemperature range)\n0.02\n0.07"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "IO = 10mA to \n1500mA, CADJ = \n10\u03bcF(3), TJ = \n25\u00b0C"
+    "content": "IO = 10mA to\n1500mA, CADJ =\n10\u03bcF(3), TJ =\n25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VO \u2264 5V\n25\nmV"
+    "content": "VO \u2264 5V"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VO \u2265 5V\n0.1\n0.5\n%VO"
+    "content": "VO \u2265 5V\n%VO"
   },
   {
     "part_number": "LM317",
@@ -1173,14 +1250,14 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "IO = 10mA to \n1500mA, TJ = \n0\u00b0C to 125\u00b0C"
+    "content": "IO = 10mA to\n1500mA, TJ =\n0\u00b0C to 125\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VO \u2264 5V\n20\n70\nmV"
+    "content": "VO \u2264 5V"
   },
   {
     "part_number": "LM317",
@@ -1194,28 +1271,28 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VO \u2265 5V\n0.3\n1.5"
+    "content": "VO \u2265 5V"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "TJ = 25\u00b0C\n0.1\n0.5"
+    "content": "TJ = 25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "%VO\nNew chip\n10mA \u2264 IOUT \u2264 \nIMAX (5)"
+    "content": "%VO\nNew chip\n10mA \u2264 IOUT \u2264\nIMAX (5)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "(over full operating \ntemperature range)\n0.3\n1.5"
+    "content": "(over full operating\ntemperature range)"
   },
   {
     "part_number": "LM317",
@@ -1229,7 +1306,7 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "Adjustment pin current\nOver full operating temperature range\n50\n100\n\u03bcA"
+    "content": "Adjustment pin current\nOver full operating temperature range"
   },
   {
     "part_number": "LM317",
@@ -1243,7 +1320,7 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "3V \u2264 (VIN \u2212 VOUT) \u2264 40V\nOver full operating \ntemperature range\n0.2\n5\n\u03bcA"
+    "content": "3V \u2264 (VIN \u2212 VOUT) \u2264 40V\nOver full operating\ntemperature range"
   },
   {
     "part_number": "LM317",
@@ -1257,14 +1334,14 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "0.7\n%VO\nNew chip\n1%"
+    "content": "%VO\nNew chip"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "TMIN \u2264 TJ \u2264 TMAX\nOver full operating \ntemperature range"
+    "content": "TMIN \u2264 TJ \u2264 TMAX\nOver full operating\ntemperature range"
   },
   {
     "part_number": "LM317",
@@ -1278,14 +1355,14 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "Minimum load current\n(VIN \u2212 VOUT) = 40V\nOver full operating \ntemperature range\n3.5\n10\nmA"
+    "content": "Minimum load current\n(VIN \u2212 VOUT) = 40V\nOver full operating\ntemperature range"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "(VIN \u2212 VOUT) \u2264 15V\u2003\nPD < PMAX (3)\n1.5\n2.2\nA\n(VIN \u2212 VOUT) = 40V\nPD < PMAX (3), TJ = 25\u00b0C\n0.15\n0.4"
+    "content": "(VIN \u2212 VOUT) \u2264 15V\nPD < PMAX (3)\n(VIN \u2212 VOUT) = 40V\nPD < PMAX (3), TJ = 25\u00b0C\n0.15"
   },
   {
     "part_number": "LM317",
@@ -1299,14 +1376,14 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "RMS output noise, % of VOUT\n10Hz \u2264 f \u2264 10kHz\n0.003\n%"
+    "content": "RMS output noise, % of VOUT\n10Hz \u2264 f \u2264 10kHz\n0.003"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VOUT = 10V, f = 120Hz, CADJ = 0\u03bcF(4)\n57"
+    "content": "VOUT = 10V, f = 120Hz, CADJ = 0\u03bcF(4)"
   },
   {
     "part_number": "LM317",
@@ -1320,14 +1397,14 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VOUT = 10V, f = 120Hz, CADJ = 10\u03bcF(4)\n62\n64"
+    "content": "VOUT = 10V, f = 120Hz, CADJ = 10\u03bcF(4)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VOUT = 10V, f = 120Hz, CADJ = 0\u03bcF (over full \noperating temperature range)\n65"
+    "content": "VOUT = 10V, f = 120Hz, CADJ = 0\u03bcF (over full\noperating temperature range)"
   },
   {
     "part_number": "LM317",
@@ -1348,28 +1425,28 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "VOUT = 10V, f = 120Hz, CADJ = 10\u03bcF (over \nfull operating temperature range)\n66\n80"
+    "content": "VOUT = 10V, f = 120Hz, CADJ = 10\u03bcF (over\nfull operating temperature range)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "Long-term stability\nTJ = 25\u00b0C\n0.3\n1 %/1k hr"
+    "content": "Long-term stability\nTJ = 25\u00b0C\n1 %/1k hr"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "(1)\nFor the legacy chip (unless otherwise noted), the following test conditions apply: |VI \u2013 VO| = 5V, IOMAX = 1.5A, and TJ = 0\u00b0C to 125\u00b0C. \nPulse testing techniques are used to maintain the junction temperature as close to the ambient temperature as possible.\n(2)\nFor the legacy chip, line regulation is expressed as the percentage change in output voltage per 1V change at the input.\n(3)\nFor the legacy chip, maximum power dissipation is a function of TJ(max), R\u03b8JA, and TA. The maximum allowable power dissipation at \nany allowable ambient temperature is PD = (TJ(max) \u2013 TA) / R\u03b8JA. Operating at the absolute maximum TJ of 150\u00b0C potentially affects \nreliability.\n(4)\nFor the legacy chip, CADJ is connected between the ADJUST pin and GND.\n(5)\nFor the new chip, regulation is measured at a constant junction temperature, using pulse testing with a low duty cycle. Changes in \noutput voltage resulting from heating effects are covered under the specifications for thermal regulation."
+    "content": "(1)\nFor the legacy chip (unless otherwise noted), the following test conditions apply: |VI \u2013 VO| = 5V, IOMAX = 1.5A, and TJ = 0\u00b0C to 125\u00b0C.\nPulse testing techniques are used to maintain the junction temperature as close to the ambient temperature as possible.\n(2)\nFor the legacy chip, line regulation is expressed as the percentage change in output voltage per 1V change at the input.\n(3)\nFor the legacy chip, maximum power dissipation is a function of TJ(max), R\u03b8JA, and TA. The maximum allowable power dissipation at\nany allowable ambient temperature is PD = (TJ(max) \u2013 TA) / R\u03b8JA. Operating at the absolute maximum TJ of 150\u00b0C potentially affects\nreliability.\n(4)\nFor the legacy chip, CADJ is connected between the ADJUST pin and GND.\n(5)\nFor the new chip, regulation is measured at a constant junction temperature, using pulse testing with a low duty cycle. Changes in\noutput voltage resulting from heating effects are covered under the specifications for thermal regulation."
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "text",
-    "content": "8\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -1404,14 +1481,14 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "T = 25\u00b0C\nA"
+    "content": "T = 25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "T = \u201340\u00b0C\nA"
+    "content": "T = \u201340\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -1425,14 +1502,14 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "T = \u201340\u00b0C\nA"
+    "content": "T = \u201340\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "T = 25\u00b0C\nA"
+    "content": "T = 25\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -1460,14 +1537,14 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "T = 125\u00b0C\nA"
+    "content": "T = 125\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "T = 125\u00b0C\nA"
+    "content": "T = 125\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -1495,14 +1572,14 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "V\n= V\nOUT\nREF"
+    "content": "= V"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "V\n= 10 V Nom\nOUT"
+    "content": "= 10 V Nom"
   },
   {
     "part_number": "LM317",
@@ -1517,20 +1594,6 @@
     "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-0.4"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "text",
-    "content": "0\n0.1\n0.2\n0.3\n0.4\n0.5\n0.6\n0.7\n0.8\n0.9\n1\n1.1\n1.2\n1.3\n1.4\n1.5"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "text",
-    "content": "0\n0.2\n0.4\n0.6\n0.8\n1\n1.2\n1.4\n1.6\n1.8\n2\n2.2\n2.4\n2.6\n2.8\n3\n3.2\n3.4"
   },
   {
     "part_number": "LM317",
@@ -1656,7 +1719,7 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "C\n= 0 \u00b5F\nADJ"
+    "content": "= 0 \u00b5F"
   },
   {
     "part_number": "LM317",
@@ -1726,7 +1789,7 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "V\nDeviation    V\nOUT\u0336"
+    "content": "Deviation    V\nOUT\u0336"
   },
   {
     "part_number": "LM317",
@@ -1775,7 +1838,7 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "C\n= 10 \u00b5F\nADJ"
+    "content": "= 10 \u00b5F"
   },
   {
     "part_number": "LM317",
@@ -1803,7 +1866,7 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n9"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -1852,7 +1915,7 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "T = \u201340\u00b0C\nA"
+    "content": "T = \u201340\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -1873,7 +1936,7 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "T = 25\u00b0C\nA"
+    "content": "T = 25\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -1887,7 +1950,7 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "T = 125\u00b0C\nA"
+    "content": "T = 125\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -1999,7 +2062,7 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "C\n= 0 \u00b5F\nADJ"
+    "content": "= 0 \u00b5F"
   },
   {
     "part_number": "LM317",
@@ -2020,7 +2083,7 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "C\n= 10 \u00b5F\nADJ"
+    "content": "= 10 \u00b5F"
   },
   {
     "part_number": "LM317",
@@ -2034,21 +2097,14 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "100\n1k\n10k\n100k\n1M"
+    "content": "1k\n10k\n100k\n1M"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "5\n10\n15\n20\n25\n30\n35"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "text",
-    "content": "100\n1000\n10000\n100000\n1000000"
+    "content": "1000\n10000\n100000\n1000000"
   },
   {
     "part_number": "LM317",
@@ -2083,7 +2139,7 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "10\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -2153,7 +2209,7 @@
     "page_number": 11,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n11"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -2202,7 +2258,7 @@
     "page_number": 12,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
-    "content": "12\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -2237,14 +2293,14 @@
     "page_number": 13,
     "section": "7 Detailed Description",
     "type": "text",
-    "content": "The LM317 is an adjustable three-pin, positive-voltage regulator capable of supplying up to 1.5A over an output \nvoltage range of 1.25V to 37V. The device requires only two external resistors to set the output voltage. The \ndevice features a typical line regulation of 0.01% and typical load regulation of 0.1%. The LM317 includes \ncurrent limiting, thermal overload protection, and safe operating area protection. Overload protection remains \nfunctional even if the ADJUST pin is disconnected."
+    "content": "The LM317 is an adjustable three-pin, positive-voltage regulator capable of supplying up to 1.5A over an output\nvoltage range of 1.25V to 37V. The device requires only two external resistors to set the output voltage. The\ndevice features a typical line regulation of 0.01% and typical load regulation of 0.1%. The LM317 includes\ncurrent limiting, thermal overload protection, and safe operating area protection. Overload protection remains\nfunctional even if the ADJUST pin is disconnected."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
     "section": "7 Detailed Description",
     "type": "text",
-    "content": "The LM317 is designed to minimize the IADJUST current and make this current constant with line and load \nchanges. A 100\u03bcA current from the ADJUST pin represents an error term."
+    "content": "The LM317 is designed to minimize the IADJUST current and make this current constant with line and load\nchanges. A 100\u03bcA current from the ADJUST pin represents an error term."
   },
   {
     "part_number": "LM317",
@@ -2321,7 +2377,7 @@
     "page_number": 13,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "The NPN Darlington output topology provides naturally low output impedance and an output capacitor is \noptional. A 3V headroom is recommended (VI \u2013 VO) to support maximum current and lowest temperature."
+    "content": "The NPN Darlington output topology provides naturally low output impedance and an output capacitor is\noptional. A 3V headroom is recommended (VI \u2013 VO) to support maximum current and lowest temperature."
   },
   {
     "part_number": "LM317",
@@ -2335,7 +2391,7 @@
     "page_number": 13,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "Overcurrent and overtemperature shutdown protects the device against overload or damage from operating in \nexcessive heat."
+    "content": "Overcurrent and overtemperature shutdown protects the device against overload or damage from operating in\nexcessive heat."
   },
   {
     "part_number": "LM317",
@@ -2349,14 +2405,14 @@
     "page_number": 13,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "An op amp with a 1.25V offset input at the ADJUST pin provides easy output voltage or current programming \n(but not both). For current regulation applications, use a single resistor whose resistance value is 1.25V / IO and \na power rating greater than (1.25V)2 / R. For voltage regulation applications, two resistors set the output voltage."
+    "content": "An op amp with a 1.25V offset input at the ADJUST pin provides easy output voltage or current programming\n(but not both). For current regulation applications, use a single resistor whose resistance value is 1.25V / IO and\na power rating greater than (1.25V)2 / R. For voltage regulation applications, two resistors set the output voltage."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n13"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -2391,7 +2447,7 @@
     "page_number": 14,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "The device OUTPUT pin sources current necessary to make the OUTPUT pin 1.25V greater than ADJUST pin to \nprovide output regulation."
+    "content": "The device OUTPUT pin sources current necessary to make the OUTPUT pin 1.25V greater than ADJUST pin to\nprovide output regulation."
   },
   {
     "part_number": "LM317",
@@ -2405,7 +2461,7 @@
     "page_number": 14,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "The device requires up to 3V headroom (VI \u2013 VO) to operate in regulation. The device potentially drops out and \nOUTPUT voltage becomes the INPUT voltage minus the dropout voltage with less headroom."
+    "content": "The device requires up to 3V headroom (VI \u2013 VO) to operate in regulation. The device potentially drops out and\nOUTPUT voltage becomes the INPUT voltage minus the dropout voltage with less headroom."
   },
   {
     "part_number": "LM317",
@@ -2419,7 +2475,7 @@
     "page_number": 14,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "The device passes the bias current to the OUTPUT pin. Make sure the load or feedback consumes this minimum \ncurrent for regulation or the output is potentially too high. See the Electrical Characteristics table for the minimum \nload current needed to maintain regulation."
+    "content": "The device passes the bias current to the OUTPUT pin. Make sure the load or feedback consumes this minimum\ncurrent for regulation or the output is potentially too high. See the Electrical Characteristics table for the minimum\nload current needed to maintain regulation."
   },
   {
     "part_number": "LM317",
@@ -2433,14 +2489,14 @@
     "page_number": 14,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "When an overload occurs, the device shuts down the Darlington NPN output stage or reduces the output current \nto prevent device damage. The device automatically resets from the overload. The output is either reduced or \nalternates between on and off until the overload is removed."
+    "content": "When an overload occurs, the device shuts down the Darlington NPN output stage or reduces the output current\nto prevent device damage. The device automatically resets from the overload. The output is either reduced or\nalternates between on and off until the overload is removed."
   },
   {
     "part_number": "LM317",
     "page_number": 14,
     "section": "7.2 Functional Block Diagram",
     "type": "text",
-    "content": "14\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -2475,14 +2531,14 @@
     "page_number": 15,
     "section": "8 Application and Implementation",
     "type": "text",
-    "content": "Information in the following applications sections is not part of the TI component specification, \nand TI does not warrant its accuracy or completeness. TI\u2019s customers are responsible for \ndetermining suitability of components for their purposes, as well as validating and testing their design \nimplementation to confirm system functionality."
+    "content": "Information in the following applications sections is not part of the TI component specification,\nand TI does not warrant its accuracy or completeness. TI\u2019s customers are responsible for\ndetermining suitability of components for their purposes, as well as validating and testing their design\nimplementation to confirm system functionality."
   },
   {
     "part_number": "LM317",
     "page_number": 15,
     "section": "8.1 Application Information",
     "type": "text",
-    "content": "The flexibility of the LM317 allows the device to be configured to take on many different functions in DC power \napplications."
+    "content": "The flexibility of the LM317 allows the device to be configured to take on many different functions in DC power\napplications."
   },
   {
     "part_number": "LM317",
@@ -2496,7 +2552,7 @@
     "page_number": 15,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "VI\nVO\nOutput\nInput"
+    "content": "Output\nInput"
   },
   {
     "part_number": "LM317",
@@ -2545,7 +2601,7 @@
     "page_number": 15,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Ci\n0.1 \u00b5F\nCO\n1.0 \u00b5F"
+    "content": "0.1 \u00b5F\n1.0 \u00b5F"
   },
   {
     "part_number": "LM317",
@@ -2580,14 +2636,14 @@
     "page_number": 15,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "\u2022\nR1 and R2 are required to set the output voltage.\n\u2022\nUse CADJ to improve ripple rejection. CADJ prevents amplification of the ripple when the output voltage \nis adjusted higher. The impact of CADJ on the ripple rejection performance is captured in the Electrical \nCharacteristics table.\n\u2022\nCi is recommended, particularly if the regulator is not in close proximity to the power-supply filter capacitors. \nA 0.1\u00b5F or 1\u00b5F ceramic or tantalum capacitor provides sufficient bypassing for most applications, especially \nwhen adjustment and output capacitors are used.\n\u2022\nCO improves transient response, but is not needed for stability.\n\u2022\nProtection diode D2 is recommended if CADJ is used. The diode provides a low-impedance discharge path to \nprevent the capacitor from discharging into the output of the regulator.\n\u2022\nProtection diode D1 is recommended if CO is used. The diode provides a low-impedance discharge path to \nprevent the capacitor from discharging into the output of the regulator."
+    "content": "R1 and R2 are required to set the output voltage.\nUse CADJ to improve ripple rejection. CADJ prevents amplification of the ripple when the output voltage\nis adjusted higher. The impact of CADJ on the ripple rejection performance is captured in the Electrical\nCharacteristics table.\nCi is recommended, particularly if the regulator is not in close proximity to the power-supply filter capacitors.\nA 0.1\u00b5F or 1\u00b5F ceramic or tantalum capacitor provides sufficient bypassing for most applications, especially\nwhen adjustment and output capacitors are used.\nCO improves transient response, but is not needed for stability.\nProtection diode D2 is recommended if CADJ is used. The diode provides a low-impedance discharge path to\nprevent the capacitor from discharging into the output of the regulator.\nProtection diode D1 is recommended if CO is used. The diode provides a low-impedance discharge path to\nprevent the capacitor from discharging into the output of the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 15,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n15"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -2650,14 +2706,14 @@
     "page_number": 16,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "C\n= 0 \u00b5F\nADJ"
+    "content": "= 0 \u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "C\n= 10 \u00b5F\nADJ"
+    "content": "= 10 \u00b5F"
   },
   {
     "part_number": "LM317",
@@ -2839,7 +2895,7 @@
     "page_number": 16,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "16\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -2888,28 +2944,21 @@
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "R\nR\nV\nV\n1\n10V\nR"
+    "content": "10V"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "\u00e6\n\u00f6\n+\n=\n+\n-\n\u00e7\n\u00f7\n\u00e8\n\u00f8\n(3)"
+    "content": "\u00e6\n\u00f6\n\u00e7\n\u00e8\n\u00f8\n(3)"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "2\n3\nOUT\nREF"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 17,
-    "section": "8.2 Typical Application",
-    "type": "text",
-    "content": "By varying the voltage at the terminal of R3 (\u221210V in Figure 8-6), VOUT is varied from 0V to 30V. In the absence \nof \u221210V, the VOUT is only regulated to the lowest value of VREF by making R2 = 0\u03a9."
+    "content": "By varying the voltage at the terminal of R3 (\u221210V in Figure 8-6), VOUT is varied from 0V to 30V. In the absence\nof \u221210V, the VOUT is only regulated to the lowest value of VREF by making R2 = 0\u03a9."
   },
   {
     "part_number": "LM317",
@@ -2923,7 +2972,7 @@
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "+35V\nVO"
+    "content": "+35V"
   },
   {
     "part_number": "LM317",
@@ -2944,7 +2993,7 @@
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "R1\n120"
+    "content": "R1"
   },
   {
     "part_number": "LM317",
@@ -2972,7 +3021,7 @@
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "R3\n680"
+    "content": "R3"
   },
   {
     "part_number": "LM317",
@@ -2986,7 +3035,7 @@
     "page_number": 17,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n17"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -3014,7 +3063,7 @@
     "page_number": 18,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "As shown in Figure 8-7, C2 helps stabilize the voltage at the ADJUST pin, which helps reject noise. Diode D1 \nexists to discharge C2 in case the output is shorted to ground."
+    "content": "As shown in Figure 8-7, C2 helps stabilize the voltage at the ADJUST pin, which helps reject noise. Diode D1\nexists to discharge C2 in case the output is shorted to ground."
   },
   {
     "part_number": "LM317",
@@ -3049,7 +3098,7 @@
     "page_number": 18,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "R1\n240"
+    "content": "R1"
   },
   {
     "part_number": "LM317",
@@ -3105,14 +3154,14 @@
     "page_number": 18,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Ilimit\n1.2\nR1"
+    "content": "Ilimit\nR1"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "OUTPUT\nINPUT\nVI"
+    "content": "OUTPUT\nINPUT"
   },
   {
     "part_number": "LM317",
@@ -3245,7 +3294,7 @@
     "page_number": 18,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "18\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -3280,7 +3329,7 @@
     "page_number": 19,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Because the value of VREF is constant, the value of R1 determines the amount of current that flows through R1 \nand R2. The size of R2 determines the IR drop from ADJUSTMENT to GND. Higher values of R2 translate to \nhigher VOUT. Equation 4, Equation 5, and Figure 8-10 illustrate this relationship."
+    "content": "Because the value of VREF is constant, the value of R1 determines the amount of current that flows through R1\nand R2. The size of R2 determines the IR drop from ADJUSTMENT to GND. Higher values of R2 translate to\nhigher VOUT. Equation 4, Equation 5, and Figure 8-10 illustrate this relationship."
   },
   {
     "part_number": "LM317",
@@ -3309,13 +3358,6 @@
     "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 19,
-    "section": "8.2 Typical Application",
-    "type": "text",
-    "content": "VO\nVI"
   },
   {
     "part_number": "LM317",
@@ -3371,14 +3413,28 @@
     "page_number": 19,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "=\nOUT\n1.25V\nI\n(short)\nRS\n(7)"
+    "content": "R2\n1.25 V\nR1\n\u00b9\n(6)"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "RS\n0.2 W"
+    "content": "1.25V\n(short)\n(7)"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 19,
+    "section": "8.2 Typical Application",
+    "type": "text",
+    "content": "R2\nOutput Impedance\nR1\n\u00b9\n(8)"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 19,
+    "section": "8.2 Typical Application",
+    "type": "text",
+    "content": "0.2 W"
   },
   {
     "part_number": "LM317",
@@ -3427,7 +3483,7 @@
     "page_number": 19,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n19"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -3455,7 +3511,7 @@
     "page_number": 20,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Use the current-limit operation mode to trickle charge a battery at a fixed current. ICHG = 1.25V \u00f7 24\u03a9. Make \nsure VI is greater than VBAT + 4.25V. (1.25V [VREF] + 3V [headroom]). Figure 8-12 shows a diagram of a \nbattery-charger circuit."
+    "content": "Use the current-limit operation mode to trickle charge a battery at a fixed current. ICHG = 1.25V \u00f7 24\u03a9. Make\nsure VI is greater than VBAT + 4.25V. (1.25V [VREF] + 3V [headroom]). Figure 8-12 shows a diagram of a\nbattery-charger circuit."
   },
   {
     "part_number": "LM317",
@@ -3504,7 +3560,7 @@
     "page_number": 20,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "The capacitor C1, in combination with the PNP transistor, helps the circuit (Figure 8-13) to slowly start supplying \nvoltage. In the beginning, the capacitor is not charged. Therefore, the output voltage starts at VC1+ VBE + 1.25V \n= 0V + 0.65V + 1.25V = 1.9V. When the capacitor voltage rises, VOUT rises at the same rate. When the output \nvoltage reaches the value determined by R1 and R2, the PNP is turned off."
+    "content": "The capacitor C1, in combination with the PNP transistor, helps the circuit (Figure 8-13) to slowly start supplying\nvoltage. In the beginning, the capacitor is not charged. Therefore, the output voltage starts at VC1+ VBE + 1.25V\n= 0V + 0.65V + 1.25V = 1.9V. When the capacitor voltage rises, VOUT rises at the same rate. When the output\nvoltage reaches the value determined by R1 and R2, the PNP is turned off."
   },
   {
     "part_number": "LM317",
@@ -3525,7 +3581,7 @@
     "page_number": 20,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "VO = 15 V\nVI"
+    "content": "VO = 15 V"
   },
   {
     "part_number": "LM317",
@@ -3595,7 +3651,7 @@
     "page_number": 20,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Figure 8-14 shows a circuit employing two LM317 devices. These two LM317 devices regulate both the positive \nand negative swings of a sinusoidal AC input."
+    "content": "Figure 8-14 shows a circuit employing two LM317 devices. These two LM317 devices regulate both the positive\nand negative swings of a sinusoidal AC input."
   },
   {
     "part_number": "LM317",
@@ -3686,7 +3742,7 @@
     "page_number": 20,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "20\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -3721,7 +3777,7 @@
     "page_number": 21,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "When charge current increases, the voltage at the bottom resistor increases until the NPN starts sinking current \nfrom the ADJUST pin. The voltage at the ADJUST pin drops, and consequently the output voltage decreases \nuntil the NPN stops conducting. Figure 8-15 shows the current-limited circuit."
+    "content": "When charge current increases, the voltage at the bottom resistor increases until the NPN starts sinking current\nfrom the ADJUST pin. The voltage at the ADJUST pin drops, and consequently the output voltage decreases\nuntil the NPN stops conducting. Figure 8-15 shows the current-limited circuit."
   },
   {
     "part_number": "LM317",
@@ -3798,7 +3854,7 @@
     "page_number": 21,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "This application keeps the output current at 4A while having the ability to adjust the output voltage using the \nadjustable (1.5k\u03a9 in Figure 8-16) resistor."
+    "content": "This application keeps the output current at 4A while having the ability to adjust the output voltage using the\nadjustable (1.5k\u03a9 in Figure 8-16) resistor."
   },
   {
     "part_number": "LM317",
@@ -3861,7 +3917,7 @@
     "page_number": 21,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "4.5 V to 25\nV"
+    "content": "4.5 V to 25"
   },
   {
     "part_number": "LM317",
@@ -3952,7 +4008,7 @@
     "page_number": 21,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n21"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -3980,7 +4036,7 @@
     "page_number": 22,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "The PNP (2N2905) and NPN (2N6486) at the top of Figure 8-17 allow higher currents at VOUT than the LM317 \nprovides. Meanwhile, the output voltage remains at levels determined by the ADJUST pin resistor divider of the \nLM317."
+    "content": "The PNP (2N2905) and NPN (2N6486) at the top of Figure 8-17 allow higher currents at VOUT than the LM317\nprovides. Meanwhile, the output voltage remains at levels determined by the ADJUST pin resistor divider of the\nLM317."
   },
   {
     "part_number": "LM317",
@@ -3988,6 +4044,13 @@
     "section": "8.2 Typical Application",
     "type": "text",
     "content": "2N6486"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 22,
+    "section": "8.2 Typical Application",
+    "type": "text",
+    "content": "2N2905"
   },
   {
     "part_number": "LM317",
@@ -4029,7 +4092,7 @@
     "page_number": 22,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "R1\n120"
+    "content": "R1"
   },
   {
     "part_number": "LM317",
@@ -4057,7 +4120,7 @@
     "page_number": 22,
     "section": "8.2 Typical Application",
     "type": "text",
-    "content": "22\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -4085,14 +4148,14 @@
     "page_number": 23,
     "section": "8.4 Power Supply Recommendations",
     "type": "text",
-    "content": "The LM317 is designed to operate from an input voltage supply range between 1.25V to 37V greater than the \noutput voltage. If the device is more than six inches from the input filter capacitors, use an input bypass capacitor \nof any type for stability. Make sure this capacitor is 0.1\u03bcF or greater."
+    "content": "The LM317 is designed to operate from an input voltage supply range between 1.25V to 37V greater than the\noutput voltage. If the device is more than six inches from the input filter capacitors, use an input bypass capacitor\nof any type for stability. Make sure this capacitor is 0.1\u03bcF or greater."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "\u2022\nBypass the input pin to ground with a bypass capacitor.\n\u2022\nThe optimum placement is closest to the input pin of the device and the system GND. Take care to minimize \nthe loop area formed by the bypass-capacitor connection, the input pin, and the system GND.\n\u2022\nFor operation at full rated load, use wide trace lengths to eliminate I \u00d7 R drop and heat dissipation."
+    "content": "Bypass the input pin to ground with a bypass capacitor.\nThe optimum placement is closest to the input pin of the device and the system GND. Take care to minimize\nthe loop area formed by the bypass-capacitor connection, the input pin, and the system GND.\nFor operation at full rated load, use wide trace lengths to eliminate I \u00d7 R drop and heat dissipation."
   },
   {
     "part_number": "LM317",
@@ -4113,7 +4176,7 @@
     "page_number": 23,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "The LM317 (new chip) regulators have internal thermal shutdown to protect the device from overheating. Under \nall operating conditions, make sure the device junction temperature does not exceed the rated maximum junction \ntemperature (TJ) of 125\u00b0C for the LM317 (new chip). A heat sink is required depending on the maximum device \npower dissipation and the maximum ambient temperature of the application. To determine if a heat sink is \nneeded, Equation 9 calculates the power dissipated by the regulator, PD."
+    "content": "The LM317 (new chip) regulators have internal thermal shutdown to protect the device from overheating. Under\nall operating conditions, make sure the device junction temperature does not exceed the rated maximum junction\ntemperature (TJ) of 125\u00b0C for the LM317 (new chip). A heat sink is required depending on the maximum device\npower dissipation and the maximum ambient temperature of the application. To determine if a heat sink is\nneeded, Equation 9 calculates the power dissipated by the regulator, PD."
   },
   {
     "part_number": "LM317",
@@ -4155,14 +4218,14 @@
     "page_number": 23,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "\u2022\nTJ(MAX) is the maximum allowable junction temperature (125\u00b0C for the LM317, new chip)\n\u2022\nTA(MAX) is the maximum ambient temperature encountered in the application"
+    "content": "TJ(MAX) is the maximum allowable junction temperature (125\u00b0C for the LM317, new chip)\nTA(MAX) is the maximum ambient temperature encountered in the application"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "Using the calculated values for TR(MAX) and PD, Equation 11 calculates the maximum allowable value for the \njunction-to-ambient thermal resistance (R\u03b8JA)."
+    "content": "Using the calculated values for TR(MAX) and PD, Equation 11 calculates the maximum allowable value for the\njunction-to-ambient thermal resistance (R\u03b8JA)."
   },
   {
     "part_number": "LM317",
@@ -4183,14 +4246,14 @@
     "page_number": 23,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "If the calculated maximum allowable thermal resistance is higher than the actual package rating, then no \nadditional work is needed. If the calculated maximum allowable thermal resistance is lower than the actual \npackage rating, correct this issue. Either reduce PD or TA(MAX), or lower R\u03b8JA by adding a heat sink, or some \ncombination thereof. PD is the device power dissipation, TA(MAX) is the maximum ambient temperature, and R\u03b8JA \nis the device thermal resistance."
+    "content": "If the calculated maximum allowable thermal resistance is higher than the actual package rating, then no\nadditional work is needed. If the calculated maximum allowable thermal resistance is lower than the actual\npackage rating, correct this issue. Either reduce PD or TA(MAX), or lower R\u03b8JA by adding a heat sink, or some\ncombination thereof. PD is the device power dissipation, TA(MAX) is the maximum ambient temperature, and R\u03b8JA\nis the device thermal resistance."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n23"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -4232,7 +4295,7 @@
     "page_number": 24,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "\u2022\n\u03b8CH is the thermal resistance of the contact area between the device case and the heat sink surface\n\u2022\nR\u03b8JC is thermal resistance from the junction of the die to the surface of the package case"
+    "content": "\u03b8CH is the thermal resistance of the contact area between the device case and the heat sink surface\nR\u03b8JC is thermal resistance from the junction of the die to the surface of the package case"
   },
   {
     "part_number": "LM317",
@@ -4246,7 +4309,7 @@
     "page_number": 24,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "The \u03b8HA rating is specified numerically by the heat sink manufacturer in the catalog, or given in a curve plotting \ntemperature rise versus power dissipation for the heat sink."
+    "content": "The \u03b8HA rating is specified numerically by the heat sink manufacturer in the catalog, or given in a curve plotting\ntemperature rise versus power dissipation for the heat sink."
   },
   {
     "part_number": "LM317",
@@ -4260,7 +4323,7 @@
     "page_number": 24,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "The TO-263 (KTT), SOT-223 (DCY), and TO-220 (KCS, KCT) packages use a copper plane on the PCB and the \nPCB as a heat sink. To optimize the heat sinking ability of the plane and PCB, solder the tab of the package to \nthe plane."
+    "content": "The TO-263 (KTT), SOT-223 (DCY), and TO-220 (KCS, KCT) packages use a copper plane on the PCB and the\nPCB as a heat sink. To optimize the heat sinking ability of the plane and PCB, solder the tab of the package to\nthe plane."
   },
   {
     "part_number": "LM317",
@@ -4274,7 +4337,7 @@
     "page_number": 24,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "Figure 8-19 and Figure 8-20 show information for the SOT-223 package. Figure 8-20 assumes a R\u03b8JA of 74\u00b0C/W \nfor 1oz. copper and 59.6\u00b0C/W for 2oz. copper (further details are in Section 6.5) and a maximum junction \ntemperature of 125\u00b0C. See the AN-1028 Maximum Power Enhancement Techniques for Power Packages \napplication note for thermal enhancement techniques to be used with the SOT-223 and TO-252 packages."
+    "content": "Figure 8-19 and Figure 8-20 show information for the SOT-223 package. Figure 8-20 assumes a R\u03b8JA of 74\u00b0C/W\nfor 1oz. copper and 59.6\u00b0C/W for 2oz. copper (further details are in Section 6.5) and a maximum junction\ntemperature of 125\u00b0C. See the AN-1028 Maximum Power Enhancement Techniques for Power Packages\napplication note for thermal enhancement techniques to be used with the SOT-223 and TO-252 packages."
   },
   {
     "part_number": "LM317",
@@ -4309,7 +4372,7 @@
     "page_number": 24,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "24\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -4344,14 +4407,14 @@
     "page_number": 25,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "Figure 8-21 shows the TO-263 measured values of R\u03b8JA for different copper area sizes using a typical PCB with \n1oz. copper. This figure also shows no solder mask over the copper area used for heat sinking."
+    "content": "Figure 8-21 shows the TO-263 measured values of R\u03b8JA for different copper area sizes using a typical PCB with\n1oz. copper. This figure also shows no solder mask over the copper area used for heat sinking."
   },
   {
     "part_number": "LM317",
     "page_number": 25,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "As shown in Figure 8-21, increasing the copper area beyond 1 square inch produces very little improvement. \nThe minimum value of R\u03b8JA for the TO-263 package mounted to a PCB is 32\u00b0C/W."
+    "content": "As shown in Figure 8-21, increasing the copper area beyond 1 square inch produces very little improvement.\nThe minimum value of R\u03b8JA for the TO-263 package mounted to a PCB is 32\u00b0C/W."
   },
   {
     "part_number": "LM317",
@@ -4365,7 +4428,7 @@
     "page_number": 25,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "As a design aid, Figure 8-22 shows the maximum allowable power dissipation compared to ambient temperature \nfor the TO-263 device. This figure assumes R\u03b8JA is 35\u00b0C/W and the maximum junction temperature is 125\u00b0C."
+    "content": "As a design aid, Figure 8-22 shows the maximum allowable power dissipation compared to ambient temperature\nfor the TO-263 device. This figure assumes R\u03b8JA is 35\u00b0C/W and the maximum junction temperature is 125\u00b0C."
   },
   {
     "part_number": "LM317",
@@ -4379,7 +4442,7 @@
     "page_number": 25,
     "section": "8.5.1 Layout Guidelines",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n25"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -4484,7 +4547,7 @@
     "page_number": 26,
     "section": "8.5.2 Layout Examples",
     "type": "text",
-    "content": "0.1 F\n\u03bc\n10 F\n\u03bc"
+    "content": "0.1 F\n10 F"
   },
   {
     "part_number": "LM317",
@@ -4526,7 +4589,7 @@
     "page_number": 26,
     "section": "8.5.2 Layout Examples",
     "type": "text",
-    "content": "26\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
@@ -4561,7 +4624,7 @@
     "page_number": 27,
     "section": "8.5.2 Layout Examples",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n27"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
@@ -4610,7 +4673,7 @@
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "yyy is the package designator.\nz is the package quantity designator.\nDevices ship with either the legacy chip (CSO: SHE) or the new chip (CSO: \nFFAB). The reel packaging label provides CSO information to distinguish \nwhich chip is used. Device performance for new and legacy chips is denoted \nthroughout the data sheet."
+    "content": "yyy is the package designator.\nz is the package quantity designator.\nDevices ship with either the legacy chip (CSO: SHE) or the new chip (CSO:\nFFAB). The reel packaging label provides CSO information to distinguish\nwhich chip is used. Device performance for new and legacy chips is denoted\nthroughout the data sheet."
   },
   {
     "part_number": "LM317",
@@ -4624,7 +4687,7 @@
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "(1)\nFor the most current package and ordering information see the Package Option Addendum at the end of this document, or visit the \ndevice product folder at www.ti.com."
+    "content": "(1)\nFor the most current package and ordering information see the Package Option Addendum at the end of this document, or visit the\ndevice product folder at www.ti.com."
   },
   {
     "part_number": "LM317",
@@ -4638,7 +4701,7 @@
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "To receive notification of documentation updates, navigate to the device product folder on ti.com. Click on \nNotifications to register and receive a weekly digest of any product information that has changed. For change \ndetails, review the revision history included in any revised document."
+    "content": "To receive notification of documentation updates, navigate to the device product folder on ti.com. Click on\nNotifications to register and receive a weekly digest of any product information that has changed. For change\ndetails, review the revision history included in any revised document."
   },
   {
     "part_number": "LM317",
@@ -4652,14 +4715,14 @@
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "TI E2E\u2122 support forums are an engineer's go-to source for fast, verified answers and design help \u2014 straight \nfrom the experts. Search existing answers or ask your own question to get the quick design help you need."
+    "content": "TI E2E\u2122 support forums are an engineer's go-to source for fast, verified answers and design help \u2014 straight\nfrom the experts. Search existing answers or ask your own question to get the quick design help you need."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "Linked content is provided \"AS IS\" by the respective contributors. They do not constitute TI specifications and do \nnot necessarily reflect TI's views; see TI's Terms of Use."
+    "content": "Linked content is provided \"AS IS\" by the respective contributors. They do not constitute TI specifications and do\nnot necessarily reflect TI's views; see TI's Terms of Use."
   },
   {
     "part_number": "LM317",
@@ -4673,103 +4736,103 @@
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "This integrated circuit can be damaged by ESD. Texas Instruments recommends that all integrated circuits be handled \nwith appropriate precautions. Failure to observe proper handling and installation procedures can cause damage."
+    "content": "This integrated circuit can be damaged by ESD. Texas Instruments recommends that all integrated circuits be handled\nwith appropriate precautions. Failure to observe proper handling and installation procedures can cause damage."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
     "section": "9 Device and Documentation Support",
     "type": "text",
-    "content": "ESD damage can range from subtle performance degradation to complete device failure. Precision integrated circuits may \nbe more susceptible to damage because very small parametric changes could cause the device not to meet its published \nspecifications."
+    "content": "ESD damage can range from subtle performance degradation to complete device failure. Precision integrated circuits may\nbe more susceptible to damage because very small parametric changes could cause the device not to meet its published"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "9.6 Glossary"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
-    "content": "TI Glossary \nThis glossary lists and explains terms, acronyms, and definitions."
+    "content": "TI Glossary\nThis glossary lists and explains terms, acronyms, and definitions."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
-    "content": "28\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
+    "content": "Submit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "10 Revision History\nNOTE: Page numbers for previous revisions may differ from page numbers in the current version."
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
-    "content": "Changes from Revision Y (April 2020) to Revision Z (April 2025)\nPage\n\u2022\nUpdated the numbering format for tables, figures, and cross-references throughout the document................. 1\n\u2022\nAdded new silicon devices to document.............................................................................................................1\n\u2022\nAdded new silicon curves to Typical Characteristics section .............................................................................1\n\u2022\nChanged Features, Applications, and Description sections............................................................................... 1\n\u2022\nAdded LM317 (New Chip) column to Device Comparison Table ...................................................................... 4\n\u2022\nChanged DCY pinout drawing and INPUT and OUTPUT description in Pin Functions table.............................5\n\u2022\nAdded Power dissipation row to Absolute Maximum Ratings table....................................................................6\n\u2022\nAdded new chip information to ESD Ratings table.............................................................................................6\n\u2022\nAdded Thermal Information (New Chip) table.................................................................................................... 7\n\u2022\nChanged Electrical Characteristics table............................................................................................................8\n\u2022\nChanged ADJUST pin current discussion in second paragraph of Overview section......................................13\n\u2022\nAdded effect of CADJ on ripple rejection discussion to second bullet of Design Requirements .......................15\n\u2022\nAdded new silicon curves to Application Curves .............................................................................................16\n\u2022\nDeleted \u221210V from Equation 2......................................................................................................................... 19\n\u2022\nChanged The NPNs to The PNP (2N2905) and NPN (2N6486) in High-Current Adjustable Regulator Circuit\nsection.............................................................................................................................................................. 22\n\u2022\nAdded Thermal Considerations section and subsections.................................................................................23"
+    "content": "Changes from Revision Y (April 2020) to Revision Z (April 2025)\nPage\nUpdated the numbering format for tables, figures, and cross-references throughout the document................. 1\nAdded new silicon devices to document.............................................................................................................1\nAdded new silicon curves to Typical Characteristics section .............................................................................1\nChanged Features, Applications, and Description sections............................................................................... 1\nAdded LM317 (New Chip) column to Device Comparison Table ...................................................................... 4\nChanged DCY pinout drawing and INPUT and OUTPUT description in Pin Functions table.............................5\nAdded Power dissipation row to Absolute Maximum Ratings table....................................................................6\nAdded new chip information to ESD Ratings table.............................................................................................6\nAdded Thermal Information (New Chip) table.................................................................................................... 7\nChanged Electrical Characteristics table............................................................................................................8\nChanged ADJUST pin current discussion in second paragraph of Overview section......................................13\nAdded effect of CADJ on ripple rejection discussion to second bullet of Design Requirements .......................15\nAdded new silicon curves to Application Curves .............................................................................................16\nDeleted \u221210V from Equation 2......................................................................................................................... 19\nChanged The NPNs to The PNP (2N2905) and NPN (2N6486) in High-Current Adjustable Regulator Circuit\nsection.............................................................................................................................................................. 22\nAdded Thermal Considerations section and subsections.................................................................................23"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
-    "content": "Changes from Revision X (September 2016) to Revision Y (April 2020)\nPage\n\u2022\nAdded Device Comparison Table ...................................................................................................................... 4\n\u2022\nChanged VIN to IOUT in Load Transient Response figures..................................................................................9\n\u2022\nAdded missing caption to second y-axis in second Load Transient Response figure........................................9\n\u2022\nChanged VOUT and output impedance equations in Battery-Charger Circuit section.......................................19"
+    "content": "Changes from Revision X (September 2016) to Revision Y (April 2020)\nPage\nAdded Device Comparison Table ...................................................................................................................... 4\nChanged VIN to IOUT in Load Transient Response figures..................................................................................9\nAdded missing caption to second y-axis in second Load Transient Response figure........................................9\nChanged VOUT and output impedance equations in Battery-Charger Circuit section.......................................19"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "11 Mechanical, Packaging, and Orderable Information"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
-    "content": "The following pages include mechanical, packaging, and orderable information. This information is the most \ncurrent data available for the designated devices. This data is subject to change without notice and revision of \nthis document. For browser-based versions of this data sheet, refer to the left-hand navigation."
+    "content": "The following pages include mechanical, packaging, and orderable information. This information is the most\ncurrent data available for the designated devices. This data is subject to change without notice and revision of\nthis document. For browser-based versions of this data sheet, refer to the left-hand navigation."
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
-    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n29"
+    "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "9 Device and Documentation Support",
+    "section": "specifications.",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
@@ -4883,91 +4946,77 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCY\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY.A\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCY.A\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY.B\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCY.B\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYG3\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCYG3\nActive\nProduction\nSOT-223 (DCY) | 4\n80 | TUBE\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCYR\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR.A\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCYR.A\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR.B\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCYR.B\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYRG3\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nYes\nSN\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
+    "content": "LM317DCYRG3\nActive\nProduction\nSOT-223 (DCY) | 4\n2500 | LARGE T&R\nLevel-2-260C-1 YEAR\n0 to 125\nL3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KCS\nNRND\nProduction\nTO-220 (KCS) | 3\n50 | TUBE\nYes\nSN\nN/A for Pkg Type\n0 to 125\nLM317"
+    "content": "LM317KCS\nNRND\nProduction\nTO-220 (KCS) | 3\n50 | TUBE\nN/A for Pkg Type\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KCS.A\nNRND\nProduction\nTO-220 (KCS) | 3\n50 | TUBE\nYes\nSN\nN/A for Pkg Type\n0 to 125\nLM317"
+    "content": "LM317KCS.A\nNRND\nProduction\nTO-220 (KCS) | 3\n50 | TUBE\nN/A for Pkg Type\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KCSE3\nNRND\nProduction\nTO-220 (KCS) | 3\n50 | TUBE\nYes\nSN\nN/A for Pkg Type\n0 to 125\nLM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "LM317KTTR\nActive\nProduction\nDDPAK/\nTO-263 (KTT) | 3"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "500 | LARGE T&R\nROHS Exempt\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "LM317KCSE3\nNRND\nProduction\nTO-220 (KCS) | 3\n50 | TUBE\nN/A for Pkg Type\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -4981,7 +5030,21 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nYes\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nROHS Exempt\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 30,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "text",
+    "content": "LM317KTTR\nActive\nProduction\nDDPAK/\nTO-263 (KTT) | 3"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 30,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "text",
+    "content": "500 | LARGE T&R\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -4995,7 +5058,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nYes\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -5009,7 +5072,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nROHS Exempt\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nROHS Exempt\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -5023,7 +5086,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nYes\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -5037,7 +5100,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nROHS Exempt\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nROHS Exempt\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -5051,7 +5114,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nROHS Exempt\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nROHS Exempt\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -5065,7 +5128,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "500 | LARGE T&R\nYes\nSN\nLevel-3-245C-168 HR\n0 to 125\nLM317"
+    "content": "500 | LARGE T&R\nLevel-3-245C-168 HR\n0 to 125\nLM317"
   },
   {
     "part_number": "LM317",
@@ -5121,7 +5184,7 @@
     "page_number": 31,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "(6) Part marking:  There may be an additional marking, which relates to the logo, the lot trace code information, or the environmental category of the part.\n \nMultiple part markings will be inside parentheses. Only one part marking contained in parentheses and separated by a \"~\" will appear on a part. If a line is indented then it is a continuation of the previous line and the two\ncombined represent the entire part marking for that device.\n \nImportant Information and Disclaimer:The information provided on this page represents TI's knowledge and belief as of the date that it is provided. TI bases its knowledge and belief on information provided by third parties, and\nmakes no representation or warranty as to the accuracy of such information. Efforts are underway to better integrate information from third parties. TI has taken and continues to take reasonable steps to provide representative\nand accurate information but may not have conducted destructive testing or chemical analysis on incoming materials and chemicals. TI and TI suppliers consider certain information to be proprietary, and thus CAS numbers\nand other limited information may not be available for release.\n \nIn no event shall TI's liability arising out of such information exceed the total purchase price of the TI part(s) at issue in this document sold by TI to Customer on an annual basis."
+    "content": "(6) Part marking:  There may be an additional marking, which relates to the logo, the lot trace code information, or the environmental category of the part.\nMultiple part markings will be inside parentheses. Only one part marking contained in parentheses and separated by a \"~\" will appear on a part. If a line is indented then it is a continuation of the previous line and the two\ncombined represent the entire part marking for that device.\nImportant Information and Disclaimer:The information provided on this page represents TI's knowledge and belief as of the date that it is provided. TI bases its knowledge and belief on information provided by third parties, and\nmakes no representation or warranty as to the accuracy of such information. Efforts are underway to better integrate information from third parties. TI has taken and continues to take reasonable steps to provide representative\nand accurate information but may not have conducted destructive testing or chemical analysis on incoming materials and chemicals. TI and TI suppliers consider certain information to be proprietary, and thus CAS numbers\nand other limited information may not be available for release.\nIn no event shall TI's liability arising out of such information exceed the total purchase price of the TI part(s) at issue in this document sold by TI to Customer on an annual basis."
   },
   {
     "part_number": "LM317",
@@ -5170,7 +5233,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "K0\n P1"
+    "content": "K0\nP1"
   },
   {
     "part_number": "LM317",
@@ -5289,7 +5352,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "Pins\nSPQ\nReel\nDiameter"
+    "content": "Pins\nReel\nDiameter"
   },
   {
     "part_number": "LM317",
@@ -5331,7 +5394,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "W\n(mm)"
+    "content": "(mm)"
   },
   {
     "part_number": "LM317",
@@ -5359,21 +5422,21 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nSOT-223\nDCY\n4\n2500\n330.0\n12.4\n6.85\n7.3\n1.88\n8.0\n12.0\nQ3"
+    "content": "LM317DCYR\nSOT-223\n2500\n330.0\n12.4\n6.85\n1.88\n12.0\nQ3"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nSOT-223\nDCY\n4\n2500\n330.0\n12.4\n7.05\n7.4\n1.9\n8.0\n12.0\nQ3"
+    "content": "LM317DCYR\nSOT-223\n2500\n330.0\n12.4\n7.05\n12.0\nQ3"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nSOT-223\nDCY\n4\n2500\n330.0\n12.4\n6.55\n7.25\n1.9\n8.0\n12.0\nQ3"
+    "content": "LM317DCYR\nSOT-223\n2500\n330.0\n12.4\n6.55\n7.25\n12.0\nQ3"
   },
   {
     "part_number": "LM317",
@@ -5387,7 +5450,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "KTT\n3\n500\n330.0\n24.4\n10.75\n14.85\n5.0\n16.0\n24.0\nQ2"
+    "content": "330.0\n24.4\n10.75\n14.85\n16.0\n24.0\nQ2"
   },
   {
     "part_number": "LM317",
@@ -5408,7 +5471,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "KTT\n3\n500\n330.0\n24.4\n10.8\n16.3\n5.11\n16.0\n24.0\nQ2"
+    "content": "330.0\n24.4\n10.8\n16.3\n5.11\n16.0\n24.0\nQ2"
   },
   {
     "part_number": "LM317",
@@ -5464,42 +5527,42 @@
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "Device\nPackage Type\nPackage Drawing\nPins\nSPQ\nLength (mm)\nWidth (mm)\nHeight (mm)"
+    "content": "Device\nPackage Type\nPackage Drawing\nPins\nLength (mm)\nWidth (mm)\nHeight (mm)"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nSOT-223\nDCY\n4\n2500\n367.0\n367.0\n35.0"
+    "content": "LM317DCYR\nSOT-223\n2500\n367.0\n367.0\n35.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nSOT-223\nDCY\n4\n2500\n340.0\n340.0\n38.0"
+    "content": "LM317DCYR\nSOT-223\n2500\n340.0\n340.0\n38.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYR\nSOT-223\nDCY\n4\n2500\n336.0\n336.0\n48.0"
+    "content": "LM317DCYR\nSOT-223\n2500\n336.0\n336.0\n48.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KTTR\nDDPAK/TO-263\nKTT\n3\n500\n356.0\n356.0\n45.0"
+    "content": "LM317KTTR\nDDPAK/TO-263\n356.0\n356.0\n45.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KTTR\nDDPAK/TO-263\nKTT\n3\n500\n340.0\n340.0\n38.0"
+    "content": "LM317KTTR\nDDPAK/TO-263\n340.0\n340.0\n38.0"
   },
   {
     "part_number": "LM317",
@@ -5576,84 +5639,84 @@
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "Device\nPackage Name\nPackage Type\nPins\nSPQ\nL (mm)\nW (mm)\nT (\u00b5m)\nB (mm)"
+    "content": "Device\nPackage Name\nPackage Type\nPins\nL (mm)\nW (mm)\nT (\u00b5m)\nB (mm)"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY\nDCY\nSOT-223\n4\n80\n559\n8.6\n500\n3.6"
+    "content": "LM317DCY\nSOT-223"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY\nDCY\nSOT-223\n4\n80\n542.9\n8.6\n3606\n2.67"
+    "content": "LM317DCY\nSOT-223\n542.9\n3606\n2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY.A\nDCY\nSOT-223\n4\n80\n542.9\n8.6\n3606\n2.67"
+    "content": "LM317DCY.A\nSOT-223\n542.9\n3606\n2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY.A\nDCY\nSOT-223\n4\n80\n559\n8.6\n500\n3.6"
+    "content": "LM317DCY.A\nSOT-223"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY.B\nDCY\nSOT-223\n4\n80\n559\n8.6\n500\n3.6"
+    "content": "LM317DCY.B\nSOT-223"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCY.B\nDCY\nSOT-223\n4\n80\n542.9\n8.6\n3606\n2.67"
+    "content": "LM317DCY.B\nSOT-223\n542.9\n3606\n2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYG3\nDCY\nSOT-223\n4\n80\n559\n8.6\n500\n3.6"
+    "content": "LM317DCYG3\nSOT-223"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317DCYG3\nDCY\nSOT-223\n4\n80\n542.9\n8.6\n3606\n2.67"
+    "content": "LM317DCYG3\nSOT-223\n542.9\n3606\n2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KCS\nKCS\nTO-220\n3\n50\n532\n34.1\n700\n9.6"
+    "content": "LM317KCS\nTO-220\n34.1"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KCS.A\nKCS\nTO-220\n3\n50\n532\n34.1\n700\n9.6"
+    "content": "LM317KCS.A\nTO-220\n34.1"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "LM317KCSE3\nKCS\nTO-220\n3\n50\n532\n34.1\n700\n9.6"
+    "content": "LM317KCSE3\nTO-220\n34.1"
   },
   {
     "part_number": "LM317",
@@ -5695,7 +5758,7 @@
     "page_number": 37,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "B\n8.64"
+    "content": "8.64"
   },
   {
     "part_number": "LM317",
@@ -5863,7 +5926,7 @@
     "page_number": 37,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: \n \n1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\n    per ASME Y14.5M.\n2. This drawing is subject to change without notice.\n3. Features may not exist and shape may vary per different assembly sites.\n4. Reference JEDEC registration TO-263, except minimum lead thickness and minimum exposed pad length."
+    "content": "NOTES:\n1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\nper ASME Y14.5M.\n2. This drawing is subject to change without notice.\n3. Features may not exist and shape may vary per different assembly sites.\n4. Reference JEDEC registration TO-263, except minimum lead thickness and minimum exposed pad length."
   },
   {
     "part_number": "LM317",
@@ -6066,7 +6129,7 @@
     "page_number": 38,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: (continued)\n \n5. This package is designed to be soldered to a thermal pad on the board. For more information, see Texas Instruments literature numbers\n    SLMA002(www.ti.com/lit/slm002) and SLMA004 (www.ti.com/lit/slma004).\n6. Vias are optional depending on application, refer to device data sheet. It is recommended that vias under paste be filled, plugged or tented."
+    "content": "NOTES: (continued)\n5. This package is designed to be soldered to a thermal pad on the board. For more information, see Texas Instruments literature numbers\nSLMA002(www.ti.com/lit/slm002) and SLMA004 (www.ti.com/lit/slma004).\n6. Vias are optional depending on application, refer to device data sheet. It is recommended that vias under paste be filled, plugged or tented."
   },
   {
     "part_number": "LM317",
@@ -6115,7 +6178,7 @@
     "page_number": 39,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "32X (\n 1.09)"
+    "content": "32X (\n1.09)"
   },
   {
     "part_number": "LM317",
@@ -6157,7 +6220,7 @@
     "page_number": 39,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "EXPOSED METAL\nTYP"
+    "content": "EXPOSED METAL"
   },
   {
     "part_number": "LM317",
@@ -6199,7 +6262,7 @@
     "page_number": 39,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: (continued)\n \n7. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\n    design recommendations.\n8. Board assembly site may have different recommendations for stencil design."
+    "content": "NOTES: (continued)\n7. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\ndesign recommendations.\n8. Board assembly site may have different recommendations for stencil design."
   },
   {
     "part_number": "LM317",
@@ -6269,13 +6332,6 @@
     "page_number": 40,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1\n2\n3"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 40,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "0,25 (0.010)"
   },
   {
@@ -6304,7 +6360,7 @@
     "page_number": 40,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "4,60 (0.181)\nM\n0,10 (0.004)"
+    "content": "4,60 (0.181)\n0,10 (0.004)"
   },
   {
     "part_number": "LM317",
@@ -6409,7 +6465,7 @@
     "page_number": 42,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "4.7\n4.4\n1.32\n1.22"
+    "content": "1.32\n1.22"
   },
   {
     "part_number": "LM317",
@@ -6430,20 +6486,6 @@
     "page_number": 42,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "2.9\n2.6"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 42,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "6.5\n6.1"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 42,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "(6.3)"
   },
   {
@@ -6451,7 +6493,7 @@
     "page_number": 42,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "(\n3.84)"
+    "content": "3.84)"
   },
   {
     "part_number": "LM317",
@@ -6487,13 +6529,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "13.12\n12.70"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 42,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "1\n3"
   },
   {
     "part_number": "LM317",
@@ -6549,7 +6584,7 @@
     "page_number": 42,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: \n \n1. Dimensions are in millimeters. Any dimension in brackets or parenthesis are for reference only. Dimensioning and tolerancing\n    per ASME Y14.5M.\n2. This drawing is subject to change without notice.\n3. Reference JEDEC registration TO-220."
+    "content": "NOTES:\n1. Dimensions are in millimeters. Any dimension in brackets or parenthesis are for reference only. Dimensioning and tolerancing\nper ASME Y14.5M.\n2. This drawing is subject to change without notice.\n3. Reference JEDEC registration TO-220."
   },
   {
     "part_number": "LM317",
@@ -6591,14 +6626,14 @@
     "page_number": 43,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "2X \n(1.7)\nMETAL\n2X SOLDER MASK\n      OPENING"
+    "content": "2X\n(1.7)\nMETAL\n2X SOLDER MASK\nOPENING"
   },
   {
     "part_number": "LM317",
     "page_number": 43,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "3X \n(1.2)"
+    "content": "3X\n(1.2)"
   },
   {
     "part_number": "LM317",
@@ -6613,13 +6648,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "0.07 MAX\nALL AROUND"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 43,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "1\n2\n3"
   },
   {
     "part_number": "LM317",
@@ -6696,28 +6724,28 @@
     "page_number": 44,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TI PROVIDES TECHNICAL AND RELIABILITY DATA (INCLUDING DATASHEETS), DESIGN RESOURCES (INCLUDING REFERENCE \nDESIGNS), APPLICATION OR OTHER DESIGN ADVICE, WEB TOOLS, SAFETY INFORMATION, AND OTHER RESOURCES \u201cAS IS\u201d \nAND WITH ALL FAULTS, AND DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION ANY \nIMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF THIRD \nPARTY INTELLECTUAL PROPERTY RIGHTS."
+    "content": "TI PROVIDES TECHNICAL AND RELIABILITY DATA (INCLUDING DATASHEETS), DESIGN RESOURCES (INCLUDING REFERENCE\nDESIGNS), APPLICATION OR OTHER DESIGN ADVICE, WEB TOOLS, SAFETY INFORMATION, AND OTHER RESOURCES \u201cAS IS\u201d\nAND WITH ALL FAULTS, AND DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION ANY\nIMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF THIRD\nPARTY INTELLECTUAL PROPERTY RIGHTS."
   },
   {
     "part_number": "LM317",
     "page_number": 44,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "These resources are intended for skilled developers designing with TI products. You are solely responsible for (1) selecting the appropriate \nTI products for your application, (2) designing, validating and testing your application, and (3) ensuring your application meets applicable \nstandards, and any other safety, security, regulatory or other requirements."
+    "content": "These resources are intended for skilled developers designing with TI products. You are solely responsible for (1) selecting the appropriate\nTI products for your application, (2) designing, validating and testing your application, and (3) ensuring your application meets applicable\nstandards, and any other safety, security, regulatory or other requirements."
   },
   {
     "part_number": "LM317",
     "page_number": 44,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "These resources are subject to change without notice. TI grants you permission to use these resources only for development of an \napplication that uses the TI products described in the resource. Other reproduction and display of these resources is prohibited. No license \nis granted to any other TI intellectual property right or to any third party intellectual property right. TI disclaims responsibility for, and you fully \nindemnify TI and its representatives against any claims, damages, costs, losses, and liabilities arising out of your use of these resources."
+    "content": "These resources are subject to change without notice. TI grants you permission to use these resources only for development of an\napplication that uses the TI products described in the resource. Other reproduction and display of these resources is prohibited. No license\nis granted to any other TI intellectual property right or to any third party intellectual property right. TI disclaims responsibility for, and you fully\nindemnify TI and its representatives against any claims, damages, costs, losses, and liabilities arising out of your use of these resources."
   },
   {
     "part_number": "LM317",
     "page_number": 44,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TI\u2019s products are provided subject to TI\u2019s Terms of Sale, TI\u2019s General Quality Guidelines, or other applicable terms available either on \nti.com or provided in conjunction with such TI products. TI\u2019s provision of these resources does not expand or otherwise alter TI\u2019s applicable \nwarranties or warranty disclaimers for TI products. Unless TI explicitly designates a product as custom or customer-specified, TI products \nare standard, catalog, general purpose devices."
+    "content": "TI\u2019s products are provided subject to TI\u2019s Terms of Sale, TI\u2019s General Quality Guidelines, or other applicable terms available either on\nti.com or provided in conjunction with such TI products. TI\u2019s provision of these resources does not expand or otherwise alter TI\u2019s applicable\nwarranties or warranty disclaimers for TI products. Unless TI explicitly designates a product as custom or customer-specified, TI products\nare standard, catalog, general purpose devices."
   },
   {
     "part_number": "LM317",

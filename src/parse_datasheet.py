@@ -91,8 +91,31 @@ def is_noise(text: str) -> bool:
     return False
 
 
+BARE_NUMBER_LINE = re.compile(r"^\d+(?:\.\d+)*$")
+
+
+def _is_real_header(candidate: str) -> bool:
+    """Check candidate text against the section regex, rejecting sentences
+    that merely start with a section title word (e.g. "Specifications are
+    for TJ=25C...") rather than being an actual heading."""
+    match = SECTION_REGEX.search(candidate)
+    if not match or len(candidate) >= 80:
+        return False
+    trailing = candidate[match.end():].strip()
+    looks_like_sentence = trailing and trailing[0].islower()
+    return not looks_like_sentence
+
+
 def extract_text_chunks(pdf_path: Path, part_number: str):
-    """Extract text per page, tagging each block with the current section."""
+    """Extract text per page, tagging each chunk with the current section.
+
+    Scans line-by-line within each block (not just the first line) because
+    some datasheet templates split a section number and its title across
+    two separate lines within one block, e.g.:
+        "6\\nDevice Comparison Table (1)\\n"
+    A bare numeric line is merged with the following line before testing
+    for a header match to catch this case.
+    """
     chunks = []
     current_section = "General / Overview"
     noise_filtered = 0
@@ -107,52 +130,60 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
                 if not raw:
                     continue
 
-                lines = raw.splitlines()
-                first_line = lines[0].strip()
+                lines = [ln.strip() for ln in raw.splitlines() if ln.strip()]
+                segment_lines = []
+                i = 0
+                while i < len(lines):
+                    line = lines[i]
+                    candidate = line
+                    consumed = 1
 
-                # Only test the FIRST LINE against the header patterns, not
-                # the whole block - PyMuPDF frequently merges a heading with
-                # the note/line that follows it into a single block, and
-                # checking the whole block's length was causing real section
-                # boundaries to be missed entirely.
-                match = SECTION_REGEX.search(first_line)
-                if match and len(first_line) < 80:
-                    trailing = first_line[match.end():].strip()
-                    # Reject false positives where the matched title is just
-                    # the start of a sentence, not an actual heading - e.g.
-                    # "Specifications are for TJ=25C (unless otherwise noted)"
-                    # matches "Specifications" but isn't a section header.
-                    # Real headers only have symbols/parens/dashes/numbers
-                    # trailing (e.g. "(continued)", "- All Output Versions"),
-                    # never a continuing lowercase word.
-                    looks_like_sentence = trailing and trailing[0].islower()
-                    if not looks_like_sentence:
-                        current_section = first_line
-                        # If the block had more content after the heading
-                        # line, keep it as body text under the NEW section
-                        # rather than discarding it.
-                        remainder = "\n".join(lines[1:]).strip()
-                        if remainder and not is_noise(remainder):
-                            chunks.append({
-                                "part_number": part_number,
-                                "page_number": page_num,
-                                "section": current_section,
-                                "type": "text",
-                                "content": remainder,
-                            })
+                    # A bare number line ("6", "8.5") followed by a title on
+                    # the next line - merge them before testing for a header.
+                    if BARE_NUMBER_LINE.match(line) and i + 1 < len(lines):
+                        merged = f"{line} {lines[i + 1]}"
+                        if _is_real_header(merged):
+                            candidate = merged
+                            consumed = 2
+
+                    if _is_real_header(candidate):
+                        # Flush accumulated body text under the OLD section
+                        # before switching to the new one.
+                        if segment_lines:
+                            content = "\n".join(segment_lines).strip()
+                            if is_noise(content):
+                                noise_filtered += 1
+                            else:
+                                chunks.append({
+                                    "part_number": part_number,
+                                    "page_number": page_num,
+                                    "section": current_section,
+                                    "type": "text",
+                                    "content": content,
+                                })
+                            segment_lines = []
+                        current_section = candidate
+                        i += consumed
                         continue
 
-                if is_noise(raw):
-                    noise_filtered += 1
-                    continue
+                    if is_noise(line):
+                        noise_filtered += 1
+                    else:
+                        segment_lines.append(line)
+                    i += 1
 
-                chunks.append({
-                    "part_number": part_number,
-                    "page_number": page_num,
-                    "section": current_section,
-                    "type": "text",
-                    "content": raw,
-                })
+                if segment_lines:
+                    content = "\n".join(segment_lines).strip()
+                    if is_noise(content):
+                        noise_filtered += 1
+                    else:
+                        chunks.append({
+                            "part_number": part_number,
+                            "page_number": page_num,
+                            "section": current_section,
+                            "type": "text",
+                            "content": content,
+                        })
 
     if noise_filtered:
         print(f"  filtered {noise_filtered} noise fragments (pin/graph labels)")

@@ -32,7 +32,7 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "Sample &\nBuy"
+    "content": "Sample &"
   },
   {
     "part_number": "TPS61030",
@@ -53,35 +53,35 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "1\nFeatures\n3\nDescription\nThe TPS6103x devices provide a power supply"
+    "content": "Features\nDescription\nThe TPS6103x devices provide a power supply"
   },
   {
     "part_number": "TPS61030",
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "1\u2022\n96% Efficient Synchronous Boost Converter With\nsolution for products powered by either a one-cell Li-\n1000-mA Output Current\nIon or Li-polymer, or a two to three-cell alkaline, NiCd\nFrom 1.8-V Input\nor NiMH battery. The converter generates a stable\n\u2022\nDevice Quiescent Current: 20-\u00b5A (Typ)\noutput voltage that is either adjusted by an external\nresistor divider or fixed internally on the chip. It\n\u2022\nInput Voltage Range: 1.8-V to 5.5-V"
+    "content": "1\u2022\n96% Efficient Synchronous Boost Converter With\nsolution for products powered by either a one-cell Li-\n1000-mA Output Current\nIon or Li-polymer, or a two to three-cell alkaline, NiCd\nFrom 1.8-V Input\nor NiMH battery. The converter generates a stable\nDevice Quiescent Current: 20-\u00b5A (Typ)\noutput voltage that is either adjusted by an external\nresistor divider or fixed internally on the chip. It\nInput Voltage Range: 1.8-V to 5.5-V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "provides\nhigh\nefficient\npower\nconversion\nand\nis\n\u2022\nFixed and Adjustable Output Voltage Options Up\ncapable of delivering output currents up to 1 A at 5 V\nto 5.5-V\nat a supply voltage down to 1.8 V. The implemented\n\u2022\nPower Save Mode for Improved Efficiency at Low\nboost converter is based on a fixed frequency, pulse-\nOutput Power\nwidth-\nmodulation\n(PWM)\ncontroller\nusing\na\nsynchronous rectifier to obtain maximum efficiency.\n\u2022\nLow Battery Comparator"
+    "content": "provides\nhigh\nefficient\npower\nconversion\nFixed and Adjustable Output Voltage Options Up\ncapable of delivering output currents up to 1 A at 5 V\nto 5.5-V\nat a supply voltage down to 1.8 V. The implemented\nPower Save Mode for Improved Efficiency at Low\nboost converter is based on a fixed frequency, pulse-\nOutput Power\nwidth-\nmodulation\n(PWM)\ncontroller\nusing\nsynchronous rectifier to obtain maximum efficiency.\nLow Battery Comparator"
   },
   {
     "part_number": "TPS61030",
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "At low load currents the converter enters Power Save\n\u2022\nLow EMI-Converter (Integrated Antiringing Switch)\nmode to maintain a high efficiency over a wide load\n\u2022\nLoad Disconnect During Shutdown\ncurrent\nrange.\nThe\nPower\nSave\nmode\ncan\nbe\n\u2022\nOver-Temperature Protection\ndisabled, forcing the converter to operate at a fixed\nswitching frequency. It can also operate synchronized\n\u2022\nAvailable in a Small 4 mm x 4 mm QFN-16 or in a"
+    "content": "At low load currents the converter enters Power Save\nLow EMI-Converter (Integrated Antiringing Switch)\nmode to maintain a high efficiency over a wide load\nLoad Disconnect During Shutdown\ncurrent\nrange.\nPower\nSave\nmode\nOver-Temperature Protection\ndisabled, forcing the converter to operate at a fixed\nswitching frequency. It can also operate synchronized\nAvailable in a Small 4 mm x 4 mm QFN-16 or in a"
   },
   {
     "part_number": "TPS61030",
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "to an external clock signal that is applied to the\nTSSOP-16 Package\nSYNC pin. The maximum peak current in the boost\nswitch is limited to a value of 4500 mA.\n2\nApplications"
+    "content": "to an external clock signal that is applied to the\nTSSOP-16 Package\nSYNC pin. The maximum peak current in the boost\nswitch is limited to a value of 4500 mA.\nApplications"
   },
   {
     "part_number": "TPS61030",
@@ -95,7 +95,7 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "drain.\nDuring\nshutdown,\nthe\nload\nis\ncompletely\nProducts\nas\nMP-3\nPlayer,\nPDAs,\nand\nOther\ndisconnected from the battery. A low-EMI mode is\nPortable Equipment\nimplemented to reduce ringing and, in effect, lower\nradiated electromagnetic energy when the converter\nenters the discontinuous conduction mode."
+    "content": "drain.\nDuring\nshutdown,\nload\ncompletely\nProducts\nMP-3\nPlayer,\nPDAs,\nOther\ndisconnected from the battery. A low-EMI mode is\nPortable Equipment\nimplemented to reduce ringing and, in effect, lower\nradiated electromagnetic energy when the converter\nenters the discontinuous conduction mode."
   },
   {
     "part_number": "TPS61030",
@@ -172,7 +172,7 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "4\nSimplified Schematic"
+    "content": "Simplified Schematic"
   },
   {
     "part_number": "TPS61030",
@@ -319,369 +319,320 @@
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "10.3\nFeature Description............................................... 10\n1\nFeatures.................................................................. 1"
+    "content": "10.3\nFeature Description............................................... 10\nFeatures.................................................................. 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "10.4\nDevice Functional Modes...................................... 10\n2\nApplications ........................................................... 1"
+    "content": "10.4\nDevice Functional Modes...................................... 10\nApplications ........................................................... 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "11 Application and Implementation........................ 12",
     "type": "text",
-    "content": "11\nApplication and Implementation........................ 12\n3\nDescription ............................................................. 1"
+    "content": "Description ............................................................. 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "11.1 Application Information.......................................... 12",
     "type": "text",
-    "content": "11.1\nApplication Information.......................................... 12\n4\nSimplified Schematic............................................. 1"
+    "content": "Simplified Schematic............................................. 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "11.2 Typical Application ............................................... 12",
     "type": "text",
-    "content": "11.2\nTypical Application ............................................... 12\n5\nRevision History..................................................... 2"
+    "content": "Revision History..................................................... 2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "8.1 Absolute Maximum Ratings ...................................... 4",
     "type": "text",
-    "content": "12\nPower Supply Recommendations ..................... 18\n6\nDevice Comparison Table..................................... 3"
+    "content": "13.3\nThermal Considerations........................................ 18"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "8.3 Recommended Operating Conditions....................... 4",
     "type": "text",
-    "content": "13\nLayout................................................................... 18\n7\nPin Configuration and Functions......................... 3"
+    "content": "14.1\nDevice Support...................................................... 19"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "8.4 Thermal Information.................................................. 4",
     "type": "text",
-    "content": "13.1\nLayout Considerations .......................................... 18\n8\nSpecifications......................................................... 4\n13.2\nLayout Example .................................................... 18\n8.1\nAbsolute Maximum Ratings ...................................... 4\n13.3\nThermal Considerations........................................ 18\n8.2\nESD Ratings ............................................................ 4"
+    "content": "14.2\nRelated Links ........................................................ 19"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "8.5 Electrical Characteristics........................................... 5",
     "type": "text",
-    "content": "14\nDevice and Documentation Support ................. 19\n8.3\nRecommended Operating Conditions....................... 4"
+    "content": "14.3\nTrademarks........................................................... 19"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "8.6 Typical Characteristics.............................................. 6",
     "type": "text",
-    "content": "14.1\nDevice Support...................................................... 19\n8.4\nThermal Information.................................................. 4"
+    "content": "14.4\nElectrostatic Discharge Caution............................ 19\nParameter Measurement Information .................. 8\n14.5\nGlossary................................................................ 19"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10 Detailed Description ............................................. 9",
     "type": "text",
-    "content": "14.2\nRelated Links ........................................................ 19\n8.5\nElectrical Characteristics........................................... 5"
+    "content": "Mechanical, Packaging, and Orderable\n10.1\nOverview ................................................................. 9\nInformation ........................................................... 19"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
-    "content": "14.3\nTrademarks........................................................... 19\n8.6\nTypical Characteristics.............................................. 6"
+    "content": "Revision History\nNOTE: Page numbers for previous revisions may differ from page numbers in the current version."
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "14.4\nElectrostatic Discharge Caution............................ 19\n9\nParameter Measurement Information .................. 8\n14.5\nGlossary................................................................ 19\n10\nDetailed Description ............................................. 9\n15\nMechanical, Packaging, and Orderable\n10.1\nOverview ................................................................. 9\nInformation ........................................................... 19\n10.2\nFunctional Block Diagram ....................................... 9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "5\nRevision History\nNOTE: Page numbers for previous revisions may differ from page numbers in the current version."
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
     "content": "Changes from Revision F (October 2014) to Revision G\nPage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
-    "content": "\u2022\nMoved Tstg spec to the Absolute Maximum Ratings table. Changed Handling Ratings to ESD Ratings............................... 4"
+    "content": "Moved Tstg spec to the Absolute Maximum Ratings table. Changed Handling Ratings to ESD Ratings............................... 4"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
-    "content": "\u2022\nAdded System Examples .................................................................................................................................................... 16"
+    "content": "Added System Examples .................................................................................................................................................... 16"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
     "content": "Changes from Revision E (January 2012) to Revision F\nPage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
-    "content": "\u2022\nAdded Device Information and Handling Rating tables, Feature Description section, Device Functional Modes,\nApplication and Implementation section, Power Supply Recommendations section, Layout section, Device and\nDocumentation Support section, and Mechanical, Packaging, and Orderable Information section ..................................... 1"
+    "content": "Added Device Information and Handling Rating tables, Feature Description section, Device Functional Modes,\nApplication and Implementation section, Power Supply Recommendations section, Layout section, Device and\nDocumentation Support section, and Mechanical, Packaging, and Orderable Information section ..................................... 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
     "content": "Changes from Revision D (April 2004) to Revision E\nPage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
-    "content": "\u2022\nChanged the temperature range From: 40\u00b0C to 85\u00b0C To: -40\u00b0C to 85\u00b0C.............................................................................. 3"
+    "content": "Changed the temperature range From: 40\u00b0C to 85\u00b0C To: -40\u00b0C to 85\u00b0C.............................................................................. 3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
-    "content": "2\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "10.2 Functional Block Diagram ....................................... 9",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
-    "content": "6\nDevice Comparison Table (1)"
+    "content": "OUTPUT VOLTAGE\nPACKAGE\nPART NUMBER(1)\nDC/DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "OUTPUT VOLTAGE\nTA\nPACKAGE\nPART NUMBER(1)\nDC/DC"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "Adjustable\nTPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "3.3 V\n16-Pin TSSOP PowerPAD\u2122\nTPS61031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "5 V\nTPS61032\n-40\u00b0C to 85\u00b0C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "Adjustable\nTPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "3.3 V\n16-Pin QFN\nTPS61031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "5 V\nTPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "6 Device Comparison Table (1)",
     "type": "text",
     "content": "(1)\nContact the factory to check availability of other fixed output voltage versions.\n(1)\nFor all available packages, see the orderable addendum at the end of the datasheet."
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "7\nPin Configuration and Functions"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
     "content": "PWP Package\nRSA Package\n16-Pins\n16-Pins\nTop View\nTop View"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
-    "content": "16\n15\n14\n13\n12\n11\n10\n9"
+    "content": "PGND\nPGND\nPGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "1\n2\n3\n4\n5\n6\n7\n8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "SW\nSW\nPGND\nPGND\nPGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
-    "content": "NC\nVOUT\nVOUT\nVOUT\nFB\nGND\nLBO\nEN"
+    "content": "VOUT\nVOUT\nVOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
-    "content": "LBO\nVOUT"
+    "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
     "content": "PowerPAD"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
-    "content": "SYNC\nEN"
+    "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "VBAT"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "LBI\nSYNC"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "SW\nLBI"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "General / Overview",
+    "section": "7 Pin Configuration and Functions",
+    "type": "text",
+    "content": "SYNC"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "7 Pin Configuration and Functions",
+    "type": "text",
+    "content": "PGND"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "7 Pin Configuration and Functions",
+    "type": "text",
+    "content": "PGND"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "7 Pin Configuration and Functions",
+    "type": "text",
+    "content": "PGND"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "7 Pin Configuration and Functions",
+    "type": "text",
+    "content": "VBAT"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "7 Pin Configuration and Functions",
     "type": "text",
     "content": "NC \u2212No internal connection"
   },
@@ -697,49 +648,42 @@
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "PWP\nRSA"
+    "content": "Enable input. (1/VBAT enabled, 0/GND disabled)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "EN\n9\n11\nI\nEnable input. (1/VBAT enabled, 0/GND disabled)"
+    "content": "Voltage feedback of adjustable versions"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "FB\n12\n14\nI\nVoltage feedback of adjustable versions"
+    "content": "I/O\nControl/logic ground"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "GND\n11\n13\nI/O\nControl/logic ground"
+    "content": "Low battery comparator input (comparator enabled with EN)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBI\n7\n9\nI\nLow battery comparator input (comparator enabled with EN)"
+    "content": "Low battery comparator output (open drain)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBO\n10\n12\nO\nLow battery comparator output (open drain)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "NC\n16\n2\nNot connected"
+    "content": "Not connected"
   },
   {
     "part_number": "TPS61030",
@@ -760,35 +704,35 @@
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SYNC\n8\n10\nI\nEnable/disable power save mode (1/VBAT disabled, 0/GND enabled, clock signal for\nsynchronization)"
+    "content": "SYNC\nEnable/disable power save mode (1/VBAT disabled, 0/GND enabled, clock signal for\nsynchronization)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW\n1, 2\n3, 4\nI\nBoost and rectifying switch input"
+    "content": "1, 2\n3, 4\nBoost and rectifying switch input"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "VBAT\n6\n8\nI\nSupply voltage"
+    "content": "VBAT\nSupply voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "VOUT\n13, 14, 15\n1, 15, 16\nO\nDC/DC output"
+    "content": "VOUT\n13, 14, 15\n1, 15, 16\nDC/DC output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n3"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
@@ -814,3346 +758,3199 @@
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8\nSpecifications"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8.1\nAbsolute Maximum Ratings"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "over operating free-air temperature range (unless otherwise noted)(1)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "MIN\nMAX\nUNIT"
+    "content": "UNIT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "VI\nInput voltage on LBI\n\u20130.3\n3.6\nV"
+    "content": "Input voltage on LBI\n\u20130.3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "Input voltage on SW, VOUT, LBO, VBAT, SYNC, EN, FB\n\u20130.3\n7\nV"
+    "content": "Input voltage on SW, VOUT, LBO, VBAT, SYNC, EN, FB\n\u20130.3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "text",
-    "content": "TJ\nMaximum junction temperature\n\u201340\n150\n\u00b0C\nTstg\nStorage temperature range\n\u201365\n150"
+    "content": "Maximum junction temperature\nTstg\nStorage temperature range"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "(1)\nStresses beyond those listed under Absolute Maximum Ratings may cause permanent damage to the device. These are stress ratings\nonly, and functional operation of the device at these or any other conditions beyond those indicated under Recommended Operating\nConditions is not implied. Exposure to absolute-maximum-rated conditions for extended periods may affect device reliability."
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.2 ESD Ratings",
     "type": "text",
-    "content": "8.2\nESD Ratings"
+    "content": "UNIT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.2 ESD Ratings",
     "type": "text",
-    "content": "MIN\nMAX\nUNIT"
+    "content": "Human body model (HBM), per ANSI/ESDA/JEDEC JS-001, all\n\u20132000\n2000\npins(1)\nV(ESD)\nElectrostatic discharge\nCharged device model (CDM), per JEDEC specification JESD22-\n\u20131000\n1000\nC101, all pins(2)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Human body model (HBM), per ANSI/ESDA/JEDEC JS-001, all\n\u20132000\n2000\npins(1)\nV(ESD)\nElectrostatic discharge\nV\nCharged device model (CDM), per JEDEC specification JESD22-\n\u20131000\n1000\nC101, all pins(2)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.2 ESD Ratings",
     "type": "text",
     "content": "(1)\nJEDEC document JEP155 states that 500-V HBM allows safe manufacturing with a standard ESD control process.\n(2)\nJEDEC document JEP157 states that 250-V CDM allows safe manufacturing with a standard ESD control process."
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "8.3\nRecommended Operating Conditions"
+    "content": "UNIT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "MIN\nNOM\nMAX\nUNIT"
+    "content": "Supply voltage at VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "VI\nSupply voltage at VBAT\n1.8\n5.5\nV"
+    "content": "Operating ambient temperature range"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.3 Recommended Operating Conditions",
     "type": "text",
-    "content": "TA\nOperating ambient temperature range\n-40\n85\n\u00b0C"
+    "content": "Operating virtual junction temperature range"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "TJ\nOperating virtual junction temperature range\n-40\n125\n\u00b0C"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8.4\nThermal Information"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "TPS6103x"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
-    "content": "THERMAL METRIC(1)\nPWP\nRSA\nUNIT"
+    "content": "THERMAL METRIC(1)\nUNIT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "16 PINS\n16 PINS"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "R\u03b8JA\nJunction-to-ambient thermal resistance\n46.9\n35.5"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "R\u03b8JC(top)\nJunction-to-case (top) thermal resistance\n25.8\n36.7"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
-    "content": "R\u03b8JB\nJunction-to-board thermal resistance\n19.4\n12.9\n\u00b0C/W\n\u03c8JT\nJunction-to-top characterization parameter\n0.8\n0.5"
+    "content": "R\u03b8JB\nJunction-to-board thermal resistance\n19.4\n12.9\n\u00b0C/W\n\u03c8JT\nJunction-to-top characterization parameter"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "\u03c8JB\nJunction-to-board characterization parameter\n19.3\n12.9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
-    "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\n2.2\n3.8"
+    "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "(1)\nFor more information about traditional and new thermal metrics, see the IC Package Thermal Metrics application report, SPRA953."
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
-    "content": "4\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.4 Thermal Information",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8.5\nElectrical Characteristics"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "over recommended free-air temperature range and over recommended input voltage range (typical at an ambient temperature\nrange of 25\u00b0C) (unless otherwise noted)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "PARAMETER\nTEST CONDITIONS\nMIN\nTYP\nMAX\nUNIT"
+    "content": "PARAMETER\nTEST CONDITIONS\nUNIT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "DC/DC STAGE"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VI\nInput voltage range\n1.8\n5.5\nV"
+    "content": "Input voltage range"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VO\nTPS61030 output voltage range\n1.8\n5.5\nV"
+    "content": "TPS61030 output voltage range"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VFB\nTPS61030 feedback voltage\n490\n500\n510\nmV"
+    "content": "TPS61030 feedback voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "f\nOscillator frequency\n500\n600\n700\nkHz"
+    "content": "Oscillator frequency"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Frequency range for synchronization\n500\n700\nkHz"
+    "content": "Frequency range for synchronization"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Switch current limit\nVOUT= 5 V\n3600\n4000\n4500\nmA"
+    "content": "Switch current limit\nVOUT= 5 V\n3600\n4000\n4500"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Start-up current limit\n0.4 x ISW\nmA"
+    "content": "Start-up current limit\n0.4 x ISW"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "SWN switch on resistance\nVOUT= 5 V\n55\nm\u2126"
+    "content": "SWN switch on resistance\nVOUT= 5 V\nm\u2126"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "SWP switch on resistance\nVOUT= 5 V\n55\nm\u2126"
+    "content": "SWP switch on resistance\nVOUT= 5 V\nm\u2126"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Total accuracy\n-3%\n3%"
+    "content": "Total accuracy"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "Line regulation\n0.6%"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "Load regulation\n0.6%"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "IO = 0 mA, VEN = VBAT = 1.8 V,\nVBAT\n10\n25\n\u00b5A\nVOUT =5 V\nQuiescent current"
+    "content": "IO = 0 mA, VEN = VBAT = 1.8 V,\nVBAT\nVOUT =5 V\nQuiescent current"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "IO = 0 mA, VEN = VBAT = 1.8 V,\nVOUT\n10\n20\n\u00b5A\nVOUT = 5 V"
+    "content": "IO = 0 mA, VEN = VBAT = 1.8 V,\nVOUT\nVOUT = 5 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Shutdown current\nVEN= 0 V, VBAT = 2.4 V\n0.1\n1\n\u00b5A"
+    "content": "Shutdown current\nVEN= 0 V, VBAT = 2.4 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "CONTROL STAGE"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VUVLO\nUnder voltage lockout threshold\nVLBI voltage decreasing\n1.5\nV"
+    "content": "VUVLO\nUnder voltage lockout threshold\nVLBI voltage decreasing"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VIL\nLBI voltage threshold\nVLBI voltage decreasing\n490\n500\n510\nmV"
+    "content": "LBI voltage threshold\nVLBI voltage decreasing"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "LBI input hysteresis\n10\nmV"
+    "content": "LBI input hysteresis"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "LBI input current\nEN = VBAT or GND\n0.01\n0.1\n\u00b5A"
+    "content": "LBI input current\nEN = VBAT or GND\n0.01"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "LBO output low voltage\nVO = 3.3 V, IOI = 100 \u00b5A\n0.04\n0.4\nV"
+    "content": "LBO output low voltage\nVO = 3.3 V, IOI = 100 \u00b5A\n0.04"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "LBO output low current\n100\n\u00b5A"
+    "content": "LBO output low current"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "LBO output leakage current\nVLBO= 7 V\n0.01\n0.1\n\u00b5A"
+    "content": "LBO output leakage current\nVLBO= 7 V\n0.01"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VIL\nEN, SYNC input low voltage\n0.2 \u00d7 VBAT\nV"
+    "content": "EN, SYNC input low voltage\n0.2 \u00d7 VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "VIH\nEN, SYNC input high voltage\n0.8 \u00d7 VBAT\nV"
+    "content": "EN, SYNC input high voltage\n0.8 \u00d7 VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "EN, SYNC input current\nClamped on GND or VBAT\n0.01\n0.1\n\u00b5A"
+    "content": "EN, SYNC input current\nClamped on GND or VBAT\n0.01"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Overtemperature protection\n140\n\u00b0C"
+    "content": "Overtemperature protection"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Overtemperature hysteresis\n20\n\u00b0C"
+    "content": "Overtemperature hysteresis"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n5"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.5 Electrical Characteristics",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8.6\nTypical Characteristics"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Table 1. Table Of Graphs"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "DC/DC CONVERTER\nFIGURE"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 1,\nMaximum output current\nvs Input voltage\nFigure 2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs Output current (TPS61030) (VO = 2.5 V, VI = 1.8 V, VSYNC = 0 V)\nFigure 3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs Output current (TPS61031) (VO = 3.3 V, VI = 1.8 V, 2.4 V, VSYNC = 0 V)\nFigure 4"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Efficiency\nvs Output current (TPS61032) (VO = 5.0 V, VI = 2.4 V, 3.3 V, VSYNC = 0 V)\nFigure 5"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs Input voltage (TPS61031) (IO = 10 mA, 100 mA, 1000 mA, VSYNC = 0 V)\nFigure 6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs Input voltage (TPS61032) (IO = 10 mA, 100 mA, 1000 mA, VSYNC = 0 V)\nFigure 7"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs Output current (TPS61031) (VI = 2.4 V)\nFigure 8\nOutput voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs Output current (TPS61032) (VI = 3.3 V)\nFigure 9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "No-load supply current into VBAT\nvs Input voltage (TPS61032)\nFigure 10"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "No-load supply current into VOUT\nvs Input voltage (TPS61032)\nFigure 11"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Minimum Load Resistance at\nvs Input voltage (TPS61032)\nFigure 12\nStartup"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Maximum Output Current - A"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Maximum Output Current - A"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1.8\n2.2\n2.6\n3\n3.4\n3.8\n4.2\n4.6\n5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1.8\n2.2\n2.6\n3\n3.4\n3.8\n4.2\n4.6\n5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 1. TPS61031 Maximum Output Current\nFigure 2. TPS61032 Maximum Output Current\nvs Input Voltage\nvs Input Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "6\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT = 1.8 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT = 2.4 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Efficiency - %"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Efficiency - %"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "1\n10\n100\n1000\n10000"
+    "content": "1000\n10000"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "1\n10\n100\n1000\n10000"
+    "content": "1000\n10000"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "IO - Output Current - mA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO - Output Current - mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
+    "type": "text",
+    "content": "IO - Output Current - mA"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 7,
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VO = 3.3 V\nVO = 2.5 V\nVI = 1.8 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 4. TPS61031 Efficiency vs Output Current\nFigure 3. TPS61030 Efficiency vs Output Current"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO = 100 mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT = 2.4 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO = 1000 mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT = 3.3 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO = 10 mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Efficiency - %"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Efficiency - %"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "1\n10\n100\n1000\n10000"
+    "content": "1000\n10000"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1.8\n2\n2.6\n2.8\n3\n2.2\n2.4\n3.2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO - Output Current - mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VO = 5 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 5. Tps61032 Efficiency vs Output Current\nFigure 6. TPS61031 Efficiency vs Input Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO = 100 mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "3.35"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO = 10 mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "- Output Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Efficiency - %"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO = 1000 mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "3.25"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "1.8\n2.2\n2.6\n3\n3.4\n3.8\n4.2\n4.6\n5"
+    "content": "1000\n10000"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1\n10\n100\n1000\n10000"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO - Output Current - mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT = 2.4 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 7. TPS61032 Efficiency vs Input Voltage\nFigure 8. TPS61031 Output Voltage vs Output Current"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n7"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "85 C\n\u00b0"
+    "content": "85 C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "5.15"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "\u00b5A\nNo-Load Supply Current Into VBAT -"
+    "content": "No-Load Supply Current Into VBAT -"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "25 C\n\u00b0"
+    "content": "25 C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "- Output Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "\u201340 C\n\u00b0"
+    "content": "\u201340 C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "5.05"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "4.95"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "4.85"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "2\n3\n4\n5"
+    "content": "1000\n10000"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1\n10\n100\n1000\n10000"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "IO - Output Current - mA"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT = 3.3 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 10. TPS61032 No-Load Supply Current into Vbat\nFigure 9. TPS61032 Output Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "vs input Voltage\nvs Output Current"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "85 C\n\u00b0"
+    "content": "85 C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "\u00b5A\nNo-Load Supply Current Into VOUT -"
+    "content": "No-Load Supply Current Into VOUT -"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Minimum Load Resistance at Startup - \u03a9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "25 C\n\u00b0"
+    "content": "25 C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "\u201340 C\n\u00b0"
+    "content": "\u201340 C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "2\n3\n4\n5\nVI - Input Voltage - V"
+    "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "1.8\n2.2\n2.6\n3\n3.4\n3.8\n4.2\n4.6\n5\nVI - Input Voltage - V"
+    "content": "VI - Input Voltage - V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Figure 11. TPS61032 No-Load Supply Current Into Vout\nFigure 12. Minimum Load Resistance at Start-Up\nvs Input Voltage\nvs Input Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "9\nParameter Measurement Information"
+    "content": "Parameter Measurement Information"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "L1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "VCC\nBoost Output"
+    "content": "Boost Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "C2\n2.2 \u00b5F\nC3\n220 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "R3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "C1\n10 \u00b5F\nPower\nSupply"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "R4\nR6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Control Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "TPS6103x\nList of Components:\nU1 = TPS6103xPWP\nL1 = Sumida  CDRH124\u20136R8\nC1, C2 = X7R/X5R Ceramic\nC3 = Low ESR Tantalum"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
-    "content": "8\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 8,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "8.6 Typical Characteristics",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10\nDetailed Description"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10 Detailed Description",
     "type": "text",
     "content": "10.1\nOverview"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10 Detailed Description",
     "type": "text",
     "content": "The TPS6103x synchronous step-up converter typically operates at a 600 kHz frequency pulse width modulation\n(PWM) at moderate to heavy load currents. The converter enters Power Save mode at low load currents to\nmaintain a high efficiency over a wide load. The Power Save mode can also be disabled, forcing the converter to\noperate at a fixed switching frequency. The TPS6103x family is based on a fixed frequency with multiple feed\nforward controller topology. Input voltage, output voltage, and voltage drop on the NMOS switch are monitored\nand forwarded to the regulator. The peak current of the NMOS switch is also sensed to limit the maximum\ncurrent flowing through the switch and the inductor. It can also operate synchronized to an external clock signal\nthat is applied to the SYNC pin. Additionally, TPS6103x integrated the low-battery detector circuit typically used\nto supervise the battery voltage and to generate an error flag when the battery voltage drops below a user-set\nthreshold voltage."
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10.2\nFunctional Block Diagram"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Anti-\nRinging"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Gate\nControl"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10 pF"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Error Amplifier"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Regulator"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "_\n+\nVREF = 0.5 V"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Control Logic"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Oscillator"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Temperature"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Control"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "SYNC"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Low Battery Comparator"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "_\n+"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "_\n+"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "VREF = 0.5 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n9"
+    "content": "Control Logic"
   },
   {
     "part_number": "TPS61030",
     "page_number": 9,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "Oscillator"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "Temperature"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "Control"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "SYNC"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "Low Battery Comparator"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "VREF = 0.5 V"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
+    "type": "text",
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 9,
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.3\nFeature Description"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.3.1\nController Circuit"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The controller circuit of the device is based on a fixed frequency multiple feedforward controller topology. Input\nvoltage, output voltage, and voltage drop on the NMOS switch are monitored and forwarded to the regulator. So\nchanges in the operating conditions of the converter directly affect the duty cycle and must not take the indirect\nand slow way through the control loop and the error amplifier. The control loop, determined by the error amplifier,\nonly has to handle small signal errors. The input for it is the feedback voltage on the FB pin or, at fixed output\nvoltage versions, the voltage on the internal resistor divider. It is compared with the internal reference voltage to\ngenerate an accurate and stable output voltage."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The peak current of the NMOS switch is also sensed to limit the maximum current flowing through the switch and\nthe inductor. The typical peak current limit is set to 4000 mA. An internal temperature sensor prevents the device\nfrom getting overheated in case of excessive power dissipation."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.3.2\nSynchronous Rectifier"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The device integrates an N-channel and a P-channel MOSFET transistor to realize a synchronous rectifier.\nBecause the commonly used discrete Schottky rectifier is replaced with a low RDS(ON) PMOS switch, the power\nconversion efficiency reaches 96%. To avoid ground shift due to the high currents in the NMOS switch, two\nseparate ground pins are used. The reference for all control functions is the GND pin. The source of the NMOS\nswitch is connected to PGND. Both grounds must be connected on the PCB at only one point close to the GND\npin. A special circuit is applied to disconnect the load from the input during shutdown of the converter. In\nconventional synchronous rectifier circuits, the backgate diode of the high-side PMOS is forward biased in\nshutdown and allows current flowing from the battery to the output. This device however uses a special circuit\nwhich takes the cathode of the backgate diode of the high-side PMOS and disconnects it from the source when\nthe regulator is not enabled (EN = low)."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The benefit of this feature for the system design engineer is that the battery is not depleted during shutdown of\nthe converter. No additional components have to be added to the design to make sure that the battery is\ndisconnected from the output of the converter."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4\nDevice Functional Modes"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4.1\nDevice Enable"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The device is put into operation when EN is set high. It is put into a shutdown mode when EN is set to GND. In\nshutdown mode, the regulator stops switching, all internal control circuitry including the low-battery comparator is\nswitched off, and the load is isolated from the input (as described in the Synchronous Rectifier Section). This\nalso means that the output voltage can drop below the input voltage during shutdown. During start-up of the\nconverter, the duty cycle and the peak current are limited in order to avoid high peak currents drawn from the\nbattery."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4.1.1\nUndervoltage Lockout"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "An undervoltage lockout function prevents device start-up if the supply voltage on VBAT is lower than\napproximately 1.6 V. When in operation and the battery is being discharged, the device automatically enters the\nshutdown mode if the voltage on VBAT drops below approximately 1.6 V. This undervoltage lockout function is\nimplemented in order to prevent the malfunctioning of the converter."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4.2\nSoftstart"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "When the device enables the internal start-up cycle starts with the first step, the precharge phase. During\nprecharge, the rectifying switch is turned on until the output capacitor is charged to a value close to the input\nvoltage. The rectifying switch current is limited in that phase. This also limits the output current under short-circuit\nconditions at the output. After charging the output capacitor to the input voltage the device starts switching. Until\nthe output voltage is reached, the boost switch current limit is set to 40% of its nominal value to avoid high peak\ncurrents at the battery during startup. When the output voltage is reached, the regulator takes control and the\nswitch current limit is set back to 100%."
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
-    "content": "10\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 10,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Device Functional Modes (continued)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4.3\nPower Save Mode And Synchronization"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The SYNC pin can be used to select different operation modes. To enable power save, SYNC must be set low.\nPower save mode is used to improve efficiency at light load. In power save mode the converter only operates\nwhen the output voltage trips below a set threshold voltage. It ramps up the output voltage with one or several\npulses and goes again into power save mode once the output voltage exceeds the set threshold voltage. This\npower save mode can be disabled by setting the SYNC to VBAT."
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Applying an external clock with a duty cycle between 30% and 70% at the SYNC pin forces the converter to\noperate at the applied clock frequency. The external frequency has to be in the range of about \u00b120% of the\nnominal internal frequency. Detailed values are shown in the electrical characteristic section of the data sheet."
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4.4\nLow Battery Detector Circuit\u2014LBI/LBO"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The low-battery detector circuit is typically used to supervise the battery voltage and to generate an error flag\nwhen the battery voltage drops below a user-set threshold voltage. The function is active only when the device is\nenabled. When the device is disabled, the LBO pin is high-impedance. The switching threshold is 500 mV at LBI.\nDuring normal operation, LBO stays at high impedance when the voltage, applied at LBI, is above the threshold.\nIt is active low when the voltage at LBI goes below 500 mV."
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The battery voltage, at which the detection circuit switches, can be programmed with a resistive divider\nconnected to the LBI pin. The resistive divider scales down the battery voltage to a voltage level of 500 mV,\nwhich is then compared to the LBI threshold voltage. The LBI pin has a built-in hysteresis of 10 mV. See the\napplication section for more details about the programming of the LBI threshold. If the low-battery detection\ncircuit is not used, the LBI pin should be connected to GND (or to VBAT) and the LBO pin can be left\nunconnected. Do not let the LBI pin float."
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "10.4.5\nLow-EMI Switch"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "The device integrates a circuit that removes the ringing that typically appears on the SW node when the\nconverter enters discontinuous current mode. In this case, the current through the inductor ramps to zero and the\nrectifying PMOS switch is turned off to prevent a reverse current flowing from the output capacitors back to the\nbattery. Due to the remaining energy that is stored in parasitic components of the semiconductor and the\ninductor, a ringing on the SW pin is induced. The integrated antiringing switch clamps this voltage to VBAT and\ntherefore dampens ringing."
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n11"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 11,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "10.2 Functional Block Diagram",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "11\nApplication and Implementation"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11 Application and Implementation",
     "type": "text",
     "content": "NOTE\nInformation in the following applications sections is not part of the TI component\nspecification, and TI does not warrant its accuracy or completeness. TI\u2019s customers are\nresponsible for determining suitability of components for their purposes. Customers should\nvalidate and test their design implementation to confirm system functionality."
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "11.1\nApplication Information"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.1 Application Information",
     "type": "text",
     "content": "The TPS6103x dc/dc converters are intended for systems powered by a dual or triple cell NiCd or NiMH battery\nwith a typical terminal voltage between 1.8 V and 5.5 V. They can also be used in systems powered by one-cell\nLi-Ion with a typical stack voltage between 2.5 V and 4.2 V. Additionally, two or three primary and secondary\nalkaline battery cells can be the power source in systems where the TPS6103x is used."
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "11.2\nTypical Application"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "L1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "VCC\nBoost Output"
+    "content": "Boost Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C2\nC3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C1\nPower\nSupply"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R4\nR6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Control Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS6103x"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 13. Typical Application Circuit For Adjustable Output Voltage Option"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.1\nDesign Requirements"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Use the following typical application design procedure to select external components values for the TPS61030\ndevice."
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Table 2. TPS61030 5 V Output Design Parameters"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "DESIGN PARAMETERS\nEXAMPLE VALUES"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Input Voltage Range\n1.8 V to 5.5 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage\n5.0 V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage Ripple\n+/- 3% VOUT\nTransient Response\n+/- 10% VOUT\nInput Voltage Ripple\n+/- 200mV"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Current\n2A"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Operating Frequency\n600 kHz"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "12\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 12,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2\nDetailed Design Procedure"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.1\nProgramming The Output Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The output voltage of the TPS61030 dc/dc converter section can be adjusted with an external resistor divider.\nThe typical value of the voltage on the FB pin is 500 mV. The maximum allowed value for the output voltage is\n5.5 V. The current through the resistive divider should be about 100 times greater than the current into the FB\npin. The typical current into the FB pin is 0.01 \u00b5A, and the voltage across R6 is typically 500 mV. Based on those\ntwo values, the recommended value for R4 should be lower than 500 k\u2126, in order to set the divider current at 1\n\u00b5A or higher. Because of internal compensation circuitry the value for this resistor should be in the range of 200\nk\u2126. From that, the value of resistor R3, depending on the needed output voltage (VO), can be calculated using\nequation 1:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VO\nVFB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(1)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "If as an example, an output voltage of 3.3 V is needed, a 1-M\u2126resistor should be chosen for R3. If for any\nreason the value for R4 is chosen significantly lower than 200 k\u2126additional capacitance in parallel to R3 is\nrecommended. The required capacitance value can be easily calculated using Equation 2:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
+    "type": "text",
+    "content": "R4"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 13,
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(2)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.2\nProgramming The LBI/LBO Threshold Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The current through the resistive divider should be about 100 times greater than the current into the LBI pin. The\ntypical current into the LBI pin is 0.01 \u00b5A, and the voltage across R2 is equal to the LBI voltage threshold that is\ngenerated on-chip, which has a value of 500 mV. The recommended value for R2 is therefore in the range of 500\nk\u2126. From that, the value of resistor R1, depending on the desired minimum battery voltage VBAT, can be\ncalculated using Equation 3."
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
+    "type": "text",
+    "content": "VBAT"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 13,
+    "section": "11.2 Typical Application",
+    "type": "text",
+    "content": "VBAT"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 13,
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(3)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The output of the low battery supervisor is a simple open-drain output that goes active low if the dedicated\nbattery voltage drops below the programmed threshold voltage on LBI. The output requires a pullup resistor with\na recommended value of 1 M\u2126. The maximum voltage which is used to pull up the LBO outputs should not\nexceed the output voltage of the dc/dc converter. If not used, the LBO pin can be left floating or tied to GND."
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.3\nInductor Selection"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "A boost converter normally requires two main passive components for storing energy during the conversion. A\nboost inductor and a storage capacitor at the output are required. To select the boost inductor, it is\nrecommended to keep the possible peak inductor current below the current limit threshold of the power switch in\nthe chosen configuration. For example, the current limit threshold of the TPS6103x's switch is 4500 mA at an\noutput voltage of 5 V. The highest peak current through the inductor and the switch depends on the output load,\nthe input (VBAT), and the output voltage (VOUT). Estimation of the maximum average inductor current can be done\nusing Equation 4:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
+    "type": "text",
+    "content": "VOUT"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 13,
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(4)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "For example, for an output current of 1000 mA at 5 V, at least 3500 mA of average current flows through the\ninductor at a minimum input voltage of 1.8 V."
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The second parameter for choosing the inductor is the desired current ripple in the inductor. Normally, it is\nadvisable to work with a ripple of less than 20% of the average inductor current. A smaller ripple reduces the\nmagnetic hysteresis losses in the inductor, as well as output voltage ripple and EMI. But in the same way,\nregulation time at load changes rises. In addition, a larger inductor increases the total system costs. With those\nparameters, it is possible to calculate the value for the inductor by using Equation 5:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n13"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 13,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(5)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Parameter f is the switching frequency and \u0394IL is the ripple current in the inductor, i.e., 10% \u00d7 IL. In this example,\nthe desired inductor has the value of 5.5 \u00b5H. In typical applications a 6.8 \u00b5H inductance is recommended. The\nminimum possible inductance value is 2.2 \u00b5H. With the calculated inductance and current values, it is possible to\nchoose a suitable inductor. Care has to be taken that load transients and losses in the circuit can lead to higher\ncurrents as estimated in equation 4. Also, the losses in the inductor caused by magnetic hysteresis losses and\ncopper losses are a major parameter for total circuit efficiency."
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The following inductor series from different suppliers have been used with the TPS6103x converters:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Table 3. List Of Inductors(1)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VENDOR\nINDUCTOR SERIES"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "CDRH124"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Sumida\nCDRH103R"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "CDRH104R"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "7447779___\nWurth Electronik"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "744771___"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "EPCOS\nB82464G"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(1)\nSee Third-Party Products Disclaimer"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.4\nCapacitor Selection"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.4.1\nInput Capacitor"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "At least a 10-\u00b5F input capacitor is recommended to improve transient behavior of the regulator and EMI behavior\nof the total power supply circuit. A ceramic capacitor or a tantalum capacitor with a 100-nF ceramic capacitor in\nparallel, placed close to the IC, is recommended."
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.4.2\nOutput Capacitor"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The major parameter necessary to define the output capacitor is the maximum allowed output voltage ripple of\nthe converter. This ripple is determined by two parameters of the capacitor, the capacitance and the ESR. It is\npossible to calculate the minimum capacitance needed for the defined ripple, supposing that the ESR is zero, by\nusing Equation 6:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(6)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Parameter f is the switching frequency and \u0394V is the maximum allowed ripple."
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "With a chosen ripple voltage of 10 mV, a minimum capacitance of 100 \u00b5F is needed. The total ripple is larger\ndue to the ESR of the output capacitor. This additional component of the ripple can be calculated using\nEquation 7:"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(7)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "An additional ripple of 80 mV is the result of using a tantalum capacitor with a low ESR of 80 m\u2126. The total ripple\nis the sum of the ripple caused by the capacitance and the ripple caused by the ESR of the capacitor. In this\nexample, the total ripple is 90 mV. Additional ripple is caused by load transients. This means that the output\ncapacitance needs to be larger than calculated above to meet the total ripple requirements."
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "The output capacitor must completely supply the load during the charging phase of the inductor. A reasonable\nvalue of the output capacitance depends on the speed of the load transients and the load current during the load\nchange. With the calculated minimum value of 100 \u00b5F and load transient considerations, a recommended output\ncapacitance value is in around 220 \u00b5F. For economical reasons this usually is a tantalum capacitor. Because of\nthis the control loop has been optimized for using output capacitors with an ESR of above 30 m\u2126. The minimum\nvalue for the output capacitor is 22 \u00b5F."
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "14\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.2.4.2.1\nSmall Signal Stability"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "When using output capacitors with lower ESR, like ceramics, it is recommended to use the adjustable voltage\nversion. The missing ESR can be easily compensated there in the feedback divider. Typically a capacitor in the\nrange of 10 pF in parallel to R3 helps to obtain small signal stability with lowest ESR output capacitors. For more\ndetailed analysis the small signal transfer function of the error amplifier and regulator, which is given in Equation\n8, can be used."
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "(8)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.3\nApplication Curves"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage\n20 mV/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage\n50 mV/Div, AC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Inductor Current\n200 mA/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Inductor Current\n200 mA/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Timebase - 1 ms/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Timebase - 200 ms/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VI = 3.3 V\nRL = 5 \u03a9\nVI = 3.3 V\nRL = 100 \u03a9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 14. TPS61030 Output Voltage in Continuous Mode\nFigure 15. TPS61030 Output Voltage in Power Save Mode"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Current\n500 mA/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Input Voltage\n500 mV/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage\n20 mV/Div, AC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage\n50 mV/Div, AC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Timebase - 2 ms/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Timebase - 2 ms/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VI = 2.5 V\nIL = 80 mA to 800 mA\nVI = 2.2 V to 2.7 V\nRL = 50 \u03a9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 16. TPS61030 Load Transient Response\nFigure 17. TPS61030 Line Transient Response"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n15"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 15,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Enable\n5 V/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Output Voltage\n2 V/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Input Current\n500 mA/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Voltage at SW\n2 V/Div, DC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Timebase - 400 ms/Div"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VI = 2.4 V\nRL = 20 \u03a9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 18. TPS61030 DC/DC Converter Start-Up After Enable"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.4\nSystem Examples"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.4.1\nPower Supply Solution For Maximum Output Power"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Second application example"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "L1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VCC 5 V\nBoost Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C2\n2.2 \u00b5F\nC3\n220 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Battery"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Input"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C1\n10 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "List of Components:\nU1 = TPS6103xPWP\nL1 = Sumida  CDRH124\u20136R8\nC1, C2 = X7R,X5R Ceramic\nC3 = Low ESR Tantalum"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 19. Power Supply Solution For Maximum Output Power"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "16\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 16,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.4.2\nPower Supply Solution With Auxiliary Positive Output Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Third application example"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VCC2 10 V\nUnregulated\nAuxiliary Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C5"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "DS1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C6\n1 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "0.1 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "L1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VCC1 5 V\nBoost Main  Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C2\n2.2 \u00b5F\nC3\n220 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Battery"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Input"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C3\n10 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61032\nList of Components:\nU1 = TPS6103xPWP\nL1 = Sumida  CDRH124\u20136R8\nC3, C5, C6, = X7R,X5R Ceramic\nC3 = Low ESR Tantalum\nDS1 = BAT54S"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 20. Power Supply Solution With Auxiliary Positive Output Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "11.2.4.3\nPower Supply Solution with Auxiliary Negative Output Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Fourth application example"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VCC2 \u20135 V\nUnregulated\nAuxiliary Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C5"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "DS1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C6\n1 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "0.1 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "L1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VCC1 5 V\nBoost Main  Output"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C2\n2.2 \u00b5F\nC3\n220 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Battery"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Input"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "C1\n10 \u00b5F"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61032\nList of Components:\nU1 = TPS6103xPWP\nL1 = Sumida  CDRH124\u20136R8\nC1, C2, C5, C6 = X7R,X5R Ceramic\nC3 = Low ESR Tantalum\nDS1 = BAT54S"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Figure 21. Power Supply Solution With Auxiliary Negative Output Voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n17"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 17,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "11.2 Typical Application",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "12\nPower Supply Recommendations"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
+    "section": "12 Power Supply Recommendations",
     "type": "text",
     "content": "The device is designed to operate from an input voltage supply range between 1.8 V and 5.5 V. This input supply\nmust be well regulated. If the input supply is located more than a few inches from the converter, additional bulk\ncapacitance may be required in addition to the ceramic bypass capacitors. An electrolytic or tantalum capacitor\nwith a value of 47 \u03bcF is a typical choice."
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "13\nLayout"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "13.1\nLayout Considerations"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.1 Layout Considerations",
     "type": "text",
     "content": "As for all switching power supplies, the layout is an important step in the design, especially at high peak currents\nand high switching frequencies. If the layout is not carefully done, the regulator could show stability problems as\nwell as EMI problems. Therefore, use wide and short traces for the main current path and for the power ground\ntracks. The input capacitor, output capacitor, and the inductor should be placed as close as possible to the IC.\nUse a common ground node for power ground and a different one for control ground to minimize the effects of\nground noise. Connect these ground nodes at any place close to one of the ground pins of the IC."
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.1 Layout Considerations",
     "type": "text",
     "content": "The feedback divider should be placed as close as possible to the control ground pin of the IC. To lay out the\ncontrol ground, it is recommended to use short traces as well, separated from the power ground traces. This\navoids ground shift problems, which can occur due to superimposition of power ground current and control\nground current."
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "13.2\nLayout Example"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "VIA to  Ground Plane"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Input\nCapacitor"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "VIA to  VBAT Plane"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "PGND"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "VBAT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Inductor"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
-    "content": "LBI\nResistor 1"
+    "content": "Resistor 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "SYNC"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Output\nCapacitor 2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
-    "content": "LBI\nResistor 2"
+    "content": "Resistor 2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Exposed  PAD"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Feedback\nResistor 2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Feedback\nResistor 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Output\nCapacitor 1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "LBO Resistor"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "13.3\nThermal Considerations"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Implementation of integrated circuits in low-profile and fine-pitch surface-mount packages typically requires\nspecial attention to power dissipation. Many system-dependent issues such as thermal coupling, airflow, added\nheat sinks and convection surfaces, and the presence of other heat-generating components affect the power-\ndissipation limits of a given component."
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
-    "content": "18\nSubmit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
+    "content": "Submit Documentation Feedback\nCopyright \u00a9 2002\u20132015, Texas Instruments Incorporated"
   },
   {
     "part_number": "TPS61030",
     "page_number": 18,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "TPS61030, TPS61031, TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "www.ti.com\nSLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "Thermal Considerations (continued)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
-    "content": "Three basic approaches for enhancing thermal performance are listed below:\n\u2022\nImproving the power dissipation capability of the PCB design\n\u2022\nImproving the thermal coupling of the component to the PCB\n\u2022\nIntroducing airflow in the system"
+    "content": "Three basic approaches for enhancing thermal performance are listed below:\nImproving the power dissipation capability of the PCB design\nImproving the thermal coupling of the component to the PCB\nIntroducing airflow in the system"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "The maximum junction temperature (TJ) of the TPS6103x devices is 125\u00b0C. The thermal resistance of the 16-pin\nTSSOP PowerPAD package (PWP) is R\u0398JA = 36.5\u00b0C/W (QFN package, RSA, 38.1\u00b0C/W), if the PowerPAD is\nsoldered. Specified regulator operation is assured to a maximum ambient temperature TA of 85\u00b0C. Therefore, the\nmaximum power dissipation for the PWP package is about 1096 mW, for the RSA package it is about 1050 mW.\nMore power can be dissipated if the maximum ambient temperature of the application is lower."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "13.2 Layout Example",
     "type": "text",
     "content": "(9)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "14\nDevice and Documentation Support"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "14.1\nDevice Support"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "14.1.1\nThird-Party Products Disclaimer"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "TI'S PUBLICATION OF INFORMATION REGARDING THIRD-PARTY PRODUCTS OR SERVICES DOES NOT\nCONSTITUTE AN ENDORSEMENT REGARDING THE SUITABILITY OF SUCH PRODUCTS OR SERVICES\nOR A WARRANTY, REPRESENTATION OR ENDORSEMENT OF SUCH PRODUCTS OR SERVICES, EITHER\nALONE OR IN COMBINATION WITH ANY TI PRODUCT OR SERVICE."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "14.2\nRelated Links"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "The table below lists quick access links. Categories include technical documents, support and community\nresources, tools and software, and quick access to sample or buy."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "Table 4. Related Links"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "TECHNICAL\nTOOLS &\nSUPPORT &\nPARTS\nPRODUCT FOLDER\nSAMPLE & BUY\nDOCUMENTS\nSOFTWARE\nCOMMUNITY"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "TPS61030\nClick here\nClick here\nClick here\nClick here\nClick here"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "TPS61031\nClick here\nClick here\nClick here\nClick here\nClick here"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "TPS61032\nClick here\nClick here\nClick here\nClick here\nClick here"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "14.3\nTrademarks\nPowerPAD is a trademark of Texas Instruments.\nAll other trademarks are the property of their respective owners."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "14.4\nElectrostatic Discharge Caution"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "These devices have limited built-in ESD protection. The leads should be shorted together or the device placed in conductive foam\nduring storage or handling to prevent electrostatic damage to the MOS gates."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "14.5\nGlossary"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "SLYZ022 \u2014 TI Glossary."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "This glossary lists and explains terms, acronyms, and definitions."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
-    "content": "15\nMechanical, Packaging, and Orderable Information"
+    "content": "Mechanical, Packaging, and Orderable Information"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "The following pages include mechanical, packaging, and orderable information. This information is the most\ncurrent data available for the designated devices. This data is subject to change without notice and revision of\nthis document. For browser-based versions of this data sheet, refer to the left-hand navigation."
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
-    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback\n19"
+    "content": "Copyright \u00a9 2002\u20132015, Texas Instruments Incorporated\nSubmit Documentation Feedback"
   },
   {
     "part_number": "TPS61030",
     "page_number": 19,
-    "section": "Pin Functions",
+    "section": "14 Device and Documentation Support",
     "type": "text",
     "content": "Product Folder Links: TPS61030 TPS61031 TPS61032"
   },
@@ -4267,63 +4064,49 @@
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWP\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
+    "content": "TPS61030PWP\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWP.B\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
+    "content": "TPS61030PWP.B\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPG4\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 85\nPS61030"
+    "content": "TPS61030PWPG4\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 85\nPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPR\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
+    "content": "TPS61030PWPR\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPR.B\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
+    "content": "TPS61030PWPR.B\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPRG4\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 85\nPS61030"
+    "content": "TPS61030PWPRG4\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 85\nPS61030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030RSAR\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "1030"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "TPS61030RSAR.B\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
+    "content": "TPS61030RSAR\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
@@ -4337,7 +4120,7 @@
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030RSARG4\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 85\nTPS6"
+    "content": "TPS61030RSAR.B\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
@@ -4351,63 +4134,49 @@
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWP\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
+    "content": "TPS61030RSARG4\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 85\nTPS6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWP.B\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
+    "content": "1030"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWPR\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
+    "content": "TPS61031PWP\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWPR.B\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
+    "content": "TPS61031PWP.B\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031RSAR\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nCall TI | Nipdau\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
+    "content": "TPS61031PWPR\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1031"
+    "content": "TPS61031PWPR.B\nActive\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031RSAR.B\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nCall TI\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "1031"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "TPS61031RSARG4\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
+    "content": "TPS61031RSAR\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nCall TI | Nipdau\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
@@ -4421,7 +4190,7 @@
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031RSARG4.B\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
+    "content": "TPS61031RSAR.B\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nCall TI\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
@@ -4435,35 +4204,63 @@
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWP\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+    "content": "TPS61031RSARG4\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWP.B\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+    "content": "1031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWPR\nNRND\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+    "content": "TPS61031RSARG4.B\nActive\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWPR.B\nNRND\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+    "content": "1031"
   },
   {
     "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032RSAR\nNRND\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
+    "content": "TPS61032PWP\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 20,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "text",
+    "content": "TPS61032PWP.B\nActive\nProduction\nHTSSOP (PWP) | 16\n90 | TUBE\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 20,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "text",
+    "content": "TPS61032PWPR\nNRND\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 20,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "text",
+    "content": "TPS61032PWPR.B\nNRND\nProduction\nHTSSOP (PWP) | 16\n2000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nPS61032"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 20,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "text",
+    "content": "TPS61032RSAR\nNRND\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
@@ -4582,14 +4379,14 @@
     "page_number": 21,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032RSAR.B\nNRND\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nYes\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
+    "content": "TPS61032RSAR.B\nNRND\nProduction\nQFN (RSA) | 16\n3000 | LARGE T&R\nNIPDAU\nLevel-2-260C-1 YEAR\n-40 to 125\nTPS6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 21,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1032\n \n(1) Status:  For more details on status, see our product life cycle."
+    "content": "1032\n(1) Status:  For more details on status, see our product life cycle."
   },
   {
     "part_number": "TPS61030",
@@ -4624,7 +4421,7 @@
     "page_number": 21,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "(6) Part marking:  There may be an additional marking, which relates to the logo, the lot trace code information, or the environmental category of the part.\n \nMultiple part markings will be inside parentheses. Only one part marking contained in parentheses and separated by a \"~\" will appear on a part. If a line is indented then it is a continuation of the previous line and the two\ncombined represent the entire part marking for that device.\n \nImportant Information and Disclaimer:The information provided on this page represents TI's knowledge and belief as of the date that it is provided. TI bases its knowledge and belief on information provided by third parties, and\nmakes no representation or warranty as to the accuracy of such information. Efforts are underway to better integrate information from third parties. TI has taken and continues to take reasonable steps to provide representative\nand accurate information but may not have conducted destructive testing or chemical analysis on incoming materials and chemicals. TI and TI suppliers consider certain information to be proprietary, and thus CAS numbers\nand other limited information may not be available for release.\n \nIn no event shall TI's liability arising out of such information exceed the total purchase price of the TI part(s) at issue in this document sold by TI to Customer on an annual basis."
+    "content": "(6) Part marking:  There may be an additional marking, which relates to the logo, the lot trace code information, or the environmental category of the part.\nMultiple part markings will be inside parentheses. Only one part marking contained in parentheses and separated by a \"~\" will appear on a part. If a line is indented then it is a continuation of the previous line and the two\ncombined represent the entire part marking for that device.\nImportant Information and Disclaimer:The information provided on this page represents TI's knowledge and belief as of the date that it is provided. TI bases its knowledge and belief on information provided by third parties, and\nmakes no representation or warranty as to the accuracy of such information. Efforts are underway to better integrate information from third parties. TI has taken and continues to take reasonable steps to provide representative\nand accurate information but may not have conducted destructive testing or chemical analysis on incoming materials and chemicals. TI and TI suppliers consider certain information to be proprietary, and thus CAS numbers\nand other limited information may not be available for release.\nIn no event shall TI's liability arising out of such information exceed the total purchase price of the TI part(s) at issue in this document sold by TI to Customer on an annual basis."
   },
   {
     "part_number": "TPS61030",
@@ -4673,7 +4470,7 @@
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "K0\n P1"
+    "content": "K0\nP1"
   },
   {
     "part_number": "TPS61030",
@@ -4792,7 +4589,7 @@
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "Pins\nSPQ\nReel\nDiameter"
+    "content": "Pins\nReel\nDiameter"
   },
   {
     "part_number": "TPS61030",
@@ -4834,7 +4631,7 @@
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "W\n(mm)"
+    "content": "(mm)"
   },
   {
     "part_number": "TPS61030",
@@ -4862,35 +4659,35 @@
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPR\nHTSSOP\nPWP\n16\n2000\n330.0\n12.4\n6.9\n5.6\n1.6\n8.0\n12.0\nQ1"
+    "content": "TPS61030PWPR\nHTSSOP\n2000\n330.0\n12.4\n12.0\nQ1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWPR\nHTSSOP\nPWP\n16\n2000\n330.0\n12.4\n6.9\n5.6\n1.6\n8.0\n12.0\nQ1"
+    "content": "TPS61031PWPR\nHTSSOP\n2000\n330.0\n12.4\n12.0\nQ1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031RSARG4\nQFN\nRSA\n16\n3000\n330.0\n12.4\n4.3\n4.3\n1.5\n8.0\n12.0\nQ2"
+    "content": "TPS61031RSARG4\n3000\n330.0\n12.4\n12.0\nQ2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWPR\nHTSSOP\nPWP\n16\n2000\n330.0\n12.4\n6.9\n5.6\n1.6\n8.0\n12.0\nQ1"
+    "content": "TPS61032PWPR\nHTSSOP\n2000\n330.0\n12.4\n12.0\nQ1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032RSAR\nQFN\nRSA\n16\n3000\n330.0\n12.4\n4.3\n4.3\n1.5\n8.0\n12.0\nQ2"
+    "content": "TPS61032RSAR\n3000\n330.0\n12.4\n12.0\nQ2"
   },
   {
     "part_number": "TPS61030",
@@ -4939,42 +4736,42 @@
     "page_number": 23,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "Device\nPackage Type\nPackage Drawing\nPins\nSPQ\nLength (mm)\nWidth (mm)\nHeight (mm)"
+    "content": "Device\nPackage Type\nPackage Drawing\nPins\nLength (mm)\nWidth (mm)\nHeight (mm)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 23,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPR\nHTSSOP\nPWP\n16\n2000\n350.0\n350.0\n43.0"
+    "content": "TPS61030PWPR\nHTSSOP\n2000\n350.0\n350.0\n43.0"
   },
   {
     "part_number": "TPS61030",
     "page_number": 23,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWPR\nHTSSOP\nPWP\n16\n2000\n350.0\n350.0\n43.0"
+    "content": "TPS61031PWPR\nHTSSOP\n2000\n350.0\n350.0\n43.0"
   },
   {
     "part_number": "TPS61030",
     "page_number": 23,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031RSARG4\nQFN\nRSA\n16\n3000\n350.0\n350.0\n43.0"
+    "content": "TPS61031RSARG4\n3000\n350.0\n350.0\n43.0"
   },
   {
     "part_number": "TPS61030",
     "page_number": 23,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWPR\nHTSSOP\nPWP\n16\n2000\n350.0\n350.0\n43.0"
+    "content": "TPS61032PWPR\nHTSSOP\n2000\n350.0\n350.0\n43.0"
   },
   {
     "part_number": "TPS61030",
     "page_number": 23,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032RSAR\nQFN\nRSA\n16\n3000\n350.0\n350.0\n43.0"
+    "content": "TPS61032RSAR\n3000\n350.0\n350.0\n43.0"
   },
   {
     "part_number": "TPS61030",
@@ -5051,56 +4848,56 @@
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "Device\nPackage Name\nPackage Type\nPins\nSPQ\nL (mm)\nW (mm)\nT (\u00b5m)\nB (mm)"
+    "content": "Device\nPackage Name\nPackage Type\nPins\nL (mm)\nW (mm)\nT (\u00b5m)\nB (mm)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWP\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61030PWP\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWP.B\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61030PWP.B\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61030PWPG4\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61030PWPG4\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWP\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61031PWP\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61031PWP.B\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61031PWP.B\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWP\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61032PWP\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
     "page_number": 24,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TPS61032PWP.B\nPWP\nHTSSOP\n16\n90\n530\n10.2\n3600\n3.5"
+    "content": "TPS61032PWP.B\nHTSSOP\n10.2\n3600"
   },
   {
     "part_number": "TPS61030",
@@ -5191,28 +4988,7 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "A\n4.1\n3.9\nB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "PIN 1 INDEX AREA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "4.1\n3.9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "1.0\n0.8"
   },
   {
     "part_number": "TPS61030",
@@ -5240,13 +5016,6 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "2.7\n0.1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "SYMM"
   },
   {
@@ -5255,13 +5024,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "(0.2) TYP"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "5\n8"
   },
   {
     "part_number": "TPS61030",
@@ -5282,13 +5044,6 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "4\n9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "4X\n1.95"
   },
   {
@@ -5296,7 +5051,7 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "17\nSYMM"
+    "content": "SYMM"
   },
   {
     "part_number": "TPS61030",
@@ -5310,21 +5065,21 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "16\n13\nX 0.3)\n(45"
+    "content": "X 0.3)\n(45"
   },
   {
     "part_number": "TPS61030",
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "PIN 1 ID\n0.1\nC A B\n0.05\nC"
+    "content": "PIN 1 ID\nC A B\n0.05"
   },
   {
     "part_number": "TPS61030",
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "16X 0.5\n0.3"
+    "content": "16X 0.5"
   },
   {
     "part_number": "TPS61030",
@@ -5338,7 +5093,7 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES:\n \n1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\n    per ASME Y14.5M. \n2. This drawing is subject to change without notice. \n3. The package thermal pad must be soldered to the printed circuit board for thermal and mechanical performance.\n4. Reference JEDEC registration MO-220."
+    "content": "NOTES:\n1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\nper ASME Y14.5M.\n2. This drawing is subject to change without notice.\n3. The package thermal pad must be soldered to the printed circuit board for thermal and mechanical performance.\n4. Reference JEDEC registration MO-220."
   },
   {
     "part_number": "TPS61030",
@@ -5373,7 +5128,7 @@
     "page_number": 27,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "(\n2.7)"
+    "content": "2.7)"
   },
   {
     "part_number": "TPS61030",
@@ -5381,13 +5136,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "SYMM"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "13\n16"
   },
   {
     "part_number": "TPS61030",
@@ -5436,14 +5184,7 @@
     "page_number": 27,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "(\n0.2) TYP\nVIA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "5\n8"
+    "content": "0.2) TYP"
   },
   {
     "part_number": "TPS61030",
@@ -5562,7 +5303,7 @@
     "page_number": 27,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: (continued)\n \n5. This package is designed to be soldered to a thermal pad on the board. For more information, see Texas Instruments literature\n    number SLUA271 (www.ti.com/lit/slua271).\n6. Vias are optional depending on application, refer to device data sheet. If any vias are implemented, refer to their locations shown\n    on this view. It is recommended that vias under paste be filled, plugged or tented."
+    "content": "NOTES: (continued)\n5. This package is designed to be soldered to a thermal pad on the board. For more information, see Texas Instruments literature\nnumber SLUA271 (www.ti.com/lit/slua271).\n6. Vias are optional depending on application, refer to device data sheet. If any vias are implemented, refer to their locations shown\non this view. It is recommended that vias under paste be filled, plugged or tented."
   },
   {
     "part_number": "TPS61030",
@@ -5605,13 +5346,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "(0.695)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "13\n16"
   },
   {
     "part_number": "TPS61030",
@@ -5681,13 +5415,6 @@
     "page_number": 28,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "5\n8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "SYMM"
   },
   {
@@ -5723,7 +5450,7 @@
     "page_number": 28,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: (continued)\n \n7. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\n   design recommendations."
+    "content": "NOTES: (continued)\n7. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\ndesign recommendations."
   },
   {
     "part_number": "TPS61030",
@@ -5765,13 +5492,6 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TYP\n6.6\n6.2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "SEATING PLANE"
   },
   {
@@ -5800,21 +5520,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1\n16"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "2X\n4.55"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "5.1\n4.9"
   },
   {
     "part_number": "TPS61030",
@@ -5828,13 +5534,6 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "9\n8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "16X 0.30\n0.19"
   },
   {
@@ -5842,14 +5541,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "B\n4.5\n4.3"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "0.1\nC A B"
+    "content": "C A B"
   },
   {
     "part_number": "TPS61030",
@@ -5884,7 +5576,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "THERMAL\nPAD"
+    "content": "THERMAL"
   },
   {
     "part_number": "TPS61030",
@@ -5892,13 +5584,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "0.25\nGAGE PLANE"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "3.3\n2.7"
   },
   {
     "part_number": "TPS61030",
@@ -5947,13 +5632,6 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "3.3\n2.7"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "4214868/A   02/2017"
   },
   {
@@ -5968,7 +5646,7 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: \n \n1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\n    per ASME Y14.5M. \n2. This drawing is subject to change without notice. \n3. This dimension does not include mold flash, protrusions, or gate burrs. Mold flash, protrusions, or gate burrs shall not\n    exceed 0.15 mm per side.\n4. Reference JEDEC registration MO-153.\n5. Features may not be present."
+    "content": "NOTES:\n1. All linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only. Dimensioning and tolerancing\nper ASME Y14.5M.\n2. This drawing is subject to change without notice.\n3. This dimension does not include mold flash, protrusions, or gate burrs. Mold flash, protrusions, or gate burrs shall not\nexceed 0.15 mm per side.\n4. Reference JEDEC registration MO-153.\n5. Features may not be present."
   },
   {
     "part_number": "TPS61030",
@@ -6052,7 +5730,7 @@
     "page_number": 31,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "(1.1)\nTYP"
+    "content": "(1.1)"
   },
   {
     "part_number": "TPS61030",
@@ -6087,14 +5765,7 @@
     "page_number": 31,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "8\n9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 31,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "(\n0.2) TYP\nVIA\n(1.1) TYP"
+    "content": "0.2) TYP\n(1.1) TYP"
   },
   {
     "part_number": "TPS61030",
@@ -6234,7 +5905,7 @@
     "page_number": 31,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: (continued)\n \n6. Publication IPC-7351 may have alternate designs. \n7. Solder mask tolerances between and around signal pads can vary based on board fabrication site. \n8. This package is designed to be soldered to a thermal pad on the board. For more information, see Texas Instruments literature\n    numbers SLMA002 (www.ti.com/lit/slma002) and SLMA004 (www.ti.com/lit/slma004).\n9. Size of metal pad may vary due to creepage requirement."
+    "content": "NOTES: (continued)\n6. Publication IPC-7351 may have alternate designs.\n7. Solder mask tolerances between and around signal pads can vary based on board fabrication site.\n8. This package is designed to be soldered to a thermal pad on the board. For more information, see Texas Instruments literature\nnumbers SLMA002 (www.ti.com/lit/slma002) and SLMA004 (www.ti.com/lit/slma004).\n9. Size of metal pad may vary due to creepage requirement."
   },
   {
     "part_number": "TPS61030",
@@ -6325,13 +5996,6 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "8\n9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "SYMM"
   },
   {
@@ -6388,7 +6052,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "2.79 X 2.79\n0.175\n3.01 X 3.01\n0.15\n3.3 X 3.3 (SHOWN)\n0.125\n3.69 X 3.69\n0.1"
+    "content": "2.79 X 2.79\n0.175\n3.01 X 3.01\n0.15\n3.3 X 3.3 (SHOWN)\n0.125\n3.69 X 3.69"
   },
   {
     "part_number": "TPS61030",
@@ -6402,7 +6066,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "NOTES: (continued)\n \n10. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\n      design recommendations.   \n11. Board assembly site may have different recommendations for stencil design."
+    "content": "NOTES: (continued)\n10. Laser cutting apertures with trapezoidal walls and rounded corners may offer better paste release. IPC-7525 may have alternate\ndesign recommendations.\n11. Board assembly site may have different recommendations for stencil design."
   },
   {
     "part_number": "TPS61030",
@@ -6423,28 +6087,28 @@
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TI PROVIDES TECHNICAL AND RELIABILITY DATA (INCLUDING DATASHEETS), DESIGN RESOURCES (INCLUDING REFERENCE \nDESIGNS), APPLICATION OR OTHER DESIGN ADVICE, WEB TOOLS, SAFETY INFORMATION, AND OTHER RESOURCES \u201cAS IS\u201d \nAND WITH ALL FAULTS, AND DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION ANY \nIMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF THIRD \nPARTY INTELLECTUAL PROPERTY RIGHTS."
+    "content": "TI PROVIDES TECHNICAL AND RELIABILITY DATA (INCLUDING DATASHEETS), DESIGN RESOURCES (INCLUDING REFERENCE\nDESIGNS), APPLICATION OR OTHER DESIGN ADVICE, WEB TOOLS, SAFETY INFORMATION, AND OTHER RESOURCES \u201cAS IS\u201d\nAND WITH ALL FAULTS, AND DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION ANY\nIMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF THIRD\nPARTY INTELLECTUAL PROPERTY RIGHTS."
   },
   {
     "part_number": "TPS61030",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "These resources are intended for skilled developers designing with TI products. You are solely responsible for (1) selecting the appropriate \nTI products for your application, (2) designing, validating and testing your application, and (3) ensuring your application meets applicable \nstandards, and any other safety, security, regulatory or other requirements."
+    "content": "These resources are intended for skilled developers designing with TI products. You are solely responsible for (1) selecting the appropriate\nTI products for your application, (2) designing, validating and testing your application, and (3) ensuring your application meets applicable\nstandards, and any other safety, security, regulatory or other requirements."
   },
   {
     "part_number": "TPS61030",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "These resources are subject to change without notice. TI grants you permission to use these resources only for development of an \napplication that uses the TI products described in the resource. Other reproduction and display of these resources is prohibited. No license \nis granted to any other TI intellectual property right or to any third party intellectual property right. TI disclaims responsibility for, and you fully \nindemnify TI and its representatives against any claims, damages, costs, losses, and liabilities arising out of your use of these resources."
+    "content": "These resources are subject to change without notice. TI grants you permission to use these resources only for development of an\napplication that uses the TI products described in the resource. Other reproduction and display of these resources is prohibited. No license\nis granted to any other TI intellectual property right or to any third party intellectual property right. TI disclaims responsibility for, and you fully\nindemnify TI and its representatives against any claims, damages, costs, losses, and liabilities arising out of your use of these resources."
   },
   {
     "part_number": "TPS61030",
     "page_number": 33,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TI\u2019s products are provided subject to TI\u2019s Terms of Sale, TI\u2019s General Quality Guidelines, or other applicable terms available either on \nti.com or provided in conjunction with such TI products. TI\u2019s provision of these resources does not expand or otherwise alter TI\u2019s applicable \nwarranties or warranty disclaimers for TI products. Unless TI explicitly designates a product as custom or customer-specified, TI products \nare standard, catalog, general purpose devices."
+    "content": "TI\u2019s products are provided subject to TI\u2019s Terms of Sale, TI\u2019s General Quality Guidelines, or other applicable terms available either on\nti.com or provided in conjunction with such TI products. TI\u2019s provision of these resources does not expand or otherwise alter TI\u2019s applicable\nwarranties or warranty disclaimers for TI products. Unless TI explicitly designates a product as custom or customer-specified, TI products\nare standard, catalog, general purpose devices."
   },
   {
     "part_number": "TPS61030",
