@@ -200,13 +200,6 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
@@ -256,28 +249,7 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
     "content": "R4\nR6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "LBI"
   },
   {
     "part_number": "TPS61030",
@@ -298,13 +270,6 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
     "content": "Low Battery\nComparator\nOutput"
   },
   {
@@ -319,21 +284,7 @@
     "page_number": 1,
     "section": "General / Overview",
     "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
     "content": "TPS6103x"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 1,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "1"
   },
   {
     "part_number": "TPS61030",
@@ -662,20 +613,6 @@
     "page_number": 3,
     "section": "General / Overview",
     "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
     "content": "LBO\nVOUT"
   },
   {
@@ -690,13 +627,6 @@
     "page_number": 3,
     "section": "General / Overview",
     "type": "text",
-    "content": "NC"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
     "content": "SYNC\nEN"
   },
   {
@@ -705,13 +635,6 @@
     "section": "General / Overview",
     "type": "text",
     "content": "VBAT"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "SW"
   },
   {
     "part_number": "TPS61030",
@@ -761,13 +684,6 @@
     "section": "General / Overview",
     "type": "text",
     "content": "NC \u2212No internal connection"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "PIN"
   },
   {
     "part_number": "TPS61030",
@@ -1467,34 +1383,6 @@
     "page_number": 6,
     "section": "Pin Functions",
     "type": "text",
-    "content": "3.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "3.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "3"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "3"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Maximum Output Current - A"
   },
   {
@@ -1503,90 +1391,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "Maximum Output Current - A"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
   },
   {
     "part_number": "TPS61030",
@@ -1656,49 +1460,7 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "100"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "100"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "90"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "90"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "VBAT = 1.8 V"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "80"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "80"
   },
   {
     "part_number": "TPS61030",
@@ -1712,20 +1474,6 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "70"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "70"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Efficiency - %"
   },
   {
@@ -1734,104 +1482,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "Efficiency - %"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "60"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "60"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "50"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "50"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "40"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "40"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "30"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "30"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "20"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "20"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
   },
   {
     "part_number": "TPS61030",
@@ -1880,28 +1530,7 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "100"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "100"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "IO = 100 mA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "90"
   },
   {
     "part_number": "TPS61030",
@@ -1922,20 +1551,6 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "90"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "80"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "VBAT = 3.3 V"
   },
   {
@@ -1950,13 +1565,6 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "70"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Efficiency - %"
   },
   {
@@ -1965,83 +1573,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "Efficiency - %"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "60"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "80"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "50"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "40"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "70"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "30"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "20"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "60"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "50"
   },
   {
     "part_number": "TPS61030",
@@ -2090,35 +1621,7 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "3.4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "100"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "IO = 100 mA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "95"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "90"
   },
   {
     "part_number": "TPS61030",
@@ -2139,13 +1642,6 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "85"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "- Output Voltage - V"
   },
   {
@@ -2160,13 +1656,6 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "80"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "IO = 1000 mA"
   },
   {
@@ -2174,70 +1663,7 @@
     "page_number": 7,
     "section": "Pin Functions",
     "type": "text",
-    "content": "75"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "3.3"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "70"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "65"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "3.25"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "60"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "55"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "50"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "3.2"
   },
   {
     "part_number": "TPS61030",
@@ -2314,28 +1740,7 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "16"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "5.2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "85 C\n\u00b0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "14"
   },
   {
     "part_number": "TPS61030",
@@ -2363,20 +1768,6 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "5.1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "- Output Voltage - V"
   },
   {
@@ -2391,35 +1782,7 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "5.05"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "6"
   },
   {
     "part_number": "TPS61030",
@@ -2433,49 +1796,7 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "VO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "4.9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "4.85"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "4.8"
   },
   {
     "part_number": "TPS61030",
@@ -2531,20 +1852,6 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "14"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "14"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "85 C\n\u00b0"
   },
   {
@@ -2566,20 +1873,6 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "25 C\n\u00b0"
   },
   {
@@ -2588,90 +1881,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "\u201340 C\n\u00b0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "2"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "0"
   },
   {
     "part_number": "TPS61030",
@@ -2727,13 +1936,6 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
@@ -2776,28 +1978,7 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "R4\nR6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBI"
   },
   {
     "part_number": "TPS61030",
@@ -2818,13 +1999,6 @@
     "page_number": 8,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Control Output"
   },
   {
@@ -2833,13 +2007,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -2909,13 +2076,6 @@
     "page_number": 9,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "VOUT"
   },
   {
@@ -2958,13 +2118,6 @@
     "page_number": 9,
     "section": "Pin Functions",
     "type": "text",
-    "content": "100 k\u0001"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "PGND"
   },
   {
@@ -2986,28 +2139,7 @@
     "page_number": 9,
     "section": "Pin Functions",
     "type": "text",
-    "content": "_"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Regulator"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "+"
   },
   {
     "part_number": "TPS61030",
@@ -3035,21 +2167,7 @@
     "page_number": 9,
     "section": "Pin Functions",
     "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Temperature"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "EN"
   },
   {
     "part_number": "TPS61030",
@@ -3070,13 +2188,6 @@
     "page_number": 9,
     "section": "Pin Functions",
     "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Low Battery Comparator"
   },
   {
@@ -3091,20 +2202,6 @@
     "page_number": 9,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBI"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "_\n+"
   },
   {
@@ -3113,13 +2210,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "VREF = 0.5 V"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -3427,13 +2517,6 @@
     "page_number": 12,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "C2\nC3"
   },
   {
@@ -3469,28 +2552,7 @@
     "page_number": 12,
     "section": "Pin Functions",
     "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "R4\nR6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBI"
   },
   {
     "part_number": "TPS61030",
@@ -3511,13 +2573,6 @@
     "page_number": 12,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "Control Output"
   },
   {
@@ -3526,13 +2581,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -3672,27 +2720,6 @@
     "page_number": 13,
     "section": "Pin Functions",
     "type": "text",
-    "content": "VO\n500 mV \u0002 1\u0005"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "R3 \u0003 R4 \u0001\u0004"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0002 1\u0005 \u0003 180 k\u0001 \u0001\u0004"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "(1)"
   },
   {
@@ -3701,20 +2728,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "If as an example, an output voltage of 3.3 V is needed, a 1-M\u2126resistor should be chosen for R3. If for any\nreason the value for R4 is chosen significantly lower than 200 k\u2126additional capacitance in parallel to R3 is\nrecommended. The required capacitance value can be easily calculated using Equation 2:"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "CparR3 \u0002 10 pF \u0001\u0003200 k\u0001"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "R4\n\u20131\u0004"
   },
   {
     "part_number": "TPS61030",
@@ -3736,34 +2749,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "The current through the resistive divider should be about 100 times greater than the current into the LBI pin. The\ntypical current into the LBI pin is 0.01 \u00b5A, and the voltage across R2 is equal to the LBI voltage threshold that is\ngenerated on-chip, which has a value of 500 mV. The recommended value for R2 is therefore in the range of 500\nk\u2126. From that, the value of resistor R1, depending on the desired minimum battery voltage VBAT, can be\ncalculated using Equation 3."
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VBAT\nVLBI\u0002threshold"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VBAT\n500 mV \u0002 1\u0005"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "R1 \u0003 R2 \u0001\u0004"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0002 1\u0005 \u0003 390 k\u0001 \u0001\u0004"
   },
   {
     "part_number": "TPS61030",
@@ -3792,20 +2777,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "A boost converter normally requires two main passive components for storing energy during the conversion. A\nboost inductor and a storage capacitor at the output are required. To select the boost inductor, it is\nrecommended to keep the possible peak inductor current below the current limit threshold of the power switch in\nthe chosen configuration. For example, the current limit threshold of the TPS6103x's switch is 4500 mA at an\noutput voltage of 5 V. The highest peak current through the inductor and the switch depends on the output load,\nthe input (VBAT), and the output voltage (VOUT). Estimation of the maximum average inductor current can be done\nusing Equation 4:"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VOUT\nVBAT \u0001 0.8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 13,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "IL \u0002 IOUT \u0001"
   },
   {
     "part_number": "TPS61030",
@@ -3855,27 +2826,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "SLUS534G \u2013SEPTEMBER 2002\u2013REVISED MARCH 2015\nwww.ti.com"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VBAT \u0001\u0003VOUT\u2013VBAT\u0004"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "L \u0002"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0001IL \u0001 \u0192 \u0001 VOUT"
   },
   {
     "part_number": "TPS61030",
@@ -4001,27 +2951,6 @@
     "page_number": 14,
     "section": "Pin Functions",
     "type": "text",
-    "content": "IOUT \u0001\u0004VOUT \u0002 VBAT\u0005"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "Cmin \u0003"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0192 \u0001 \u0001V \u0001 VOUT"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "(6)"
   },
   {
@@ -4037,13 +2966,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "With a chosen ripple voltage of 10 mV, a minimum capacitance of 100 \u00b5F is needed. The total ripple is larger\ndue to the ESR of the output capacitor. This additional component of the ripple can be calculated using\nEquation 7:"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0001VESR \u0002 IOUT \u0001 RESR"
   },
   {
     "part_number": "TPS61030",
@@ -4107,20 +3029,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "When using output capacitors with lower ESR, like ceramics, it is recommended to use the adjustable voltage\nversion. The missing ESR can be easily compensated there in the feedback divider. Typically a capacitor in the\nrange of 10 pF in parallel to R3 helps to obtain small signal stability with lowest ESR output capacitors. For more\ndetailed analysis the small signal transfer function of the error amplifier and regulator, which is given in Equation\n8, can be used."
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 15,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0003\n5 \u0001 (R3 \u0002 R4)\nR4 \u0001 (1 \u0002 i \u0001 \u0002 \u0001 2.3 \u0001s)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 15,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "AREG \u0003\nd\nVFB"
   },
   {
     "part_number": "TPS61030",
@@ -4372,13 +3280,6 @@
     "page_number": 16,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "6.8 \u00b5H"
   },
   {
@@ -4428,28 +3329,7 @@
     "page_number": 16,
     "section": "Pin Functions",
     "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "R6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBI"
   },
   {
     "part_number": "TPS61030",
@@ -4470,28 +3350,7 @@
     "page_number": 16,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 16,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -4610,13 +3469,6 @@
     "page_number": 17,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "VOUT"
   },
   {
@@ -4666,13 +3518,6 @@
     "page_number": 17,
     "section": "Pin Functions",
     "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "C3\n10 \u00b5F"
   },
   {
@@ -4681,20 +3526,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "R6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBI"
   },
   {
     "part_number": "TPS61030",
@@ -4715,28 +3546,7 @@
     "page_number": 17,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -4820,13 +3630,6 @@
     "page_number": 17,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "VOUT"
   },
   {
@@ -4876,13 +3679,6 @@
     "page_number": 17,
     "section": "Pin Functions",
     "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "C1\n10 \u00b5F"
   },
   {
@@ -4891,20 +3687,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "R6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBI"
   },
   {
     "part_number": "TPS61030",
@@ -4925,28 +3707,7 @@
     "page_number": 17,
     "section": "Pin Functions",
     "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -5107,27 +3868,6 @@
     "page_number": 18,
     "section": "Pin Functions",
     "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBI"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "SW"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "SYNC"
   },
   {
@@ -5156,41 +3896,6 @@
     "page_number": 18,
     "section": "Pin Functions",
     "type": "text",
-    "content": "NC"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "EN"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "LBO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "VOUT"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
     "content": "VOUT"
   },
   {
@@ -5205,14 +3910,7 @@
     "page_number": 18,
     "section": "Pin Functions",
     "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "FB"
+    "content": "VOUT"
   },
   {
     "part_number": "TPS61030",
@@ -5241,13 +3939,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "LBO Resistor"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "GND"
   },
   {
     "part_number": "TPS61030",
@@ -5311,41 +4002,6 @@
     "section": "Pin Functions",
     "type": "text",
     "content": "The maximum junction temperature (TJ) of the TPS6103x devices is 125\u00b0C. The thermal resistance of the 16-pin\nTSSOP PowerPAD package (PWP) is R\u0398JA = 36.5\u00b0C/W (QFN package, RSA, 38.1\u00b0C/W), if the PowerPAD is\nsoldered. Specified regulator operation is assured to a maximum ambient temperature TA of 85\u00b0C. Therefore, the\nmaximum power dissipation for the PWP package is about 1096 mW, for the RSA package it is about 1050 mW.\nMore power can be dissipated if the maximum ambient temperature of the application is lower."
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "TJ(MAX) \u0001 TA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "\u0002 125\u00b0C \u0001 85\u00b0C"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "PD(MAX) \u0002"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "R\u0001JA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Pin Functions",
-    "type": "text",
-    "content": "36.5\u00b0C\u0003W"
   },
   {
     "part_number": "TPS61030",
@@ -6066,13 +4722,6 @@
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "W"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 22,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "P1"
   },
   {
@@ -6277,27 +4926,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "Width (mm)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 23,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "H"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 23,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "W"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 23,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "L"
   },
   {
     "part_number": "TPS61030",
@@ -6591,13 +5219,6 @@
     "page_number": 26,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "C"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "SEATING PLANE"
   },
   {
@@ -6676,20 +5297,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "17\nSYMM"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 26,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "1"
   },
   {
     "part_number": "TPS61030",
@@ -6794,20 +5401,6 @@
     "page_number": 27,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "16X (0.31)"
   },
   {
@@ -6816,13 +5409,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "(1.1)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "17"
   },
   {
     "part_number": "TPS61030",
@@ -6844,20 +5430,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "12X (0.65)\n(3.8)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 27,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "4"
   },
   {
     "part_number": "TPS61030",
@@ -7039,13 +5611,6 @@
     "page_number": 28,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TYP"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "13\n16"
   },
   {
@@ -7067,28 +5632,7 @@
     "page_number": 28,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "(0.695) TYP"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "17"
   },
   {
     "part_number": "TPS61030",
@@ -7117,20 +5661,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "12X (0.65)"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 28,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "4"
   },
   {
     "part_number": "TPS61030",
@@ -7221,13 +5751,6 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TM"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "SCALE  2.400"
   },
   {
@@ -7236,13 +5759,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "PLASTIC SMALL OUTLINE"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "C"
   },
   {
     "part_number": "TPS61030",
@@ -7264,13 +5780,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "PIN 1 ID\nAREA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "A"
   },
   {
     "part_number": "TPS61030",
@@ -7396,13 +5905,6 @@
     "page_number": 30,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "17"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 30,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "1.2 MAX"
   },
   {
@@ -7494,13 +5996,6 @@
     "page_number": 31,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TM"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 31,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "PLASTIC SMALL OUTLINE"
   },
   {
@@ -7550,20 +6045,6 @@
     "page_number": 31,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 31,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "16"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 31,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "16X (0.45)"
   },
   {
@@ -7572,13 +6053,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "(1.1)\nTYP"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 31,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "17"
   },
   {
     "part_number": "TPS61030",
@@ -7788,13 +6262,6 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "TM"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "PLASTIC SMALL OUTLINE"
   },
   {
@@ -7830,20 +6297,6 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "16"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "16X (0.45)"
   },
   {
@@ -7852,13 +6305,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "(3.3)\nBASED ON\n0.125 THICK\nSTENCIL"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "17"
   },
   {
     "part_number": "TPS61030",

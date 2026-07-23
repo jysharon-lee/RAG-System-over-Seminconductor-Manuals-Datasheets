@@ -29,32 +29,66 @@ import fitz  # PyMuPDF
 import pdfplumber
 
 # Common datasheet section headers - extend this list as you see more
-# real datasheets; manufacturers are fairly consistent about these.
-SECTION_PATTERNS = [
-    r"^\s*Absolute Maximum Ratings",
-    r"^\s*Recommended Operating Conditions",
-    r"^\s*Electrical Characteristics",
-    r"^\s*Thermal (Information|Characteristics|Resistance)",
-    r"^\s*Pin (Configuration|Description|Functions)",
-    r"^\s*Application(s)? Information",
-    r"^\s*Typical Application",
-    r"^\s*Detailed Description",
-    r"^\s*Device Comparison Table",
-    r"^\s*Ordering Information",
-    r"^\s*Package (Information|Option)",
-    r"^\s*Functional Block Diagram",
+# real datasheets; manufacturers are fairly consistent about these, but TI
+# numbers every heading (e.g. "6.1 Absolute Maximum Ratings", "4 Device
+# Comparison Table"), so we allow an optional leading number/decimal prefix.
+SECTION_TITLES = [
+    "Absolute Maximum Ratings",
+    "ESD Ratings",
+    "Recommended Operating Conditions",
+    "Thermal Information",
+    "Thermal Characteristics",
+    "Thermal Resistance",
+    "Electrical Characteristics",
+    "Typical Characteristics",
+    "Pin Configuration and Functions",
+    "Pin Functions",
+    "Pin Description",
+    "Device Comparison Table",
+    "Detailed Description",
+    "Application and Implementation",
+    "Application Information",
+    "Typical Application",
+    "Power Supply Recommendations",
+    "Layout",
+    "Device and Documentation Support",
+    "Ordering Information",
+    "Package Information",
+    "Package Option Addendum",
+    "Functional Block Diagram",
+    "Specifications",
 ]
 
-SECTION_REGEX = re.compile("|".join(SECTION_PATTERNS), re.IGNORECASE)
+NUMERIC_PREFIX = r"^\s*(?:\d+(?:\.\d+)*\s+)?"
+SECTION_REGEX = re.compile(
+    NUMERIC_PREFIX + "(?:" + "|".join(re.escape(t) for t in SECTION_TITLES) + ")",
+    re.IGNORECASE,
+)
 
 # Standalone fragments like pin numbers on a pinout diagram ("1", "2", "3.3V"
-# axis ticks on a graph, lone "+"/"-" symbols). These carry no retrievable
-# meaning on their own and just inflate the chunk count with noise.
+# axis ticks on a graph, lone "+"/"-" symbols), plus control characters and
+# stray glyph artifacts (checkbox icons, table border remnants) that some
+# PDF renderers leave behind as their own tiny text blocks.
 NOISE_PATTERN = re.compile(r"^[\d\.\-–+/,%]{1,3}$")
+CONTROL_CHAR_PATTERN = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+# Short alphabetic-only fragments: dimension callouts on mechanical drawings
+# (W, H, L) and graph axis unit labels (dB, VI). Real text, but a standalone
+# block of just "dB" has no retrievable meaning on its own.
+SHORT_LABEL_PATTERN = re.compile(r"^[A-Za-z°ΩµμΔ]{1,3}$")
 
 
 def is_noise(text: str) -> bool:
-    return bool(NOISE_PATTERN.match(text.strip()))
+    stripped = text.strip()
+    if not stripped:
+        return True
+    if CONTROL_CHAR_PATTERN.search(stripped):
+        return True
+    if NOISE_PATTERN.match(stripped) or SHORT_LABEL_PATTERN.match(stripped):
+        return True
+    # Single stray symbol with no alphanumeric content at all (e.g. "_", "|")
+    if len(stripped) <= 2 and not any(ch.isalnum() for ch in stripped):
+        return True
+    return False
 
 
 def extract_text_chunks(pdf_path: Path, part_number: str):
@@ -83,20 +117,30 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
                 # boundaries to be missed entirely.
                 match = SECTION_REGEX.search(first_line)
                 if match and len(first_line) < 80:
-                    current_section = first_line
-                    # If the block had more content after the heading line,
-                    # keep it as body text under the NEW section rather than
-                    # discarding it.
-                    remainder = "\n".join(lines[1:]).strip()
-                    if remainder and not is_noise(remainder):
-                        chunks.append({
-                            "part_number": part_number,
-                            "page_number": page_num,
-                            "section": current_section,
-                            "type": "text",
-                            "content": remainder,
-                        })
-                    continue
+                    trailing = first_line[match.end():].strip()
+                    # Reject false positives where the matched title is just
+                    # the start of a sentence, not an actual heading - e.g.
+                    # "Specifications are for TJ=25C (unless otherwise noted)"
+                    # matches "Specifications" but isn't a section header.
+                    # Real headers only have symbols/parens/dashes/numbers
+                    # trailing (e.g. "(continued)", "- All Output Versions"),
+                    # never a continuing lowercase word.
+                    looks_like_sentence = trailing and trailing[0].islower()
+                    if not looks_like_sentence:
+                        current_section = first_line
+                        # If the block had more content after the heading
+                        # line, keep it as body text under the NEW section
+                        # rather than discarding it.
+                        remainder = "\n".join(lines[1:]).strip()
+                        if remainder and not is_noise(remainder):
+                            chunks.append({
+                                "part_number": part_number,
+                                "page_number": page_num,
+                                "section": current_section,
+                                "type": "text",
+                                "content": remainder,
+                            })
+                        continue
 
                 if is_noise(raw):
                     noise_filtered += 1

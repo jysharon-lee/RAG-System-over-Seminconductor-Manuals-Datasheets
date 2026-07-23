@@ -102,28 +102,7 @@
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
-    "content": "\u0004 28V\nLM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "VIN"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
     "content": "VOUT"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "\u2020\u2020"
   },
   {
     "part_number": "LM317",
@@ -144,35 +123,7 @@
     "page_number": 1,
     "section": "Package Information",
     "type": "text",
-    "content": "R1\n240\n\u0002"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "C1*\n0.1\n\u0001F"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
     "content": "C2\u2020"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "1\u0003F"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "R2\n5k\u0000"
   },
   {
     "part_number": "LM317",
@@ -194,20 +145,6 @@
     "section": "Package Information",
     "type": "text",
     "content": "INPUT\nOUTPUT"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 1,
-    "section": "Package Information",
-    "type": "text",
-    "content": "VI"
   },
   {
     "part_number": "LM317",
@@ -373,401 +310,380 @@
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "4 Device Comparison Table"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "IOUT\nPARAMETER\nLM317\n(Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "LM317\n(New Chip)\nLM317-N\nLM317A\nLM317HV\nUNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Input voltage range\n4.25 to 40\n4.25 to 40\n4.25 to 40\n4.25 to 40\n4.25 - 60\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Load regulation accuracy\n1.5\n1.5\n1.5\n1\n1.5\n%"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "PSRR (120Hz)\n64\n80\n80\n80\n65\ndB"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Recommended operating"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "temperature\n0 to 125\n0 to 125\n0 to 125\n\u201340 to 125\n0 to 125\n\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-220 (NDE) TJA\n23.5\n23.2\n23.3\n23\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "1.5A"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-200 (KCT) TJA\n37.9\nN/A\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-252 TJA\nN/A\n54\n54\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-263 TJA\n38\n41\n41\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "SOT-223 TJA\n66.8\n59.6\n59.6\n59.6\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-92 TJA\nN/A\n186\n186\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "LM317M"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Input voltage range\n3.75 to 40\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Load regulation accuracy\n1.5\n%"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "PSRR (120Hz)\n80\ndB"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "0.5A"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Recommended operating"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "temperature\n\u221240 to 125\n\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "SOT-223 TJA\n60.2\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-252 TJA\n56.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "LM317L \nLM317L-N"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Input voltage range\n3.75 to 40\n4.25 to 40\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Load regulation accuracy\n1\n1.5\n%"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "PSRR (120Hz)\n62\n80\ndB"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Recommended operating"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "0.1A"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "temperature\n\u201340 to 125\n\u201340 to 125\n\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "SOT-23 TJA\n167.8\nN/A\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "SO-8 TJA\nN/A\n165\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "DSBGA TJA\nN/A\n290\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "TO-92 TJA\nN/A\n180\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "4\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "4 Device Comparison Table",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "5 Pin Configuration and Functions"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "INPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "Figure 5-2. KCS or KCT Package, 3-Pin TO-220"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "INPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "(Top View), Legacy Chip"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "Figure 5-1. DCY Package, 4-Pin SOT-223 (Top View)"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "INPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Typical Application",
+    "section": "5 Pin Configuration and Functions",
     "type": "text",
     "content": "Figure 5-3. KTT Package, 3-Pin TO-263 (Top View)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 5,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "PIN"
   },
   {
     "part_number": "LM317",
@@ -821,4396 +737,4039 @@
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6 Specifications"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.1 Absolute Maximum Ratings"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "over operating free-air temperature range (unless otherwise noted)(1) (2)"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "MIN\nMAX\nUNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "Power dissipation\nInternally limited"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "Input-output voltage differential\n\u22120.3\n40\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "Storage temperature, Tstg\n\u221265\n150\n\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "Operating virtual junction temperature, TJ (legacy chip)\n\u221265\n150\n\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "text",
     "content": "(1)\nStresses beyond those listed under Absolute Maximum Ratings may cause permanent damage to the device. These are stress \nratings only, which do not imply functional operation of the device at these or any other conditions beyond those indicated under \nRecommended Operating Conditions. Exposure to absolute-maximum-rated conditions for extended periods may affect device \nreliability.\n(2)\nIf Military/Aerospace specified devices are required, please contact the Texas Instruments Sales Office/Distributors for availability and \nspecifications."
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.2 ESD Ratings"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "VALUE"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "UNIT\nLegacy"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "New \nChip"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "Chip"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "Human body model (HBM), per ANSI/ESDA/JEDEC JS-001(1)\n\u00b12500\n\u00b13000"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "V(ESD)\nElectrostatic discharge"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "V\nCharged device model (CDM), per JEDEC specification JESD22-\nC101(2)\n\u00b11000\nNA"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.2 ESD Ratings",
     "type": "text",
     "content": "(1)\nJEDEC document JEP155 states that 500V HBM allows safe manufacturing with a standard ESD control process.\n(2)\nJEDEC document JEP157 states that 250V CDM allows safe manufacturing with a standard ESD control process."
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.3 Recommended Operating Conditions"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "MIN\nMAX\nUNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "VO\nOutput voltage\n1.25\n37\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "VI  \u2013 VO\nInput-to-output differential voltage\n3\n40\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "IO\nOutput current\n0.01\n1.5\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "TJ\nOperating virtual junction temperature\n0\n125\n\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "6\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.4 Thermal Information (Legacy Chip)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "UNIT\nDCY\n(SOT-223)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "KCS\n(TO-220)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "KCT\n(TO-220)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "KTT\n(TO-263)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "THERMAL METRIC(1)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "4 PINS\n3 PINS\n3 PINS\n3 PINS"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "R\u03b8(JA)\nJunction-to-ambient thermal resistance\n66.8\n23.5\n37.9\n38.0\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "R\u03b8JC(top)\nJunction-to-case (top) thermal resistance\n43.2\n15.9\n51.1\n36.5\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "R\u03b8JB\nJunction-to-board thermal resistance\n16.9\n7.9\n23.2\n18.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "\u03c8JT\nJunction-to-top characterization parameter\n3.6\n3.0\n13.0\n6.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "\u03c8JB\nJunction-to-board characterization parameter\n16.8\n7.8\n22.8\n17.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\nNA\n0.1\n4.2\n1.1\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "text",
     "content": "(1)\nFor more information about traditional and new thermal metrics, see the Semiconductor and IC package thermal metrics application \nnote."
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.5 Thermal Information (New Chip)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "UNIT\nDCY\n(SOT-223)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "KTT\n(TO-263)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "THERMAL METRIC (1) (2)"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "4 PINS\n3 PINS"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "R\u03b8(JA)\nJunction-to-ambient thermal resistance\n59.6\n41.0\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "R\u03b8JC(top)\nJunction-to-case (top) thermal resistance\n39.3\n43.6\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "R\u03b8JB\nJunction-to-board thermal resistance\n8.4\n23.6\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "\u03c8JT\nJunction-to-top characterization parameter\n1.8\n10.4\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "\u03c8JB\nJunction-to-board characterization parameter\n8.3\n22.6\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "R\u03b8JC(bot)\nJunction-to-case (bottom) thermal resistance\n\u2014\n0.9\n\u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "(1)\nFor more information about traditional and new thermal metrics, see the Semiconductor and IC package thermal metrics application \nnote.\n(2)\nWhen surface-mount packages are used (SOT-223), the junction to ambient thermal resistance is reduced by increasing the PCB \ncopper area that is thermally connected to the package. See the Heat Sink Requirements section for heat sink techniques."
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n7"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.6 Electrical Characteristics"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "some specifications apply over the full operating temperature range as noted; unless otherwise specified, TJ = 25\u00b0C, VIN \u2212 \nVOUT = 5V, and IOUT = 10mA(1)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "PARAMETER\nTEST CONDITIONS(1)\nMIN\nTYP\nMAX\nUNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "TJ = 25\u00b0C\n1.25\nV\n3V \u2264 (VIN \u2212 VOUT) \u2264 40V,\n10mA \u2264 IOUT \u2264 1500mA, PD \u2264 20W\n1.2\n1.25\n1.3"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Reference voltage"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Line regulation(2)\n3V \u2264 (VIN \u2212 VOUT) \u2264 40V(4)\nTJ = 25\u00b0C\n0.01\n0.04\n%/V\n(over full operating \ntemperature range)\n0.02\n0.07"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "IO = 10mA to \n1500mA, CADJ = \n10\u03bcF(3), TJ = \n25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VO \u2264 5V\n25\nmV"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VO \u2265 5V\n0.1\n0.5\n%VO"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Legacy chip"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "IO = 10mA to \n1500mA, TJ = \n0\u00b0C to 125\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VO \u2264 5V\n20\n70\nmV"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Load regulation"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VO \u2265 5V\n0.3\n1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "TJ = 25\u00b0C\n0.1\n0.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "%VO\nNew chip\n10mA \u2264 IOUT \u2264 \nIMAX (5)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "(over full operating \ntemperature range)\n0.3\n1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Thermal regulation\n20ms pulse\n0.04\n0.07\n%/W"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Adjustment pin current\nOver full operating temperature range\n50\n100\n\u03bcA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Adjustment pin current change\n10mA \u2264 IOUT \u2264 IMAX (4)"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "3V \u2264 (VIN \u2212 VOUT) \u2264 40V\nOver full operating \ntemperature range\n0.2\n5\n\u03bcA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Legacy chip"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "0.7\n%VO\nNew chip\n1%"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "TMIN \u2264 TJ \u2264 TMAX\nOver full operating \ntemperature range"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Temperature stability"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Minimum load current\n(VIN \u2212 VOUT) = 40V\nOver full operating \ntemperature range\n3.5\n10\nmA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "(VIN \u2212 VOUT) \u2264 15V\u2003\nPD < PMAX (3)\n1.5\n2.2\nA\n(VIN \u2212 VOUT) = 40V\nPD < PMAX (3), TJ = 25\u00b0C\n0.15\n0.4"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Current limit"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "RMS output noise, % of VOUT\n10Hz \u2264 f \u2264 10kHz\n0.003\n%"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VOUT = 10V, f = 120Hz, CADJ = 0\u03bcF(4)\n57"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Legacy chip"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VOUT = 10V, f = 120Hz, CADJ = 10\u03bcF(4)\n62\n64"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VOUT = 10V, f = 120Hz, CADJ = 0\u03bcF (over full \noperating temperature range)\n65"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Ripple rejection ratio"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "dB"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "New chip"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "VOUT = 10V, f = 120Hz, CADJ = 10\u03bcF (over \nfull operating temperature range)\n66\n80"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Long-term stability\nTJ = 25\u00b0C\n0.3\n1 %/1k hr"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "(1)\nFor the legacy chip (unless otherwise noted), the following test conditions apply: |VI \u2013 VO| = 5V, IOMAX = 1.5A, and TJ = 0\u00b0C to 125\u00b0C. \nPulse testing techniques are used to maintain the junction temperature as close to the ambient temperature as possible.\n(2)\nFor the legacy chip, line regulation is expressed as the percentage change in output voltage per 1V change at the input.\n(3)\nFor the legacy chip, maximum power dissipation is a function of TJ(max), R\u03b8JA, and TA. The maximum allowable power dissipation at \nany allowable ambient temperature is PD = (TJ(max) \u2013 TA) / R\u03b8JA. Operating at the absolute maximum TJ of 150\u00b0C potentially affects \nreliability.\n(4)\nFor the legacy chip, CADJ is connected between the ADJUST pin and GND.\n(5)\nFor the new chip, regulation is measured at a constant junction temperature, using pulse testing with a low duty cycle. Changes in \noutput voltage resulting from heating effects are covered under the specifications for thermal regulation."
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "8\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.6 Electrical Characteristics",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.7 Typical Characteristics"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.01"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "T = 25\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "T = \u201340\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.005"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "T = \u201340\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "T = 25\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "VOUT \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "VOUT \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "9.995"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "T = 125\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "T = 125\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "9.99"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "9.985"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-0.2"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "V\n= V\nOUT\nREF"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "V\n= 10 V Nom\nOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "9.98"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-0.4"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "0\n0.1\n0.2\n0.3\n0.4\n0.5\n0.6\n0.7\n0.8\n0.9\n1\n1.1\n1.2\n1.3\n1.4\n1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "0\n0.2\n0.4\n0.6\n0.8\n1\n1.2\n1.4\n1.6\n1.8\n2\n2.2\n2.4\n2.6\n2.8\n3\n3.2\n3.4"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "IOUT \u2013 A"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "IOUT \u2013 A"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Figure 6-1. Load Regulation (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Figure 6-2. Load Regulation (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-0.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.8"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.6"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "IOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.4"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "VOUT Deviation \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Load Current \u2013 A"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.2"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-2.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-3.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-4.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "C\n= 0 \u00b5F\nADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Time \u2013 \u00b5s"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Figure 6-3. Load Regulation (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Figure 6-4. Load Transient Response (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-0.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.8"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.6"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "IOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.4"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "V\nDeviation    V\nOUT\u0336"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Load Current \u2013 A"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "10.2"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-2.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-3.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "-4.5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "C\n= 10 \u00b5F\nADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Time \u2013 \u00b5s"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Figure 6-5. Load Transient Response (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Figure 6-6. Load Transient Response (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n9"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.7 Typical Characteristics (continued)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.285"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.28"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.275"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.27"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "T = \u201340\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.265"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "VOUT \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "T = 25\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.26"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "T = 125\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.255"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.25"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.245"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "1.24"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "VIN \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-7. Line Regulation (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-8. Output Voltage vs Input Voltage, VOUT = VREF (New"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Ripple Rejection \u2013 dB"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "VIN = 15 V\nVOUT = 10 V\nf = 120 Hz\nTA = 25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "IOUT \u2013 A"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-9. Output Voltage vs Input Voltage, VOUT = 5V (New"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-10. Ripple Rejection vs Output Current (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "VIN = 15 V\nVOUT = 10 V\nIOUT = 500 mA\nTA = 25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "C\n= 0 \u00b5F\nADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Ripple Rejection \u2013 dB"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Ripple Rejection \u2013 dB"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "C\n= 10 \u00b5F\nADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "VIN \u2013 VOUT = 15 V\nIOUT = 500 mA\nf = 120 Hz\nTA = 25\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "100\n1k\n10k\n100k\n1M"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "5\n10\n15\n20\n25\n30\n35"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "100\n1000\n10000\n100000\n1000000"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "VOUT \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Frequency \u2013 Hz"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-11. Ripple Rejection vs Output Voltage (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-12. Ripple Rejection vs Frequency (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "10\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.7 Typical Characteristics (continued)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-13. Ripple Rejection vs Output Voltage (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-14. Ripple Rejection vs Frequency (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-15. Ripple Rejection vs Output Current (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-16. Current Limit Threshold (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-18. Dropout Voltage vs Temperature (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-17. Adjustment Current vs Temperature (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n11"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "6.7 Typical Characteristics (continued)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-19. Temperature Stability (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-20. Minimum Operating Current (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-21. Output Impedance vs Frequency (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Figure 6-22. Line Transient Response (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "12\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "7 Detailed Description"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7 Detailed Description",
     "type": "text",
     "content": "7.1 Overview"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7 Detailed Description",
     "type": "text",
     "content": "The LM317 is an adjustable three-pin, positive-voltage regulator capable of supplying up to 1.5A over an output \nvoltage range of 1.25V to 37V. The device requires only two external resistors to set the output voltage. The \ndevice features a typical line regulation of 0.01% and typical load regulation of 0.1%. The LM317 includes \ncurrent limiting, thermal overload protection, and safe operating area protection. Overload protection remains \nfunctional even if the ADJUST pin is disconnected."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7 Detailed Description",
     "type": "text",
     "content": "The LM317 is designed to minimize the IADJUST current and make this current constant with line and load \nchanges. A 100\u03bcA current from the ADJUST pin represents an error term."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "7.2 Functional Block Diagram"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Input"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Iadj"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "1.25 V"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Over Temp &"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Over Current"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Protection"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Adj."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Output"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.3 Feature Description"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.3.1 NPN Darlington Output Drive"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "The NPN Darlington output topology provides naturally low output impedance and an output capacitor is \noptional. A 3V headroom is recommended (VI \u2013 VO) to support maximum current and lowest temperature."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.3.2 Overload Block"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Overcurrent and overtemperature shutdown protects the device against overload or damage from operating in \nexcessive heat."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.3.3 Programmable Feedback"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "An op amp with a 1.25V offset input at the ADJUST pin provides easy output voltage or current programming \n(but not both). For current regulation applications, use a single resistor whose resistance value is 1.25V / IO and \na power rating greater than (1.25V)2 / R. For voltage regulation applications, two resistors set the output voltage."
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n13"
   },
   {
     "part_number": "LM317",
     "page_number": 13,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.4 Device Functional Modes"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.4.1 Normal Operation"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "The device OUTPUT pin sources current necessary to make the OUTPUT pin 1.25V greater than ADJUST pin to \nprovide output regulation."
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.4.2 Operation With Low Input Voltage"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "The device requires up to 3V headroom (VI \u2013 VO) to operate in regulation. The device potentially drops out and \nOUTPUT voltage becomes the INPUT voltage minus the dropout voltage with less headroom."
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.4.3 Operation at Light Loads"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "The device passes the bias current to the OUTPUT pin. Make sure the load or feedback consumes this minimum \ncurrent for regulation or the output is potentially too high. See the Electrical Characteristics table for the minimum \nload current needed to maintain regulation."
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "7.4.4 Operation In Self Protection"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "When an overload occurs, the device shuts down the Darlington NPN output stage or reduces the output current \nto prevent device damage. The device automatically resets from the overload. The output is either reduced or \nalternates between on and off until the overload is removed."
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "14\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 14,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "7.2 Functional Block Diagram",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8 Application and Implementation"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8 Application and Implementation",
     "type": "text",
     "content": "Note"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8 Application and Implementation",
     "type": "text",
     "content": "Information in the following applications sections is not part of the TI component specification, \nand TI does not warrant its accuracy or completeness. TI\u2019s customers are responsible for \ndetermining suitability of components for their purposes, as well as validating and testing their design \nimplementation to confirm system functionality."
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8.1 Application Information"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.1 Application Information",
     "type": "text",
     "content": "The flexibility of the LM317 allows the device to be configured to take on many different functions in DC power \napplications."
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8.2 Typical Application"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "D1\n1N4002"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VI\nVO\nOutput\nInput"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n240 W"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Adjust"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "D2\n1N4002"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Vref = 1.25 V"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "IAdj"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Ci\n0.1 \u00b5F\nCO\n1.0 \u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "CADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-1. Adjustable Voltage Regulator"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.2.1 Design Requirements"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "\u2022\nR1 and R2 are required to set the output voltage.\n\u2022\nUse CADJ to improve ripple rejection. CADJ prevents amplification of the ripple when the output voltage \nis adjusted higher. The impact of CADJ on the ripple rejection performance is captured in the Electrical \nCharacteristics table.\n\u2022\nCi is recommended, particularly if the regulator is not in close proximity to the power-supply filter capacitors. \nA 0.1\u00b5F or 1\u00b5F ceramic or tantalum capacitor provides sufficient bypassing for most applications, especially \nwhen adjustment and output capacitors are used.\n\u2022\nCO improves transient response, but is not needed for stability.\n\u2022\nProtection diode D2 is recommended if CADJ is used. The diode provides a low-impedance discharge path to \nprevent the capacitor from discharging into the output of the regulator.\n\u2022\nProtection diode D1 is recommended if CO is used. The diode provides a low-impedance discharge path to \nprevent the capacitor from discharging into the output of the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n15"
   },
   {
     "part_number": "LM317",
     "page_number": 15,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.2.2 Detailed Design Procedure"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VO is calculated as shown in Equation 2. IADJ is typically 50\u00b5A and negligible in most applications."
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VO = VREF (1 + R2 / R1) + (IADJ \u00d7 R2)\n(2)"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.2.3 Application Curves"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.10"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.12"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C\n= 0 \u00b5F\nADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C\n= 10 \u00b5F\nADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.10"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.08"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.08"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.06"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VIN Change \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VIN Change \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.06"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VOUT \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VOUT \u2013 V"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.04"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.04"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VIN"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VIN"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.02"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.02"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.00"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10.00"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "9.98"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "9.98"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Time \u2013 \u00b5s"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Time \u2013 \u00b5s"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-2. Line-Transient Response (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-3. Line-Transient Response (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-4. Line-Transient Response (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-5. Load Transient Response (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "16\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 16,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3 System Examples"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.1 0V to 30V Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Here, the voltage is determined by:"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R\nR\nV\nV\n1\n10V\nR"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "\u00e6\n\u00f6\n+\n=\n+\n-\n\u00e7\n\u00f7\n\u00e8\n\u00f8\n(3)"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "2\n3\nOUT\nREF"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "By varying the voltage at the terminal of R3 (\u221210V in Figure 8-6), VOUT is varied from 0V to 30V. In the absence \nof \u221210V, the VOUT is only regulated to the lowest value of VREF by making R2 = 0\u03a9."
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "+35V\nVO"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n120"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0001"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "-10V"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C1\n0.1\u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n3k"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R3\n680"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0000"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0002"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-6. 0V to 30V Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n17"
   },
   {
     "part_number": "LM317",
     "page_number": 17,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.2 Adjustable Regulator Circuit With Improved Ripple Rejection"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "As shown in Figure 8-7, C2 helps stabilize the voltage at the ADJUST pin, which helps reject noise. Diode D1 \nexists to discharge C2 in case the output is shorted to ground."
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VO"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "D1\n1N4002"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n240"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0001"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C3\n1\u00b5F\nC2\n10\u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C1\n0.1\u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n5k"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0000"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-7. Adjustable Regulator Circuit with Improved Ripple Rejection"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.3 Precision Current-Limiter Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "This application limits the output current to ILIMIT in Figure 8-8."
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Ilimit\n1.2\nR1"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "OUTPUT\nINPUT\nVI"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-8. Precision Current-Limiter Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.4 Tracking Preregulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "This application keeps a constant voltage across the second LM317 in the circuit of Figure 8-9."
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n720 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n240 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VO"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R3\n120 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C1\n0.1 \u00b5F\nC2\n1 \u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R4\n1 k\u2126\nOutput"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Adjust"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-9. Tracking Preregulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "18\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 18,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.5 1.25V to 20V Regulator Circuit With Minimum Program Current"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Because the value of VREF is constant, the value of R1 determines the amount of current that flows through R1 \nand R2. The size of R2 determines the IR drop from ADJUSTMENT to GND. Higher values of R2 translate to \nhigher VOUT. Equation 4, Equation 5, and Figure 8-10 illustrate this relationship."
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\nR1\n(4)"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VOUT\u00a0 = \u00a0VREF\u00a0 1\u00a0 +"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\u00a0 + \u00a0R2 min\u00a0 = \u00a0Volreg min\n(5)"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VO\nVI"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n1.2 k\u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n20 k\u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-10. 1.25V to 20V Regulator Circuit With Minimum Program Current"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.6 Battery-Charger Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "The series resistor limits the current output of the LM317, minimizing damage to the battery cell."
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "R2\nV\n1.25 V\n1\nR1\n\u00a7\n\u00b7\n \nu\n\u000e\n\u00a8\n\u00b8\n\u00a9\n\u00b9\n(6)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "OUT"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "=\nOUT\n1.25V\nI\n(short)\nRS\n(7)"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "R2\nOutput Impedance\nRS\n1\nR1\n\u00a7\n\u00b7\n \nu\n\u000e\n\u00a8\n\u00b8\n\u00a9\n\u00b9\n(8)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "RS\n0.2 W"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n240 W"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n2.4 kW"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-11. Battery-Charger Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n19"
   },
   {
     "part_number": "LM317",
     "page_number": 19,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.7 50mA, Constant-Current, Battery-Charger Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Use the current-limit operation mode to trickle charge a battery at a fixed current. ICHG = 1.25V \u00f7 24\u03a9. Make \nsure VI is greater than VBAT + 4.25V. (1.25V [VREF] + 3V [headroom]). Figure 8-12 shows a diagram of a \nbattery-charger circuit."
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "24 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-12. 50mA, Constant-Current, Battery-Charger Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.8 Slow Turn-On 15V Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "The capacitor C1, in combination with the PNP transistor, helps the circuit (Figure 8-13) to slowly start supplying \nvoltage. In the beginning, the capacitor is not charged. Therefore, the output voltage starts at VC1+ VBE + 1.25V \n= 0V + 0.65V + 1.25V = 1.9V. When the capacitor voltage rises, VOUT rises at the same rate. When the output \nvoltage reaches the value determined by R1 and R2, the PNP is turned off."
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VO = 15 V\nVI"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n240 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "D1\n1N4002"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R3\n50 k\u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n2.7 k\u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "2N2905"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C1\n25 \u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-13. Slow Turn-On 15V Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.9 AC Voltage-Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-14 shows a circuit employing two LM317 devices. These two LM317 devices regulate both the positive \nand negative swings of a sinusoidal AC input."
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "480 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "120 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "12 VI(PP)\n6 VO(PP)\n2 W (TYP)"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "480 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "120 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-14. AC Voltage-Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "20\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.10 Current-Limited 6V Charger Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "When charge current increases, the voltage at the bottom resistor increases until the NPN starts sinking current \nfrom the ADJUST pin. The voltage at the ADJUST pin drops, and consequently the output voltage decreases \nuntil the NPN stops conducting. Figure 8-15 shows the current-limited circuit."
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VI+"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n240 W"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R2\n1.1 kW"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R3"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "VI\u2212"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-15. Current-Limited 6V Charger Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.11 Adjustable 4A Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "This application keeps the output current at 4A while having the ability to adjust the output voltage using the \nadjustable (1.5k\u03a9 in Figure 8-16) resistor."
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "0.2 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "0.2 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "4.5 V to 25\nV"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "0.2 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "5 k \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "100 \u2126\n5 k \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "_"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "TL084"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "150 \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "2N2905"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "200 pF"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "1.5 k \u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-16. Adjustable 4A Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n21"
   },
   {
     "part_number": "LM317",
     "page_number": 21,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "8.3.12 High-Current Adjustable Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "The PNP (2N2905) and NPN (2N6486) at the top of Figure 8-17 allow higher currents at VOUT than the LM317 \nprovides. Meanwhile, the output voltage remains at levels determined by the ADJUST pin resistor divider of the \nLM317."
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "2N6486"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "2N2905\n500 \n\u0003"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VI"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "5k"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0000"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "22\n\u0002"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "VO"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "INPUT\nOUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "D1\n1N4002"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "ADJUST"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "R1\n120"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "\u0001"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "C3\n47\u00b5F\n10\u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "10\u00b5F"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "GND"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Figure 8-17. High-Current Adjustable Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "22\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 22,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.2 Typical Application",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8.4 Power Supply Recommendations"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.4 Power Supply Recommendations",
     "type": "text",
     "content": "The LM317 is designed to operate from an input voltage supply range between 1.25V to 37V greater than the \noutput voltage. If the device is more than six inches from the input filter capacitors, use an input bypass capacitor \nof any type for stability. Make sure this capacitor is 0.1\u03bcF or greater."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8.5 Layout"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8.5.1 Layout Guidelines"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "\u2022\nBypass the input pin to ground with a bypass capacitor.\n\u2022\nThe optimum placement is closest to the input pin of the device and the system GND. Take care to minimize \nthe loop area formed by the bypass-capacitor connection, the input pin, and the system GND.\n\u2022\nFor operation at full rated load, use wide trace lengths to eliminate I \u00d7 R drop and heat dissipation."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "8.5.1.1 Thermal Considerations"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "8.5.1.1.1 Heat Sink Requirements"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "The LM317 (new chip) regulators have internal thermal shutdown to protect the device from overheating. Under \nall operating conditions, make sure the device junction temperature does not exceed the rated maximum junction \ntemperature (TJ) of 125\u00b0C for the LM317 (new chip). A heat sink is required depending on the maximum device \npower dissipation and the maximum ambient temperature of the application. To determine if a heat sink is \nneeded, Equation 9 calculates the power dissipated by the regulator, PD."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "PD = ((VIN \u2212 VOUT) \u00d7 IL) + (VIN \u00d7 IG)\n(9)"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-18 shows the voltage and currents that are present in the circuit."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Equation 10 calculates the next parameter, which is the maximum allowable temperature rise, TR(MAX)."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "TR(MAX) = TJ(MAX) \u2212 TA(MAX)\n(10)"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "where:"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "\u2022\nTJ(MAX) is the maximum allowable junction temperature (125\u00b0C for the LM317, new chip)\n\u2022\nTA(MAX) is the maximum ambient temperature encountered in the application"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Using the calculated values for TR(MAX) and PD, Equation 11 calculates the maximum allowable value for the \njunction-to-ambient thermal resistance (R\u03b8JA)."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "R\u03b8JA = (TR(MAX) / PD)\n(11)"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-18. Power Dissipation Diagram"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "If the calculated maximum allowable thermal resistance is higher than the actual package rating, then no \nadditional work is needed. If the calculated maximum allowable thermal resistance is lower than the actual \npackage rating, correct this issue. Either reduce PD or TA(MAX), or lower R\u03b8JA by adding a heat sink, or some \ncombination thereof. PD is the device power dissipation, TA(MAX) is the maximum ambient temperature, and R\u03b8JA \nis the device thermal resistance."
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n23"
   },
   {
     "part_number": "LM317",
     "page_number": 23,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Equation 12 calculates the value if a heat sink is needed."
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "\u03b8HA \u2264 (R\u03b8JA \u2013 (\u03b8CH + R\u03b8JC))\n(12)"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "where:"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "\u2022\n\u03b8CH is the thermal resistance of the contact area between the device case and the heat sink surface\n\u2022\nR\u03b8JC is thermal resistance from the junction of the die to the surface of the package case"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "When a value for \u03b8HA is calculated, select a heat sink with a value that is less than, or equal to, this number."
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "The \u03b8HA rating is specified numerically by the heat sink manufacturer in the catalog, or given in a curve plotting \ntemperature rise versus power dissipation for the heat sink."
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "8.5.1.1.2 Heat Sinking Surface-Mount Packages"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "The TO-263 (KTT), SOT-223 (DCY), and TO-220 (KCS, KCT) packages use a copper plane on the PCB and the \nPCB as a heat sink. To optimize the heat sinking ability of the plane and PCB, solder the tab of the package to \nthe plane."
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "8.5.1.1.2.1 Heatsinking the SOT-223 (DCY) Package"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-19 and Figure 8-20 show information for the SOT-223 package. Figure 8-20 assumes a R\u03b8JA of 74\u00b0C/W \nfor 1oz. copper and 59.6\u00b0C/W for 2oz. copper (further details are in Section 6.5) and a maximum junction \ntemperature of 125\u00b0C. See the AN-1028 Maximum Power Enhancement Techniques for Power Packages \napplication note for thermal enhancement techniques to be used with the SOT-223 and TO-252 packages."
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-20. Maximum Power Dissipation vs TAMB"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-19. R\u03b8JA vs Copper (2oz.) Area for the"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "for the SOT-223 Package"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "SOT-223 Package"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "24\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 24,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "8.5.1.1.2.2 Heat Sinking the TO-263 (KTT) Package"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-21 shows the TO-263 measured values of R\u03b8JA for different copper area sizes using a typical PCB with \n1oz. copper. This figure also shows no solder mask over the copper area used for heat sinking."
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "As shown in Figure 8-21, increasing the copper area beyond 1 square inch produces very little improvement. \nThe minimum value of R\u03b8JA for the TO-263 package mounted to a PCB is 32\u00b0C/W."
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-21. R\u03b8JA vs Copper (1-oz.) Area for the TO-263 Package"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "As a design aid, Figure 8-22 shows the maximum allowable power dissipation compared to ambient temperature \nfor the TO-263 device. This figure assumes R\u03b8JA is 35\u00b0C/W and the maximum junction temperature is 125\u00b0C."
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Figure 8-22. Maximum Power Dissipation vs TAMB for the TO-263 Package"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n25"
   },
   {
     "part_number": "LM317",
     "page_number": 25,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.1 Layout Guidelines",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "8.5.2 Layout Examples"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "COUT"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Ground"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "R2"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Power"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "ADJ/GND"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "INPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "High\nFrequency"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "High Input"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Bypass\nCapacitor"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Bypass\nCapacitor"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "0.1 F\n\u03bc\n10 F\n\u03bc"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "R1"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Cadj"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Ground"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Figure 8-23. Layout Example (Legacy Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Figure 8-24. SOT-223 Layout Example (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "26\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 27,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 27,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 27,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Figure 8-25. TO-220 Layout Example (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 27,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n27"
   },
   {
     "part_number": "LM317",
     "page_number": 27,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "8.5.2 Layout Examples",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
-    "type": "text",
-    "content": "9 Device and Documentation Support"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "9.1 Device Support"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "9.1.1 Device Nomenclature"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Device Nomenclature"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "PRODUCT(1)\nVOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "yyy is the package designator.\nz is the package quantity designator.\nDevices ship with either the legacy chip (CSO: SHE) or the new chip (CSO: \nFFAB). The reel packaging label provides CSO information to distinguish \nwhich chip is used. Device performance for new and legacy chips is denoted \nthroughout the data sheet."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "LM317yyyz"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "(1)\nFor the most current package and ordering information see the Package Option Addendum at the end of this document, or visit the \ndevice product folder at www.ti.com."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "9.2 Receiving Notification of Documentation Updates"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "To receive notification of documentation updates, navigate to the device product folder on ti.com. Click on \nNotifications to register and receive a weekly digest of any product information that has changed. For change \ndetails, review the revision history included in any revised document."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "9.3 Support Resources"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "TI E2E\u2122 support forums are an engineer's go-to source for fast, verified answers and design help \u2014 straight \nfrom the experts. Search existing answers or ask your own question to get the quick design help you need."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Linked content is provided \"AS IS\" by the respective contributors. They do not constitute TI specifications and do \nnot necessarily reflect TI's views; see TI's Terms of Use."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "9.4 Trademarks\nTI E2E\u2122 is a trademark of Texas Instruments.\nAll trademarks are the property of their respective owners.\n9.5 Electrostatic Discharge Caution"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "This integrated circuit can be damaged by ESD. Texas Instruments recommends that all integrated circuits be handled \nwith appropriate precautions. Failure to observe proper handling and installation procedures can cause damage."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "ESD damage can range from subtle performance degradation to complete device failure. Precision integrated circuits may \nbe more susceptible to damage because very small parametric changes could cause the device not to meet its published \nspecifications."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "9.6 Glossary"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "TI Glossary \nThis glossary lists and explains terms, acronyms, and definitions."
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "28\nSubmit Document Feedback\nCopyright \u00a9 2025 Texas Instruments Incorporated"
   },
   {
     "part_number": "LM317",
     "page_number": 28,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "www.ti.com"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "10 Revision History\nNOTE: Page numbers for previous revisions may differ from page numbers in the current version."
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Changes from Revision Y (April 2020) to Revision Z (April 2025)\nPage\n\u2022\nUpdated the numbering format for tables, figures, and cross-references throughout the document................. 1\n\u2022\nAdded new silicon devices to document.............................................................................................................1\n\u2022\nAdded new silicon curves to Typical Characteristics section .............................................................................1\n\u2022\nChanged Features, Applications, and Description sections............................................................................... 1\n\u2022\nAdded LM317 (New Chip) column to Device Comparison Table ...................................................................... 4\n\u2022\nChanged DCY pinout drawing and INPUT and OUTPUT description in Pin Functions table.............................5\n\u2022\nAdded Power dissipation row to Absolute Maximum Ratings table....................................................................6\n\u2022\nAdded new chip information to ESD Ratings table.............................................................................................6\n\u2022\nAdded Thermal Information (New Chip) table.................................................................................................... 7\n\u2022\nChanged Electrical Characteristics table............................................................................................................8\n\u2022\nChanged ADJUST pin current discussion in second paragraph of Overview section......................................13\n\u2022\nAdded effect of CADJ on ripple rejection discussion to second bullet of Design Requirements .......................15\n\u2022\nAdded new silicon curves to Application Curves .............................................................................................16\n\u2022\nDeleted \u221210V from Equation 2......................................................................................................................... 19\n\u2022\nChanged The NPNs to The PNP (2N2905) and NPN (2N6486) in High-Current Adjustable Regulator Circuit\nsection.............................................................................................................................................................. 22\n\u2022\nAdded Thermal Considerations section and subsections.................................................................................23"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Changes from Revision X (September 2016) to Revision Y (April 2020)\nPage\n\u2022\nAdded Device Comparison Table ...................................................................................................................... 4\n\u2022\nChanged VIN to IOUT in Load Transient Response figures..................................................................................9\n\u2022\nAdded missing caption to second y-axis in second Load Transient Response figure........................................9\n\u2022\nChanged VOUT and output impedance equations in Battery-Charger Circuit section.......................................19"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "11 Mechanical, Packaging, and Orderable Information"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "The following pages include mechanical, packaging, and orderable information. This information is the most \ncurrent data available for the designated devices. This data is subject to change without notice and revision of \nthis document. For browser-based versions of this data sheet, refer to the left-hand navigation."
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback\n29"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
-    "section": "Pin Functions, Metal Can Packages",
+    "section": "9 Device and Documentation Support",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
@@ -5660,13 +5219,6 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "W"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "P1"
   },
   {
@@ -5899,27 +5451,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "Width (mm)"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 33,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "H"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 33,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "W"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 33,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "L"
   },
   {
     "part_number": "LM317",
@@ -6164,13 +5695,6 @@
     "page_number": 37,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
-    "content": "A"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 37,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
     "content": "B\n8.64"
   },
   {
@@ -6242,13 +5766,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "text",
     "content": "4.64\n4.45"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 37,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "text",
-    "content": "C"
   },
   {
     "part_number": "LM317",
