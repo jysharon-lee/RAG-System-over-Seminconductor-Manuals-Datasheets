@@ -196,13 +196,44 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
     return chunks
 
 
+MAX_ROW_LENGTH = 350  # a real electrical-characteristics row is short; a
+                       # row this long is almost always pdfplumber mistaking
+                       # a graph/chart region for a table grid.
+
+NAV_CHROME_TERMS = [
+    "productfolder", "clickhere", "sample&buy", "sample & buy",
+    "technicaldocuments", "tools&software", "support&community",
+]
+
+
+def _is_junk_table_row(sentence: str) -> bool:
+    if len(sentence) > MAX_ROW_LENGTH:
+        return True
+    lowered = sentence.lower().replace(" ", "").replace("\n", "")
+    nav_hits = sum(1 for term in NAV_CHROME_TERMS if term.replace(" ", "") in lowered)
+    if nav_hits >= 2:
+        return True
+    return False
+
+
 def extract_table_chunks(pdf_path: Path, part_number: str):
     """Extract tables and serialize each row as a readable sentence."""
     chunks = []
+    junk_filtered = 0
+
+    # text_x_tolerance widened from pdfplumber's default: some datasheet
+    # PDFs (notably TI's newer template) embed characters with tighter
+    # spacing metadata than usual, causing pdfplumber's default cell-text
+    # reconstruction to merge adjacent words with no space between them
+    # (e.g. "PART NUMBER" -> "PARTNUMBER"). A wider tolerance treats small
+    # gaps as word boundaries again.
+    table_settings = {
+        "text_x_tolerance": 3,
+    }
 
     with pdfplumber.open(pdf_path) as pdf:
         for page_num, page in enumerate(pdf.pages, start=1):
-            tables = page.extract_tables()
+            tables = page.extract_tables(table_settings=table_settings)
             for table_idx, table in enumerate(tables):
                 if not table or len(table) < 2:
                     continue
@@ -223,6 +254,11 @@ def extract_table_chunks(pdf_path: Path, part_number: str):
                         continue
 
                     sentence = f"[{part_number}, table on page {page_num}] " + "; ".join(pairs)
+
+                    if _is_junk_table_row(sentence):
+                        junk_filtered += 1
+                        continue
+
                     chunks.append({
                         "part_number": part_number,
                         "page_number": page_num,
@@ -230,6 +266,9 @@ def extract_table_chunks(pdf_path: Path, part_number: str):
                         "type": "table_row",
                         "content": sentence,
                     })
+
+    if junk_filtered:
+        print(f"  filtered {junk_filtered} junk table rows (graph mis-parses / nav chrome)")
 
     return chunks
 

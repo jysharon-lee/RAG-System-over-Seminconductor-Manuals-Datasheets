@@ -305,82 +305,33 @@
     "page_number": 3,
     "section": "Typical Application",
     "type": "text",
-    "content": "1 Features............................................................................1\n2 Applications.....................................................................1\n3 Description.......................................................................1"
+    "content": "1 Features............................................................................1\n2 Applications.....................................................................1\n3 Description.......................................................................1\n4 Device Comparison Table...............................................4\n5 Pin Configuration and Functions...................................5\n6 Specifications.................................................................. 6\n6.1 Absolute Maximum Ratings........................................ 6\n6.2 ESD Ratings............................................................... 6\n6.3 Recommended Operating Conditions.........................6\n6.4 Thermal Information (Legacy Chip)............................ 7\n6.5 Thermal Information (New Chip).................................7\n6.6 Electrical Characteristics.............................................8\n6.7 Typical Characteristics................................................9\n7 Detailed Description......................................................13\n7.1 Overview...................................................................13\n7.2 Functional Block Diagram.........................................13\n7.3 Feature Description...................................................13"
   },
   {
     "part_number": "LM317",
     "page_number": 3,
-    "section": "5 Pin Configuration and Functions...................................5",
+    "section": "Typical Application",
     "type": "text",
-    "content": "6 Specifications.................................................................. 6"
+    "content": "7.4 Device Functional Modes..........................................14\n8 Application and Implementation..................................15\n8.1 Application Information............................................. 15\n8.2 Typical Application.................................................... 15\n8.3 System Examples..................................................... 17\n8.4 Power Supply Recommendations.............................23\n8.5 Layout....................................................................... 23\n9 Device and Documentation Support............................28\n9.1 Device Support......................................................... 28\n9.2 Receiving Notification of Documentation Updates....28\n9.3 Support Resources................................................... 28\n9.4 Trademarks...............................................................28\n9.5 Electrostatic Discharge Caution................................28\n9.6 Glossary....................................................................28\n10 Revision History.......................................................... 29\n11 Mechanical, Packaging, and Orderable\nInformation.................................................................... 29"
   },
   {
     "part_number": "LM317",
     "page_number": 3,
-    "section": "6.1 Absolute Maximum Ratings........................................ 6",
-    "type": "text",
-    "content": "6.2 ESD Ratings............................................................... 6"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "7 Detailed Description......................................................13",
-    "type": "text",
-    "content": "7.1 Overview...................................................................13"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "7.2 Functional Block Diagram.........................................13",
-    "type": "text",
-    "content": "7.3 Feature Description...................................................13"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "7.2 Functional Block Diagram.........................................13",
-    "type": "text",
-    "content": "7.4 Device Functional Modes..........................................14"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "8.2 Typical Application.................................................... 15",
-    "type": "text",
-    "content": "8.3 System Examples..................................................... 17"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "8.4 Power Supply Recommendations.............................23",
-    "type": "text",
-    "content": "8.5 Layout....................................................................... 23"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "9 Device and Documentation Support............................28",
-    "type": "text",
-    "content": "9.1 Device Support......................................................... 28\n9.2 Receiving Notification of Documentation Updates....28\n9.3 Support Resources................................................... 28\n9.4 Trademarks...............................................................28\n9.5 Electrostatic Discharge Caution................................28\n9.6 Glossary....................................................................28\n10 Revision History.......................................................... 29\n11 Mechanical, Packaging, and Orderable\nInformation.................................................................... 29"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "9 Device and Documentation Support............................28",
+    "section": "Typical Application",
     "type": "text",
     "content": "Copyright \u00a9 2025 Texas Instruments Incorporated\nSubmit Document Feedback"
   },
   {
     "part_number": "LM317",
     "page_number": 3,
-    "section": "9 Device and Documentation Support............................28",
+    "section": "Typical Application",
     "type": "text",
     "content": "Product Folder Links: LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "9 Device and Documentation Support............................28",
+    "section": "Typical Application",
     "type": "text",
     "content": "LM317\nSLVS044Z \u2013 SEPTEMBER 1997 \u2013 REVISED APRIL 2025\nwww.ti.com"
   },
