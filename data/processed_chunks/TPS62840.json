@@ -10126,13 +10126,6 @@
     "page_number": 5,
     "section": "Table 1 (page 5)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: n/a; I/O: IN; DESCRIPTION: STOPSwitchingpin.Whenthispinislogichigh,theconverterstops\nswitchinginordertoprovideaquietsupplyrail.Theoutputispoweredfrom\nthechargeavailableintheoutputcapacitor.Whenthispinislogiclow,the\ndeviceimmediatelyresumesoperation.Thepinfeaturesaninternal\npulldownresistor,whichisdisabledonceahighlevelisdetectedatthe\ninput.Thepulldownresistorisactivatedagain,oncealowlevelhasbeen\ndetected."
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 5,
-    "section": "Table 1 (page 5)",
-    "type": "table_row",
     "content": "[TPS62840, table on page 5] PIN: 3; I/O: IN; DESCRIPTION: MODEpin.AlowlevelenablesPower-SaveModeoperationwithan\nautomatictransitionbetweenPFMandPWMmodes.Ahighlevelforcesthe\nconvertertooperatedinPWMmode.Thispincanbetoggledduring\noperation.Itmustbeterminated."
   },
   {
@@ -10649,20 +10642,6 @@
   {
     "part_number": "TPS62840",
     "page_number": 9,
-    "section": "Table 1 (page 9)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 9] 1000\n)An( 900 V V I I N N = = 1 2 . . 8 5 V V V V I I N N = = 4 5 . . 5 5 V V 800 VIN = 3.6V VIN = 6.5V\nNIV\n700\notnI\n600\ntnerruC\n500\n400\ntnecseiuQ\n300\n200\n100\n0\n-40 25 85 125\nJunction Temperature (\u00b0C)\nEN=VIN VOUT=1.55V DeviceNot\nSwitching\nFigure1.QuiescentCurrentintoVIN\n(I )\nQ_VIN: 1300\n1200\n)An(\n1100\ntnerruc 1000\n900\ntnecseiuQ 800\n700\n600\n500\nedoM\n400\n300\n%001\n200\n100\n0\n-40 -25 -10 5 20 35 50 65 80 95 110 125\nJunction Temperature (\u00b0C)\nEN=VIN VIN=VOUT=3.3V DeviceNot\nSwitching\nFigure3.100%ModeQuiescentCurrent\n(I )\nQ_100%_MODE; 160\n150 VIN = 1.8V VIN = 4.5V\n)An( 140 VIN = 2.5V VIN = 5.5V\n130 VIN = 3.6V VIN = 6.5V\nSOV 120\n110\notnI 100\n90\ntnerruC 80\n70\n60\ntnecseiuQ 50\n40\n30\n20\n10\n0\n-40 -25 -10 5 20 35 50 65 80 95 110 125\nJunction Temperature (\u00b0C)\nEN=VIN VOUT=1.55V DeviceNot\nSwitching\nFigure2.QuiescentCurrentintoVOS\n(I )\nQ_VOS: )AP( 200\nNIV 180 V V I I N N = = 1 2 . . 8 5 V V V V I I N N = = 4 5 . . 5 5 V V\notnI 160 VIN = 3.6V VIN = 6.5V\ntnerruC 140\n120\ntnecseiuQ 100\n80\n60\nedoM\n40\nPOTS 20\n0\n-40 25 85 125\nJunction Temperature (\u00b0C)\nEN=VIN VOUT=1.8V DeviceNot\nSwitching\nFigure4.STOPModeQuiescentCurrentintoVIN\n(I )\nQ_VIN_STOP"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 9,
-    "section": "Table 1 (page 9)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 9] 1000\n)An( 900 V V I I N N = = 1 2 . . 8 5 V V V V I I N N = = 4 5 . . 5 5 V V 800 VIN = 3.6V VIN = 6.5V\nNIV\n700\notnI\n600\ntnerruC\n500\n400\ntnecseiuQ\n300\n200\n100\n0\n-40 25 85 125\nJunction Temperature (\u00b0C)\nEN=VIN VOUT=1.55V DeviceNot\nSwitching\nFigure1.QuiescentCurrentintoVIN\n(I )\nQ_VIN: 1000\nTJ=-40\u00b0C TJ=25\u00b0C\nTJ=-20\u00b0C TJ=65\u00b0C\nTJ=0\u00b0C TJ=85\u00b0C\n]An[\ntnerruC\n100\nnwodtuhS\n10\n1.5 2 2.5 3 3.5 4 4.5 5 5.5 6 6.5\nInput Voltage [V]\nEN=GND\nFigure5.ShutdownCurrent\n(I )\nSD; 160\n150 VIN = 1.8V VIN = 4.5V\n)An( 140 VIN = 2.5V VIN = 5.5V\n130 VIN = 3.6V VIN = 6.5V\nSOV 120\n110\notnI 100\n90\ntnerruC 80\n70\n60\ntnecseiuQ 50\n40\n30\n20\n10\n0\n-40 -25 -10 5 20 35 50 65 80 95 110 125\nJunction Temperature (\u00b0C)\nEN=VIN VOUT=1.55V DeviceNot\nSwitching\nFigure2.QuiescentCurrentintoVOS\n(I )\nQ_VOS: 1400\nVIN = 1.8V VIN = 4.5V\nVIN = 2.0V VIN = 5.5V\n1200 VIN = 2.5V VIN = 6.5V\n):m( VIN = 3.6V\n1000\n)no(sdR\n800\nediS-hgiH\n600\n400\n200\n-40 25 85 125\nJunction Temperature (\u00b0C)\nFigure6.High-SideR versusTemperature\nDSON\n(DLC,YBGpackages)"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 9,
     "section": "Table 6 (page 9)",
     "type": "table_row",
     "content": "[TPS62840, table on page 9] =-: J; T=: J"
@@ -10680,20 +10659,6 @@
     "section": "Table 6 (page 9)",
     "type": "table_row",
     "content": "[TPS62840, table on page 9] T: T; =-: J=0; 40\u00b0: \u00b0C; T=: TJ=; 25\u00b0: 85\u00b0; C: C"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 10,
-    "section": "Table 1 (page 10)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 10] 600\n550 VIN = 1.8V VIN = 4.5V\nVIN = 2.0V VIN = 5.5V\n500 VIN = 2.5V VIN = 6.5V\n):m( 450 VIN = 3.6V\n400\n)no(sdR\n350\n300\nediS-woL 250\n200\n150\n100\n50\n0\n-40 25 85 125\nJunction Temperature (\u00b0C)\nFigure7.Low-SideR versusTemperature\nDSON\n(DLC,YBGpackages): 1\n0.95 V Threshold\nIH\n0.9\nV) 0.85\n(\nd s 0.8\nol\ns h 0.75 Undefined Region\ne\nhr 0.7\nT\nut 0.65\np\nI n 0.6\nE\nO D 0.55 V IL Threshold\nM 0.5\n0.45 VIN= 1.8V VIN= 3.6V VIN= 6.5V\n0.4\n-40 25 85 125\nJunctionTemperature(\u00b0C)\nFigure9.MODEInputThresholdsversusTemperature; 1\n0.95 V Threshold\nIH\n0.9\nV) 0.85\ns ( 0.8\nd\nh ol 0.75 Undefined Region\ne s 0.7\nhr\nT 0.65\nut\np 0.6\nn\nE N I 0.55 V IL Threshold\n0.5\n0.45 VIN= 1.8V VIN= 3.6V VIN= 6.5V\n0.4\n-40 25 85 125\nJunctionTemperature(\u00b0C)\nFigure8.ENInputThresholdsversusTemperature: 1\n0.95 V Threshold\nIH\n0.9\nV) 0.85\n(\nd s 0.8\nol\ns h 0.75 Undefined Region\ne\nhr 0.7\nT\nut 0.65\np\nn 0.6\nO P I 0.55 V IL Threshold\nT\nS 0.5\n0.45 VIN= 1.8V VIN= 3.6V VIN= 6.5V\n0.4\n-40 25 85 125\nJunctionTemperature(\u00b0C)\nFigure10.STOPInputThresholdsversusTemperature"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 10,
-    "section": "Table 1 (page 10)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 10] 600\n550 VIN = 1.8V VIN = 4.5V\nVIN = 2.0V VIN = 5.5V\n500 VIN = 2.5V VIN = 6.5V\n):m( 450 VIN = 3.6V\n400\n)no(sdR\n350\n300\nediS-woL 250\n200\n150\n100\n50\n0\n-40 25 85 125\nJunction Temperature (\u00b0C)\nFigure7.Low-SideR versusTemperature\nDSON\n(DLC,YBGpackages): 47\nVIN = 1.8V VIN = 4.5V\nVIN = 2.5V VIN = 5.5V\n)Am( VIN = 3.6V VIN = 6.5V\n39\ntnerruC\negrahcsiD 31\ntuptuO 23\n15\n-40 25 85 125\nJunction Temperature (\u00b0C)\nEN=GND VOUT=1.8V\nFigure11.OutputDischargeCurrentversusTemperature"
   },
   {
     "part_number": "TPS62840",
@@ -10950,20 +10915,6 @@
   {
     "part_number": "TPS62840",
     "page_number": 19,
-    "section": "Table 1 (page 19)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 19] 100\n95 VVOOUUTT==00..88VV\nPPFFMM//PPWWMM OOppeerraattiioonn\n90\n85\n80\n75\n70\n]%[ 65\n60\nycneiciffE\n55\n50\n45\n40\n35 VIN=1.8V\n30 V V I I N N = = 2 3 . . 5 0 V V\n25 VIN=3.6V\n20 VIN=4.2V\n15 V V I I N N = = 5 6 . . 0 5 V V\n10\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure14.EfficiencyPowerSaveMode\nV =0.8V\nOUT: 100\nVOUT=1.8V\n95 PFM/PWM Operation\n90\n85\n80\n]%[ 75\nycneiciffE\n70\n65\n60\nVIN=1.8V\n55 VIN=2.5V\nVIN=3.0V\n50 VIN=3.6V\nVIN=4.2V\n45 VIN=5.0V\nVIN=6.5V\n40\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure16.EfficiencyPowerSaveMode\nV =1.8V\nOUT; 100\n95 P V F OU M T / = P 1 W .2 M V Operation\n90\n85\n80\n75\n70\n]%[\n65\nycneiciffE\n60\n55\n50\n45 VIN=1.8V\n40 VIN=2.5V\n35 V V I I N N = = 3 3 . . 0 6 V V\n30 VIN=4.2V\n25 V V I I N N = = 5 6 . . 0 5 V V\n20\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =15.8k\u03a9toGND\nSET\nFigure15.EfficiencyPowerSaveMode\nV =1.2V\nOUT: 100\n95 VOUT=1.8V\nPFM/PWM Operation\n90\n85\n80\n75\n70\n]%[ 65\n60\nycneiciffE\n55\n50\n45\n40\n1 2 2 3 3 5 0 5 0 5 V V V V V V I I I I I I N N N N N N = = = = = = 3 3 3 6 6 6 . . . . . . 6 6 6 5 5 5 V V V V V V , , , , , , T T T T T T A A A A A A = = = = = = - 2 8 - 2 8 4 4 5 5 5 5 0 0 o o o o o o C C C C C C\n10\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure17.EfficiencyPowerSaveMode\nV =1.8V\nOUT"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 19,
-    "section": "Table 1 (page 19)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 19] 100\n95 VVOOUUTT==00..88VV\nPPFFMM//PPWWMM OOppeerraattiioonn\n90\n85\n80\n75\n70\n]%[ 65\n60\nycneiciffE\n55\n50\n45\n40\n35 VIN=1.8V\n30 V V I I N N = = 2 3 . . 5 0 V V\n25 VIN=3.6V\n20 VIN=4.2V\n15 V V I I N N = = 5 6 . . 0 5 V V\n10\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure14.EfficiencyPowerSaveMode\nV =0.8V\nOUT: 100\nVOUT=2.5V\n95 PFM/PWM Operation\n90\n85\n80\n]%[ 75\nycneiciffE\n70\n65\n60\n55 VIN=2.5V\nVIN=3.0V\n50 VIN=3.6V\nVIN=4.2V\n45 VIN=5.0V\nVIN=6.5V\n40\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =11.5k\u03a9toGND\nSET\nFigure18.EfficiencyPowerSaveMode\nV =2.5V\nOUT; 100\n95 P V F OU M T / = P 1 W .2 M V Operation\n90\n85\n80\n75\n70\n]%[\n65\nycneiciffE\n60\n55\n50\n45 VIN=1.8V\n40 VIN=2.5V\n35 V V I I N N = = 3 3 . . 0 6 V V\n30 VIN=4.2V\n25 V V I I N N = = 5 6 . . 0 5 V V\n20\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =15.8k\u03a9toGND\nSET\nFigure15.EfficiencyPowerSaveMode\nV =1.2V\nOUT: 100\nVOUT=3.3V\n95 PFM/PWM Operation\n90\n85\n80\n]%[ 75\nycneiciffE\n70\n65\n60\n55\nVIN=3.3V\n50 VIN=3.6V\nVIN=4.2V\n45 VIN=5.0V\nVIN=6.5V\n40\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =267k\u03a9toGND\nSET\nFigure19.EfficiencyPowerSaveMode\nV =3.3V\nOUT"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 19,
     "section": "Table 2 (page 19)",
     "type": "table_row",
     "content": "[TPS62840, table on page 19] VVOOUUTT: PPFFMM//; ==00..88VV: PPWWMM"
@@ -10995,34 +10946,6 @@
     "section": "Table 7 (page 19)",
     "type": "table_row",
     "content": "[TPS62840, table on page 19] V: P; OUT=: FM/; 3.3V: PWM"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 20] 100\n95\n90\n85\n80\n75\n]%[ 70\nycneiciffE 65\n60\n55\n50\n45 VIN=1.8V\n40 VIN=2.5V\n35 V V I I N N = = 3 3 . . 0 6 V V\n30 VIN=4.2V\n25 V V I I N N = = 5 6 . . 0 5 V V\n20\n100n 1P 10P 100P 1m 10m 100m 0.75\nLoad Current [A]\nR =GND\nSET\nFigure20.EfficiencyPowerSaveMode\nV =0.8VfortheDGRdevice\nOUT: 100\n95\n90\n85\n80\n]%[\n75\nycneiciffE\n70\n65\n60 VIN=1.8V\n55 VIN=2.5V\nVIN=3.0V\n50 VIN=3.6V\nVIN=4.2V\n45 VIN=5.0V\nVIN=6.5V\n40\n100n 1P 10P 100P 1m 10m 100m 0.75\nLoad Current [A]\nR =GND\nSET\nFigure22.EfficiencyPowerSaveMode\nV =1.8VfortheDGRdevice\nOUT; 100\n95\n90\n85\n80\n75\n]%[ 70\nycneiciffE 65\n60\n55\n50\n45 VIN=1.8V\n40 VIN=2.5V\n35 V V I I N N = = 3 3 . . 0 6 V V\n30 VIN=4.2V\n25 V V I I N N = = 5 6 . . 0 5 V V\n20\n100n 1P 10P 100P 1m 10m 100m 0.75\nLoad Current [A]\nR =GND\nSET\nFigure21.EfficiencyPowerSaveMode\nV =1.2VfortheDGRdevice\nOUT: 100\n95\n90\n85\n80\n]%[\n75\nycneiciffE\n70\n65\n60\n55\nVIN=3.6V\n50 VIN=4.2V\nVIN=5.0V\n45 VIN=6.0V\nVIN=6.5V\n40\n100n 1P 10P 100P 1m 10m 100m 0.75\nLoad Current [A]\nR =267k\u03a9toGND\nSET\nFigure23.EfficiencyPowerSaveMode\nV =3.6VfortheDGRdevice\nOUT"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 20] 100\n95\n90\n85\n80\n75\n]%[ 70\nycneiciffE 65\n60\n55\n50\n45 VIN=1.8V\n40 VIN=2.5V\n35 V V I I N N = = 3 3 . . 0 6 V V\n30 VIN=4.2V\n25 V V I I N N = = 5 6 . . 0 5 V V\n20\n100n 1P 10P 100P 1m 10m 100m 0.75\nLoad Current [A]\nR =GND\nSET\nFigure20.EfficiencyPowerSaveMode\nV =0.8VfortheDGRdevice\nOUT: 100\nVIN=3.6V\n90 PWM Operation\n80\n70\n]%[ 60\nycneiciffE\n50\n40\n30\n20\nVOUT=0.8V\n10 V V O O U U T T = = 1 1 . . 2 8 V V\nVOUT=3.3V\n0\n1m 10m 100m 1\nLoad Current [A]\nFigure24.EfficiencyForcedPWMMode\nV =0.8V/1.2V/1.8V/3.3V\nOUT; 100\n95\n90\n85\n80\n75\n]%[ 70\nycneiciffE 65\n60\n55\n50\n45 VIN=1.8V\n40 VIN=2.5V\n35 V V I I N N = = 3 3 . . 0 6 V V\n30 VIN=4.2V\n25 V V I I N N = = 5 6 . . 0 5 V V\n20\n100n 1P 10P 100P 1m 10m 100m 0.75\nLoad Current [A]\nR =GND\nSET\nFigure21.EfficiencyPowerSaveMode\nV =1.2VfortheDGRdevice\nOUT: 0.824\n0.816\n]V[ 0.808\negatloV\n0.8\ntuptuO\nCD 0.792\nVIN=1.8V\nVIN=2.5V\nVIN=3.0V\n0.784 VIN=3.6V\nVIN=4.2V\nVIN=5.0V VOUT=0.8V\nVIN=6.5V PFM/PWM Operation\n0.776\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure25.OutputVoltageversusLoadCurrent\nV =0.8V\nOUT"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 21,
-    "section": "Table 1 (page 21)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 21] 1.236\n1.224\n]V[ 1.212\negatloV\n1.2\ntuptuO\nCD 1.188\nVIN=1.8V\nVIN=2.5V\nVIN=3.0V\n1.176 VIN=3.6V\nVIN=4.2V\nVIN=5.0V VOUT=1.2V\nVIN=6.5V PFM/PWM Operation\n1.164\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =15.8k\u03a9toGND\nSET\nFigure26.OutputVoltageversusLoadCurrent\nV =1.2V\nOUT: 2.575\n2.55\n]V[ 2.525\negatloV\n2.5\ntuptuO\nCD 2.475\nVIN=3.3V\n2.45 VIN=3.6V\nVIN=4.2V\nVIN=5.0V VOUT=2.5V\nVIN=6.5V PFM/PWM Operation\n2.425\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =11.5k\u03a9toGND\nSET\nFigure28.OutputVoltageversusLoadCurrent\nV =2.5V\nOUT; 1.854\nVOUT=1.8V\nPFM/PWM Operation\n1.836\n]V[ 1.818\negatloV\n1.8\ntuptuO\nCD 1.782\nVIN=1.8V\nVIN=2.5V\nVIN=3.0V\n1.764 VIN=3.6V\nVIN=4.2V\nVIN=5.0V\nVIN=6.5V\n1.746\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure27.OutputVoltageversusLoadCurrent\nV =1.8V\nOUT: 3.4\n3.35\n3.3\n3.25\n]V[\negatloV 3.2\n3.15\ntuptuO\n3.1\nCD\n3.05\n3 VIN=3.3V\nVIN=3.6V\n2.95 V V I I N N = = 4 5 . . 2 0 V V VOUT=3.3V\nVIN=6.5V PFM/PWM Operation\n2.9\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =267k\u03a9toGND\nSET\nFigure29.OutputVoltageversusLoadCurrent\nV =3.3V\nOUT"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 21,
-    "section": "Table 1 (page 21)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 21] 1.236\n1.224\n]V[ 1.212\negatloV\n1.2\ntuptuO\nCD 1.188\nVIN=1.8V\nVIN=2.5V\nVIN=3.0V\n1.176 VIN=3.6V\nVIN=4.2V\nVIN=5.0V VOUT=1.2V\nVIN=6.5V PFM/PWM Operation\n1.164\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =15.8k\u03a9toGND\nSET\nFigure26.OutputVoltageversusLoadCurrent\nV =1.2V\nOUT: 3.55\n3.5 VOUT=3.4V at 25\u00b0C\n3.45\n3.4\n3.35\n]V[\n3.3\negatloV\n3.25\n3.2\ntuptuO 3.15\n3.1\n3.05\n3\nVIN=3.4V VIN=3.7V VIN=4V\n2.95\nVIN=3.5V VIN=3.8V\n2.9 VIN=3.6V VIN=3.9V\n2.85\n00 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8\nLoad Current [A]\nR =GND\nSET\nFigure30.OutputVoltageversusLoadCurrent\nV =3.4V\nOUT; 1.854\nVOUT=1.8V\nPFM/PWM Operation\n1.836\n]V[ 1.818\negatloV\n1.8\ntuptuO\nCD 1.782\nVIN=1.8V\nVIN=2.5V\nVIN=3.0V\n1.764 VIN=3.6V\nVIN=4.2V\nVIN=5.0V\nVIN=6.5V\n1.746\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure27.OutputVoltageversusLoadCurrent\nV =1.8V\nOUT: 3.55\n3.5 VOUT=3.4V at 70\u00b0C\n3.45\n3.4\n3.35\n]V[\n3.3\negatloV\n3.25\n3.2\ntuptuO 3.15\n3.1\n3.05\n3\nVIN=3.4V VIN=3.7V VIN=4V\n2.95\nVIN=3.5V VIN=3.8V\n2.9 VIN=3.6V VIN=3.9V\n2.85\n00 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8\nLoad Current [A]\nR =GND\nSET\nFigure31.OutputVoltageversusLoadCurrent\nV =3.4V\nOUT"
   },
   {
     "part_number": "TPS62840",
@@ -11093,20 +11016,6 @@
     "section": "Table 7 (page 21)",
     "type": "table_row",
     "content": "[TPS62840, table on page 21] =3.4V at 70\u00b0: VIN=3.6V; C: VIN=3.9"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 22,
-    "section": "Table 1 (page 22)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 22] 3.55\n3.5 VOUT=3.4V at 85\u00b0C\n3.45\n3.4\n3.35\n]V[\n3.3\negatloV\n3.25\n3.2\ntuptuO 3.15\n3.1\n3.05\n3\nVIN=3.4V VIN=3.7V VIN=4V\n2.95\nVIN=3.5V VIN=3.8V\n2.9 VIN=3.6V VIN=3.9V\n2.85\n00 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8\nLoad Current [A]\nR =GND\nSET\nFigure32.OutputVoltageversusLoadCurrent\nV =3.4V\nOUT: 1.2\nVOUT=3.3V\n1.1\n1\n]A[ 0.9\ntnerruC\n0.8\ntuptuO 0.7\n0.6\n0.5 TA=-40\u00b0C\nTA=25\u00b0C\n0.4 TA=70\u00b0C\nForced PWM Operation TA=85\u00b0C\n0.3\n3.2 3.4 3.6 3.8 4 4.2 4.4 4.6 4.8 5 5.2\nInput Voltage [V]\nR =267k\u03a9toGND\nSET\nFigure34.MaximumOutputCurrentversusInputVoltage\nV =3.3V\nOUT; 1.2\nVOUT=1.8V\n1.1\n1\n]A[ 0.9\ntnerruC\n0.8\ntuptuO 0.7\n0.6\n0.5 TA=-40\u00b0C\nTA=25\u00b0C\n0.4 TA=70\u00b0C\nForced PWM Operation TA=85\u00b0C\n0.3\n1.8 2.2 2.6 3 3.4 3.8 4.2 4.6 5\nInput Voltage [V]\nR =GND\nSET\nFigure33.MaximumOutputCurrentversusInputVoltage\nV =1.8V\nOUT: 1 VOUT=0.8V\nPFM/PWM Operation\n]zHM[\n100m\nycneuqerF\n10m\nVIN=1.8V\n1m\nVIN=2.0V\ngnihctiwS\nVIN=2.5V\nVIN=3.0V\n100\u00b5\nVIN=3.6V\nVIN=4.2V\n10\u00b5 VIN=5.0V\nVIN=6.5V\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure35.SwitchingFrequencyversusLoadCurrent\nV =0.8V\nOUT"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 22,
-    "section": "Table 1 (page 22)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 22] 3.55\n3.5 VOUT=3.4V at 85\u00b0C\n3.45\n3.4\n3.35\n]V[\n3.3\negatloV\n3.25\n3.2\ntuptuO 3.15\n3.1\n3.05\n3\nVIN=3.4V VIN=3.7V VIN=4V\n2.95\nVIN=3.5V VIN=3.8V\n2.9 VIN=3.6V VIN=3.9V\n2.85\n00 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8\nLoad Current [A]\nR =GND\nSET\nFigure32.OutputVoltageversusLoadCurrent\nV =3.4V\nOUT: 1 VOUT=1.2V\nPFM/PWM Operation\n]zHM[\n0.1\nycneuqerF\n0.01\nVIN=1.8V\n0.001\nVIN=2.0V\ngnihctiwS\nVIN=2.5V\nVIN=3.0V\n0.0001\nVIN=3.6V\nVIN=4.2V\n0.00001 VIN=5.0V\nVIN=6.5V\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =15.8k\u03a9toGND\nSET\nFigure36.SwitchingFrequencyversusLoadCurrent\nV =1.2V\nOUT; 1.2\nVOUT=1.8V\n1.1\n1\n]A[ 0.9\ntnerruC\n0.8\ntuptuO 0.7\n0.6\n0.5 TA=-40\u00b0C\nTA=25\u00b0C\n0.4 TA=70\u00b0C\nForced PWM Operation TA=85\u00b0C\n0.3\n1.8 2.2 2.6 3 3.4 3.8 4.2 4.6 5\nInput Voltage [V]\nR =GND\nSET\nFigure33.MaximumOutputCurrentversusInputVoltage\nV =1.8V\nOUT: 1 VOUT=1.8V\nPFM/PWM Operation\n]zHM[\n0.1\nycneuqerF\n0.01\n0.001\nVIN=2.0V\ngnihctiwS\nVIN=2.5V\nVIN=3.0V\n0.0001\nVIN=3.6V\nVIN=4.2V\n0.00001 VIN=5.0V\nVIN=6.5V\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =GND\nSET\nFigure37.SwitchingFrequencyversusLoadCurrent\nV =1.8V\nOUT"
   },
   {
     "part_number": "TPS62840",
@@ -11195,20 +11104,6 @@
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 1 (page 23)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 23] 1 VOUT=3.3V\nPFM/PWM Operation\n]zHM[\n0.1\nycneuqerF\n0.01\n0.001\ngnihctiwS\n0.0001 VIN=3.6V\nVIN=4.2V\nVIN=5.0V\n0.00001 VIN=6.5V\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =267k\u03a9toGND\nSET\nFigure38.SwitchingFrequencyversusLoadCurrent\nV =3.3V\nOUT: 2.4 VOUT=3.3V\n2.2 Forced PWM Operation\n]zHM[ 2\n1.8\nycneuqerF 1.6\n1.4\n1.2\ngnihctiwS 1\n0.8\n0.6 VIN=3.6V\n0.4 VIN=4.2V\nVIN=5.0V\n0.2\nVIN=6.5V\n0 0.1 0.2 0.3 0.4 0.5 0.6 0.7\nLoad Current [A]\nR =267k\u03a9toGND\nSET\nFigure40.SwitchingFrequencyversusLoadCurrent\nV =3.3V\nOUT; 2.4 VOUT=1.8V\n2.2 Forced PWM Operation\n]zHM[ 2\n1.8\nycneuqerF 1.6\n1.4\n1.2\ngnihctiwS 1\n0.8\n0.6 VIN=2.0V VIN=4.2V\n0.4 VIN=2.5V VIN=5.0V\nVIN=3.0V VIN=6.5V\n0.2\nVIN=3.6V\n0 0.1 0.2 0.3 0.4 0.5 0.6 0.7\nLoad Current [A]\nR =GND\nSET\nFigure39.SwitchingFrequencyversusLoadCurrent\nV =1.8V\nOUT: 1\u00b5\nPFM Operation VOUT=0.8V\nNo Load VOUT=1.2V\nVOUT=1.8V\nVOUT=3.3V\n]A[\ntnerruC\ngnitarepO\n100n\ndaoL\noN\n10n\n1.5 2 2.5 3 3.5 4 4.5 5 5.5 6 6.5\nInput Voltage [V]\nFigure41.NoLoadOperatingCurrentversusInput\nVoltage"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 23,
-    "section": "Table 1 (page 23)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 23] 1 VOUT=3.3V\nPFM/PWM Operation\n]zHM[\n0.1\nycneuqerF\n0.01\n0.001\ngnihctiwS\n0.0001 VIN=3.6V\nVIN=4.2V\nVIN=5.0V\n0.00001 VIN=6.5V\n100n 1\u00b5 10\u00b5 100\u00b5 1m 10m 100m 1\nLoad Current [A]\nR =267k\u03a9toGND\nSET\nFigure38.SwitchingFrequencyversusLoadCurrent\nV =3.3V\nOUT: 10m\nVOUT=0.8V\nVOUT=1.8V\nVOUT=3.3V\n]A[\ntnerruC\ngnitarepO\n1m\ndaoL\noN\nForced PWM Operation\nNo Load\n100\u00b5\n1.5 2 2.5 3 3.5 4 4.5 5 5.5 6 6.5\nInput Voltage [V]\nFigure42.NoLoadOperatingCurrentversusInput\nVoltage; 2.4 VOUT=1.8V\n2.2 Forced PWM Operation\n]zHM[ 2\n1.8\nycneuqerF 1.6\n1.4\n1.2\ngnihctiwS 1\n0.8\n0.6 VIN=2.0V VIN=4.2V\n0.4 VIN=2.5V VIN=5.0V\nVIN=3.0V VIN=6.5V\n0.2\nVIN=3.6V\n0 0.1 0.2 0.3 0.4 0.5 0.6 0.7\nLoad Current [A]\nR =GND\nSET\nFigure39.SwitchingFrequencyversusLoadCurrent\nV =1.8V\nOUT: 1.802\n1.8016\n1.8012\n)V( 1.8008\negatloV 1.8004\n1.8\ntuptuO 1.7996\n1.7992\n1.7988 VIN = 3.3V VIN = 6.0V\n1.7984 VIN = 4.2V VIN = 6.5V\nVIN = 5.0V\n1.798\n0 0.15 0.3 0.45 0.6 0.75\nLoad Current [A]\nEN=VIN MODE=HIGH\nFigure43.OutputVoltageAccuracy(LoadRegulation)"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 23,
     "section": "Table 2 (page 23)",
     "type": "table_row",
     "content": "[TPS62840, table on page 23] OUT=: FM/P; 3.3V: WM"
@@ -11250,41 +11145,6 @@
   },
   {
     "part_number": "TPS62840",
-    "page_number": 24,
-    "section": "Table 1 (page 24)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 24] 1.8012\n1.8009\n1.8006\n1.8003\n)V(\n1.8\negatloV\n1.7997\n1.7994\ntuptuO\n1.7991\n1.7988\n1.7985 IOUT = 10\u00b5A IOUT = 10mA\nIOUT = 100\u00b5A IOUT = 100mA\n1.7982\nIOUT = 1mA IOUT = 200mA\n1.7979\n2 2.5 3 3.5 4 4.5 5 5.5 6 6.5\nInput Voltage (V)\nEN=VIN MODE=HIGH\nFigure44.OutputVoltageAccuracy(LineRegulation): V =1.8V I =10mA\nOUT OUT\nMODE=HIGH\nFigure46.OutputVoltageRipple,PWMOperation; V =1.8V I =10mA\nOUT OUT\nFigure45.OutputVoltageRipple,PFMOperation: V =1.8V V =2.5Vto6.5V\nOUT IN\nrise/falltime=20\u00b5s I =10mA\nOUT\nFigure47.LineTransientPFMMode"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 24,
-    "section": "Table 1 (page 24)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 24] 1.8012\n1.8009\n1.8006\n1.8003\n)V(\n1.8\negatloV\n1.7997\n1.7994\ntuptuO\n1.7991\n1.7988\n1.7985 IOUT = 10\u00b5A IOUT = 10mA\nIOUT = 100\u00b5A IOUT = 100mA\n1.7982\nIOUT = 1mA IOUT = 200mA\n1.7979\n2 2.5 3 3.5 4 4.5 5 5.5 6 6.5\nInput Voltage (V)\nEN=VIN MODE=HIGH\nFigure44.OutputVoltageAccuracy(LineRegulation): V =1.8V V =2.5Vto6.5V\nOUT IN\nrise/falltime=20\u00b5s I =500mA\nOUT\nFigure48.LineTransientPWMMode; V =1.8V I =10mA\nOUT OUT\nFigure45.OutputVoltageRipple,PFMOperation: V =1.8V V =3.6V\nOUT IN\nrise/falltime<1\u00b5s I =125\u00b5Ato50mA\nOUT\nFigure49.LoadTransientPFMMode"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 25,
-    "section": "Table 1 (page 25)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 25] V =1.8V V =3.6V\nOUT IN\nrise/falltime<1\u00b5s I =125mAto375mA\nOUT\nFigure50.LoadTransientPFM/PWMMode: V =3.3V V =3.6V\nOUT IN\nrise/falltime<1\u00b5s I =75\u00b5Ato50mA\nOUT\nFigure52.LoadTransientPFMMode; V =1.8V V =3.6V\nOUT IN\nrise/falltime<1\u00b5s I =0Ato100mA\nOUT\nFigure51.LoadTransientPWMModefromNoload: V =3.3V V =3.1Vto3.6V\nOUT IN\nI =50mA\nOUT\nFigure53.100%ModeEntry/ExitOperation"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 25,
-    "section": "Table 1 (page 25)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 25] V =1.8V V =3.6V\nOUT IN\nrise/falltime<1\u00b5s I =125mAto375mA\nOUT\nFigure50.LoadTransientPFM/PWMMode: V =1.8V V =3.6V\nOUT IN\nTurnedonbyENinput I =0mA\nOUT\nFigure54.Start-up/ShutdownintoNoLoad; V =1.8V V =3.6V\nOUT IN\nrise/falltime<1\u00b5s I =0Ato100mA\nOUT\nFigure51.LoadTransientPWMModefromNoload: V =1.8V V =3.6V\nOUT IN\nTurnedonbyENinput I =400mA\nOUT\nR =4.5\u03a9\nLOAD\nFigure55.Start-up/ShutdownintoLoad"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 26,
-    "section": "Table 1 (page 26)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 26] V =1.8V EN=V\nOUT IN\nV risingfrom0Vto3.6V I =0mA\nIN OUT\nFigure56.Start-up/ShutdownintoNoLoad: V =1.8V V =3.6V\nOUT IN\nPFMOperation I =10mA\nOUT\nFigure58.STOPModeOperation; V =3.3V V =3.6V\nOUT IN\nTurnedonbyENinput I =0mA\nOUT\nFigure57.Start-up/ShutdownintoNoLoad: V =1.8V V =3.6V\nOUT IN\nPWMOperation I =10mA\nOUT\nFigure59.STOPModeOperation"
-  },
-  {
-    "part_number": "TPS62840",
     "page_number": 27,
     "section": "Table 1 (page 27)",
     "type": "table_row",
@@ -11296,13 +11156,6 @@
     "section": "Table 2 (page 27)",
     "type": "table_row",
     "content": "[TPS62840, table on page 27] Audio Amplifier: Audio Codec"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 28,
-    "section": "Table 1 (page 28)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 28] SLVSEC6D\u2013JUNE2019\u2013REVISEDMARCH2020 www.ti.com\n10 Power Supply Recommendations\nThepowersupplymustprovideacurrentratingaccordingtothesupplyvoltage,outputvoltage,andoutput\ncurrentoftheTPS62840.\n11 Layout\n11.1 Layout Guidelines\nThe TPS62840 pinout has been optimized to enable a single layer PCB routing of the device and its critical\npassivecomponentssuchasC ,C ,andL.\nIN OUT\n\u2022 As for all switching power supplies, the layout is an important step in the design. Care must be taken in board\nlayouttogetthespecifiedperformance.\n\u2022 It is critical to provide a low inductance, low impedance ground path. Therefore, use wide and short traces for: themaincurrentpaths.\n\u2022 The input capacitor must be placed as close as possible to the VIN and GND pins of the device. This is the\nmostcriticalcomponentplacement.\n\u2022 The VOS line is a sensitive, high impedance line and must be connected to the output capacitor and routed\nawayfromnoisycomponentsandtraces(forexample,theSWline)orothernoisesources.\n11.2 Layout Example\nGND V\nOUT\nC\nOUT\nNI L\nC\nIC\nMODE\nV\nIN\nR STOP\nSET\nEN\nGND\nFigure61. RecommendedPCBLayout\nDLCPackage\nGND\nV\nOUT\nC\nOUT\nIC L\nNI\nC\nV R\nSET\nIN\nEN\nGND\nFigure62. RecommendedPCBLayout\nYBGPackage\n28 SubmitDocumentationFeedback Copyright\u00a92019\u20132020,TexasInstrumentsIncorporated"
   },
   {
     "part_number": "TPS62840",

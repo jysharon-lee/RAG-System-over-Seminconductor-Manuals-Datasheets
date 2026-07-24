@@ -6847,13 +6847,6 @@
   },
   {
     "part_number": "LM2596",
-    "page_number": 4,
-    "section": "Table 1 (page 4)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 4] PIN: 5; I/O: I; DESCRIPTION: Allows the switching regulator circuit to be shut down using logic signals thus dropping\nthe total input supply current to approximately 80 \u00b5A. Pulling this pin below a threshold\nvoltage of approximately 1.3 V turns the regulator on, and pulling this pin above 1.3 V (up\nto a maximum of 25 V) shuts the regulator down. If this shutdown feature is not required,\nthe ON/OFF pin can be wired to the ground pin or it can be left open. In either case, the\nregulator will be in the ON condition."
-  },
-  {
-    "part_number": "LM2596",
     "page_number": 5,
     "section": "Table 1 (page 5)",
     "type": "table_row",
@@ -7901,111 +7894,6 @@
     "section": "Table 2 (page 34)",
     "type": "table_row",
     "content": "[LM2596, table on page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): PCB"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-12/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -; Part marking\n(6): LM2596S\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-12/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-3.3/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -; Part marking\n(6): LM2596S\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-3.3/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-5.0/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -; Part marking\n(6): LM2596S\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-5.0/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-ADJ/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-ADJ P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596S-ADJ/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-ADJ P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-12/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -; Part marking\n(6): LM2596S\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-12/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-3.3/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -; Part marking\n(6): LM2596S\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-3.3/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-5.0/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -; Part marking\n(6): LM2596S\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-5.0/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 37,
-    "section": "Table 1 (page 37)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 37] Orderable part number: LM2596SX-ADJ/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak reflow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596S\n-ADJ P+"
   },
   {
     "part_number": "LM2596",

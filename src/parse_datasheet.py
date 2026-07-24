@@ -27,6 +27,44 @@ from pathlib import Path
 
 import fitz  # PyMuPDF
 import pdfplumber
+import wordninja
+
+# Some datasheet PDFs (notably TI's newer template) embed table-cell text
+# with no space characters between words at all - pdfplumber's cell-text
+# reconstruction then produces "PARTNUMBER" instead of "PART NUMBER". General
+# dictionary-based word segmentation (wordninja) fixes most of this, but it
+# doesn't know semiconductor-specific acronyms and will wrongly split them
+# (e.g. "PWM" -> "PW M"). This protected list is checked first so acronyms
+# survive intact; wordninja only runs on the text between them. Kept to 3+
+# letter terms - 2-letter acronyms (EN, FB, IC, SW) are too likely to
+# collide with ordinary English substrings (e.g. "IC" inside "METRIC").
+PROTECTED_ACRONYMS = sorted({
+    "GND", "PGND", "VBAT", "VOUT", "VIN", "LBI", "LBO", "SYNC",
+    "IOUT", "TJA", "TSTG", "PWM", "ESD", "ROHS", "LDO", "ADJ", "CADJ", "MSL",
+    "SPQ", "NOPB", "QFN", "TSSOP", "HTSSOP", "DGR", "YBG", "DLC", "E96",
+    "E24", "IQ", "VFB", "VIH", "VIL", "SON", "DCY", "KTT", "KCT", "KCS",
+    "PWP", "RSA",
+}, key=len, reverse=True)
+
+_PROTECTED_SET = set(PROTECTED_ACRONYMS)
+_PROTECTED_SPLIT = re.compile("(" + "|".join(re.escape(t) for t in PROTECTED_ACRONYMS) + ")")
+_LONG_ALPHA_RUN = re.compile(r"[A-Za-z]{6,}")
+
+
+def _segment_run(run: str) -> str:
+    parts = _PROTECTED_SPLIT.split(run)
+    out = []
+    for part in parts:
+        if not part:
+            continue
+        out.append(part if part in _PROTECTED_SET else " ".join(wordninja.split(part)))
+    return " ".join(out)
+
+
+def desegment_cell(text: str) -> str:
+    """Insert spaces into concatenated table-cell text, e.g. 'PARTNUMBER'
+    -> 'PART NUMBER', while keeping known pin/package acronyms intact."""
+    return _LONG_ALPHA_RUN.sub(lambda m: _segment_run(m.group(0)), text)
 
 # Common datasheet section headers - extend this list as you see more
 # real datasheets; manufacturers are fairly consistent about these, but TI
@@ -238,9 +276,9 @@ def extract_table_chunks(pdf_path: Path, part_number: str):
                 if not table or len(table) < 2:
                     continue
 
-                header = [str(h).strip() if h else "" for h in table[0]]
+                header = [desegment_cell(str(h).strip()) if h else "" for h in table[0]]
                 for row in table[1:]:
-                    row = [str(c).strip() if c else "" for c in row]
+                    row = [desegment_cell(str(c).strip()) if c else "" for c in row]
                     if not any(row):
                         continue
 

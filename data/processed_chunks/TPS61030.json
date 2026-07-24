@@ -6729,20 +6729,6 @@
   {
     "part_number": "TPS61030",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 7] 100\n90\n80\n70\n% 60\n-\ny\nn c 50\ne\nci\nEffi 40\n30\n20\n10\n0\n1 10 100 1000 10000\nIO-Output Current-mA\nV =2.5V V =1.8V\nO I\nFigure3.TPS61030EfficiencyvsOutputCurrent: 100\n90\nVBAT= 2.4 V\n80\nVBAT= 3.3 V\n70\n%\n60\n-\ny\nn c 50\ne\nci\nEffi 40\n30\n20\n10\n0\n1 10 100 1000 10000\nIO-Output Current-mA\nV =5V\nO\nFigure5.Tps61032EfficiencyvsOutputCurrent; 100\n90\nVBAT= 1.8 V\n80\nVBAT= 2.4 V\n70\n%\n60\n-\ny\nn c 50\ne\nci\nEffi 40\n30\n20\n10\n0\n1 10 100 1000 10000\nIO-Output Current-mA\nV =3.3V\nO\nFigure4.TPS61031EfficiencyvsOutputCurrent: 100\nIO= 100 mA\n90 IO= 1000 mA\nIO= 10 mA\n% 80\n-\ny\nc\nn\ne\nci\nEffi 70\n60\n50\n1.8 2 2.2 2.4 2.6 2.8 3 3.2\nVI-Input Voltage-V\nFigure6.TPS61031EfficiencyvsInputVoltage"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "Table 1 (page 7)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 7] 100\n90\n80\n70\n% 60\n-\ny\nn c 50\ne\nci\nEffi 40\n30\n20\n10\n0\n1 10 100 1000 10000\nIO-Output Current-mA\nV =2.5V V =1.8V\nO I\nFigure3.TPS61030EfficiencyvsOutputCurrent: 100\nIO= 100 mA\n95\n90\nIO= 10 mA\n85\n% 80 IO= 1000 mA\n-\ny\nn c 75\ne\nci\nEffi 70\n65\n60\n55\n50\n1.8 2.2 2.6 3 3.4 3.8 4.2 4.6 5\nVI-Input Voltage-V\nFigure7.TPS61032EfficiencyvsInputVoltage; 100\n90\nVBAT= 1.8 V\n80\nVBAT= 2.4 V\n70\n%\n60\n-\ny\nn c 50\ne\nci\nEffi 40\n30\n20\n10\n0\n1 10 100 1000 10000\nIO-Output Current-mA\nV =3.3V\nO\nFigure4.TPS61031EfficiencyvsOutputCurrent: 3.4\n3.35\nV\n-\ne\ng\na\nolt\nV 3.3\nut\np\nut\nO\n-\nO\nV 3.25\n3.2\n1 10 100 1000 10000\nIO-Output Current-mA\nVBAT=2.4V\nFigure8.TPS61031OutputVoltagevsOutputCurrent"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
     "section": "Table 6 (page 7)",
     "type": "table_row",
     "content": "[TPS61030, table on page 7] IO= 10: IO"
@@ -6760,13 +6746,6 @@
     "section": "Table 6 (page 7)",
     "type": "table_row",
     "content": "[TPS61030, table on page 7] IO= 10: IO= 1; 0 mA: 000 mA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 8,
-    "section": "Table 1 (page 8)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 8] 5.2\n5.15\n5.1\nV\n-\ng e 5.05\na\nolt\nut V 5\np\nut\nO 4.95\n-\nO\nV 4.9\n4.85\n4.8\n1 10 100 1000 10000\nIO-Output Current-mA\nVBAT=3.3V\nFigure9.TPS61032OutputVoltage\nvsOutputCurrent: 14\n85\u00b0C\nA\n\u00b5 - 12 25\u00b0C\nT\nU\nV O 10 \u201340\u00b0C\no\nnt\nI\nnt 8\ne\nurr\nC\n6\ny\npl\np\nu\nS 4\nd\na\no\nL\no- 2\nN\n0\n2 3 4 5\nVI-Input Voltage-V\nFigure11.TPS61032No-LoadSupplyCurrentIntoVout\nvsInputVoltage; 16\nA 14 85\u00b0C\n\u00b5\nT - A 12 25\u00b0C\nB\nV \u201340\u00b0C\nnt o 10\nI\nnt\nurr e 8\nC\npl y 6\np\nu\nS\nd 4\na\no\nL\no- 2\nN\n0\n2 3 4 5\nVI-Input Voltage-V\nFigure10.TPS61032No-LoadSupplyCurrentintoVbat\nvsinputVoltage: 14\n\u03a9\n12\n-\np\nu\nart\nSt 10\nat\ne\nn c 8\na\nst\nsi\nR e 6\nd\na\no\nL 4\nm\nu\nm\nni 2\nMi\n0\n1.8 2.2 2.6 3 3.4 3.8 4.2 4.6 5\nVI -Input Voltage-V\nFigure12.MinimumLoadResistanceatStart-Up\nvsInputVoltage"
   },
   {
     "part_number": "TPS61030",
@@ -6910,38 +6889,10 @@
   },
   {
     "part_number": "TPS61030",
-    "page_number": 15,
-    "section": "Table 1 (page 15)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 15] Output Voltage\n20 mV/Div\nInductor Current\n200 mA/Div\nTimebase-1ms/Div\nV =3.3V R =5\u03a9\nI L\nFigure14.TPS61030OutputVoltageinContinuousMode: Output Current\n500 mA/Div, DC\nOutput Voltage\n50 mV/Div,AC\nTimebase-2 ms/Div\nV =2.5V I =80mAto800mA\nI L\nFigure16.TPS61030LoadTransientResponse; Output Voltage\n50 mV/Div,AC\nInductor Current\n200 mA/Div, DC\nTimebase-200ms/Div\nV =3.3V R =100\u03a9\nI L\nFigure15.TPS61030OutputVoltageinPowerSaveMode: Input Voltage\n500 mV/Div, DC\nOutput Voltage\n20 mV/Div,AC\nTimebase-2 ms/Div\nV =2.2Vto2.7V R =50\u03a9\nI L\nFigure17.TPS61030LineTransientResponse"
-  },
-  {
-    "part_number": "TPS61030",
     "page_number": 16,
     "section": "Table 1 (page 16)",
     "type": "table_row",
     "content": "[TPS61030, table on page 16] VOUT: SW\nVBAT\nEN FB\nLBI\nSYNC\nLBO\nGND PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Table 1 (page 19)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 19] PARTS: TPS61030; PRODUCTFOLDER: Clickhere; SAMPLE&BUY: Clickhere; TECHNICAL\nDOCUMENTS: Clickhere; TOOLS&\nSOFTWARE: Clickhere; SUPPORT&\nCOMMUNITY: Clickhere"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Table 1 (page 19)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 19] PARTS: TPS61031; PRODUCTFOLDER: Clickhere; SAMPLE&BUY: Clickhere; TECHNICAL\nDOCUMENTS: Clickhere; TOOLS&\nSOFTWARE: Clickhere; SUPPORT&\nCOMMUNITY: Clickhere"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 19,
-    "section": "Table 1 (page 19)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 19] PARTS: TPS61032; PRODUCTFOLDER: Clickhere; SAMPLE&BUY: Clickhere; TECHNICAL\nDOCUMENTS: Clickhere; TOOLS&\nSOFTWARE: Clickhere; SUPPORT&\nCOMMUNITY: Clickhere"
   },
   {
     "part_number": "TPS61030",
@@ -6970,13 +6921,6 @@
     "section": "Table 1 (page 20)",
     "type": "table_row",
     "content": "[TPS61030, table on page 20] Orderable part number: TPS61030PWPR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: HTSSOP (PWP) | 16; Package qty | Carrier: 2000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): NIPDAU; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): PS61030"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 20] Orderable part number: TPS61030PWPR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: HTSSOP (PWP) | 16; Package qty | Carrier: 2000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): NIPDAU; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): PS61030"
   },
   {
     "part_number": "TPS61030",
@@ -7032,35 +6976,7 @@
     "page_number": 20,
     "section": "Table 1 (page 20)",
     "type": "table_row",
-    "content": "[TPS61030, table on page 20] Orderable part number: TPS61031PWPR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: HTSSOP (PWP) | 16; Package qty | Carrier: 2000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): NIPDAU; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): PS61031"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 20] Orderable part number: TPS61031RSAR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: QFN (RSA) | 16; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): Call TI | Nipdau; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): TPS6\n1031"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 20] Orderable part number: TPS61031RSAR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: QFN (RSA) | 16; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): Call TI; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): TPS6\n1031"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
     "content": "[TPS61030, table on page 20] Orderable part number: TPS61031RSARG4; Status\n(1): Active; Material type\n(2): Production; Package | Pins: QFN (RSA) | 16; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): NIPDAU; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): TPS6\n1031"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 20,
-    "section": "Table 1 (page 20)",
-    "type": "table_row",
-    "content": "[TPS61030, table on page 20] Orderable part number: TPS61031RSARG4.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: QFN (RSA) | 16; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): NIPDAU; MSL rating/\nPeak reflow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): -40 to 125; Part marking\n(6): TPS6\n1031"
   },
   {
     "part_number": "TPS61030",
