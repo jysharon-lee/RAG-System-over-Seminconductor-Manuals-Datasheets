@@ -94,16 +94,21 @@ def is_noise(text: str) -> bool:
 BARE_NUMBER_LINE = re.compile(r"^\d+(?:\.\d+)*$")
 
 
+TOC_DOT_LEADER = re.compile(r"\.{2,}")
+
+
 def _is_real_header(candidate: str) -> bool:
     """Check candidate text against the section regex, rejecting sentences
     that merely start with a section title word (e.g. "Specifications are
-    for TJ=25C...") rather than being an actual heading."""
+    for TJ=25C...") rather than being an actual heading, and Table of
+    Contents dot-leader lines (e.g. "Device Support..........35")."""
     match = SECTION_REGEX.search(candidate)
     if not match or len(candidate) >= 80:
         return False
     trailing = candidate[match.end():].strip()
     looks_like_sentence = trailing and trailing[0].islower()
-    return not looks_like_sentence
+    looks_like_toc_entry = bool(TOC_DOT_LEADER.search(trailing))
+    return not (looks_like_sentence or looks_like_toc_entry)
 
 
 def extract_text_chunks(pdf_path: Path, part_number: str):
